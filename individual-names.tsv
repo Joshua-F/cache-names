@@ -1116,6 +1116,9 @@
 [clientscript,deadman_finallocation]
 [clientscript,deadman_lootall]
 [clientscript,deadman_lootall_end]
+[clientscript,deadman_sigils_draw]
+[clientscript,deadman_sigils_init]
+[clientscript,deadman_sigils_reviewsize]
 [clientscript,deadman_spectator_double]
 [clientscript,deadman_spectator_enable]
 [clientscript,deadman_spectator_map]
@@ -2099,6 +2102,7 @@
 [clientscript,raids_storage_side_reorder]
 [clientscript,raids_storage_side_setup]
 [clientscript,rareitems_diango]
+[clientscript,rareitems_diango_update]
 [clientscript,rebuildchatbox]
 [clientscript,recurring_membership]
 [clientscript,reportabuse_graphic_mouseleave]
@@ -2295,6 +2299,7 @@
 [clientscript,soulbearer_repair]
 [clientscript,soulbearer_repair_update]
 [clientscript,sound_synth]
+[clientscript,spec_regen_arc]
 [clientscript,spec_regen_timer]
 [clientscript,spinmodel]
 [clientscript,spinner]
@@ -2840,6 +2845,8 @@
 [proc,ca_bosses_draw_list]
 [proc,ca_create_dropdown]
 [proc,ca_overview_create_personal]
+[proc,ca_overview_create_personal_stat]
+[proc,ca_overview_create_tiers]
 [proc,ca_overview_draw_interface]
 [proc,ca_rewards_tiers_init]
 [proc,ca_searchbar_create]
@@ -2847,6 +2854,7 @@
 [proc,ca_searchbar_setup_op]
 [proc,ca_setup_display_hoverdisable]
 [proc,ca_setup_display_hoveroff]
+[proc,ca_setup_progress_bar]
 [proc,ca_specific_killcount]
 [proc,ca_specific_taskcount]
 [proc,ca_task_display]
@@ -3049,6 +3057,9 @@
 [proc,deadman_mode]
 [proc,deadman_overlay_hide]
 [proc,deadman_restricted_item]
+[proc,deadman_sigils_buildoffer]
+[proc,deadman_sigils_buildslot]
+[proc,deadman_sigils_draw]
 [proc,deadman_skullduration]
 [proc,deadman_spectator_chat]
 [proc,deadman_spectator_inventory]
@@ -3457,6 +3468,7 @@
 [proc,nightmare_totem_hud_pos]
 [proc,nightmare_totem_hud_update]
 [proc,nightmare_totem_hud_update_bar]
+[proc,nosavegame_world]
 [proc,notification_init]
 [proc,notification_positioning]
 [proc,notifications_lootdrop_redraw]
@@ -3700,6 +3712,7 @@
 [proc,rebuildpmbox]
 [proc,recurring_membership]
 [proc,redraw_chat_buttons]
+[proc,rental_world]
 [proc,rgb_to_hex]
 [proc,roguetrader_draw_frames]
 [proc,roguetrader_draw_game]
@@ -3936,6 +3949,7 @@
 [proc,spectator_keypress]
 [proc,standard_autocast_spellpos]
 [proc,start_slideshow]
+[proc,stat_boosts_hud_debug_mes]
 [proc,stat_f2plevel]
 [proc,stat_totallevel]
 [proc,stats_setlevels]
@@ -4610,6 +4624,8 @@ icon_heart
 icon_helmet
 icon_holy
 icon_hunter
+icon_iron_standard
+icon_iron_ultimate
 icon_ring
 icon_robin
 icon_rose
