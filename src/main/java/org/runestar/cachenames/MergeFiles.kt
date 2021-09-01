@@ -202,6 +202,9 @@ fun main() {
         "chat_tab_button,$x".add()
         "chat_type_icon,$x".add()
         "account_icons,$x".add()
+        "deadman_sigil_icons,$x".add()
+        "deadman_sigil_icons_tli,$x".add()
+        "deadman_sigil_skulls,$x".add()
     }
 
     knownNames.remove("l16_186")
