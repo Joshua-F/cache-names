@@ -207,6 +207,7 @@ fun main() {
         "deadman_sigil_skulls,$x".add()
         "ca_progress_bar,$x".add()
         "ca_tier_swords,$x".add()
+        "god_wars_icons,$x".add()
     }
 
     knownNames.remove("l16_186")
