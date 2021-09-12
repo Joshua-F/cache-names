@@ -4505,6 +4505,7 @@ fire and brimstone
 fishing
 fixed_compass_mask
 fixed_map_clickmask
+fixed_map_clickmask_wiki
 fixed_map_mask
 fixed_minimap_cover
 floating free
@@ -4927,6 +4928,7 @@ reggae2
 rellekka
 resize_compass_mask
 resize_map_clickmask
+resize_map_clickmask_bond
 resize_map_mask
 rest_in_peace
 revenants
