@@ -10390,7 +10390,7 @@
 12	230	-1	1277695737	[clientscript,makeover_clothes_setup]
 12	231	-1	-1299963017	[proc,scrollbar_vertical_rebuild]
 12	232	-1	152472829	[clientscript,league_rewards_init]
-12	233	-1	-1437766665	
+12	233	-1	-1437766665	[clientscript,motw_setmodel]
 12	234	-1	-1920963471	[proc,fake_runes_enabled]
 12	235	-1	-28890601	[clientscript,autocast_init]
 12	236	-1	349024667	[clientscript,autocast_spellhighlight]
@@ -10546,7 +10546,7 @@
 12	386	-1	1966567230	[proc,pvp_icons_layout]
 12	387	-1	-1787683848	[proc,pvp_icons_comlevelrange]
 12	388	-1	669337916	[clientscript,pvp_icons_wildernesslevel]
-12	389	-1	387955343	
+12	389	-1	387955343	[proc,settings_store_button_desktop]
 12	390	-1	-932279572	[clientscript,combat_wilderness_transmit]
 12	391	-1	2081697098	[clientscript,poh_options_doors]
 12	392	-1	1813096578	[clientscript,steelbox]
@@ -10686,8 +10686,8 @@
 12	526	-1	-235616460	[clientscript,tooltip_mouserepeat]
 12	527	-1	-1692818323	[proc,settings_colour_input_update]
 12	528	-1	512645079	[proc,settings_buff_corruption]
-12	529	-1	52925999	
-12	530	-1	-1487347113	
+12	529	-1	52925999	[proc,settings_buff_mark_of_darkness]
+12	530	-1	-1487347113	[proc,settings_buff_shadow_veil]
 12	531	-1	1321326204	
 12	532	-1	1636266467	
 12	533	-1	-2033868934	
@@ -11026,7 +11026,7 @@
 12	866	-1	391063252	
 12	867	-1	879285018	[clientscript,tutorial_progressbar_set]
 12	868	-1	952762228	
-12	869	-1	1746773779	
+12	869	-1	1746773779	[proc,settings_buff_death_charge]
 12	870	-1	-1882677425	[clientscript,model_dynamiczoom_init]
 12	871	-1	1056564412	[clientscript,model_dynamiczoom]
 12	872	-1	-2120026436	[proc,model_dynamiczoom]
@@ -11505,7 +11505,7 @@
 12	1345	-1	235963047	[clientscript,br_fogcolour]
 12	1346	-1	109326503	[proc,br_fogcolour]
 12	1347	-1	1711745137	[clientscript,br_hud_init]
-12	1348	-1	694123021	
+12	1348	-1	694123021	[proc,settings_buff_ward_of_arceuus]
 12	1349	-1	-1034637013	[proc,settings_buff_resurrection]
 12	1350	-1	46545235	[clientscript,questlist_init]
 12	1351	-1	-293017406	[proc,questlist_sectioninit]
@@ -13259,7 +13259,7 @@
 12	3099	-1	-976634410	[clientscript,canoe_map_init]
 12	3100	-1	-408135818	[proc,canoe_location_setup]
 12	3101	-1	2089742999	[clientscript,canoe_location_hover]
-12	3102	-1	-1647890964	
+12	3102	-1	-1647890964	[proc,canoe_location_you_are_here]
 12	3103	-1	-646792887	[proc,canoe_get_state]
 12	3104	-1	1672003162	[proc,canoe_return_locations]
 12	3105	-1	-152835718	[proc,canoe_paddle_log]
@@ -13455,7 +13455,7 @@
 12	3295	-1	295189795	[clientscript,boardgames_runeversi_options_init]
 12	3296	-1	297462346	[clientscript,boardgames_runeversi_options_update_selections]
 12	3297	-1	2049912654	[proc,wiki_icon_enabled]
-12	3298	-1	-135567857	
+12	3298	-1	-135567857	[clientscript,wiki_entity_lookup_target]
 12	3299	-1	-2016576702	[proc,wiki_chat_search]
 12	3300	-1	-1463938513	[clientscript,wiki_lookup]
 12	3301	-1	471639087	[proc,wiki_lookup]
@@ -13915,11 +13915,11 @@
 12	3755	-1	-985928862	
 12	3756	-1	-828285136	
 12	3757	-1	1499614526	
-12	3758	-1	-419999271	
-12	3759	-1	849171182	
+12	3758	-1	-419999271	[proc,recipe_for_disaster_button]
+12	3759	-1	849171182	[clientscript,recipe_for_disaster_animate]
 12	3760	-1	1722931478	
 12	3761	-1	-995504435	
-12	3762	-1	-864388598	
+12	3762	-1	-864388598	[clientscript,recipe_for_disaster_op]
 12	3763	-1	-2059838897	[clientscript,friendschat_op]
 12	3764	-1	-1582810174	[proc,friendschat_sendkick]
 12	3765	-1	-677559421	[clientscript,chatchannel_login]
@@ -14129,18 +14129,18 @@
 12	3969	-1	1558721106	[proc,settings_clicked_button]
 12	3970	-1	-1461106777	
 12	3971	-1	697016750	
-12	3972	-1	314995062	
+12	3972	-1	314995062	[proc,settings_music_unlock_message]
 12	3973	-1	1640105285	[proc,settings_hitsplat_tinting]
 12	3974	-1	-997338635	[proc,settings_wiki_lookup]
 12	3975	-1	-200509899	[proc,settings_data_orbs]
-12	3976	-1	-1957081345	
+12	3976	-1	-1957081345	[proc,settings_resizable_transparent_side_panel]
 12	3977	-1	2093273330	
 12	3978	-1	-1771272844	
 12	3979	-1	560775158	[proc,settings_special_attack_bar_tooltip]
 12	3980	-1	-1765090859	
 12	3981	-1	563316819	
 12	3982	-1	-1609810720	
-12	3983	-1	1070337921	
+12	3983	-1	1070337921	[proc,settings_show_chat_effects]
 12	3984	-1	261432675	[proc,settings_split_private_chat]
 12	3985	-1	311926445	[proc,settings_hide_private_chat]
 12	3986	-1	978632589	[proc,settings_profanity_filter]
@@ -14153,12 +14153,12 @@
 12	3993	-1	959623309	
 12	3994	-1	467177189	[proc,settings_function_button]
 12	3995	-1	135545005	
-12	3996	-1	287623979	
+12	3996	-1	287623979	[proc,settings_escape_closes_interface]
 12	3997	-1	97365626	[clientscript,boardgames_runesquares_options_update_rune]
 12	3998	-1	-120847097	[clientscript,settings_client_mode]
 12	3999	-1	723311738	[proc,boardgames_runesquares_options_update_rune]
 12	4000	-1	98854215	[clientscript,boardgames_runesquares_options_update_time]
-12	4001	-1	-1884441576	
+12	4001	-1	-1884441576	[proc,settings_warning_teleport_to_target]
 12	4002	-1	-1681648635	[proc,settings_warning_dareeyak_teleport]
 12	4003	-1	724800327	[proc,boardgames_runesquares_options_update_time]
 12	4004	-1	2140430055	[proc,settings_warning_annakarl_teleport]
@@ -14173,7 +14173,7 @@
 12	4013	-1	-569361787	[proc,settings_warning_ghorrock_tablet]
 12	4014	-1	-1605068168	[proc,settings_loot_drop_notification]
 12	4015	-1	-1523671159	[proc,settings_drop_item_warnings]
-12	4016	-1	-766696746	
+12	4016	-1	-766696746	[proc,settings_untradeable_loot_notification]
 12	4017	-1	569154067	
 12	4018	-1	153502199	[proc,settings_accept_aid]
 12	4019	-1	-1254515127	[proc,boardgames_runesquares_options_update_ranked]
@@ -14704,20 +14704,20 @@
 12	4544	-1	-1498487291	
 12	4545	-1	-1498484557	
 12	4546	-1	-1497711702	
-12	4547	-1	50533661	
-12	4548	-1	2073673795	
-12	4549	-1	2018980537	
-12	4550	-1	833515420	
-12	4551	-1	1464802798	
-12	4552	-1	-1196393567	
-12	4553	-1	609120996	
+12	4547	-1	50533661	[proc,fishing_spot_indicator_setup]
+12	4548	-1	2073673795	[clientscript,fishing_spot_indicator_vartransmit]
+12	4549	-1	2018980537	[clientscript,fishing_spot_indicator_invtransmit]
+12	4550	-1	833515420	[clientscript,fishing_spot_indicator_stattransmit]
+12	4551	-1	1464802798	[clientscript,fishing_spot_indicator_mouseleave]
+12	4552	-1	-1196393567	[clientscript,fishing_spot_indicator_mouseover]
+12	4553	-1	609120996	[proc,fishing_spot_indicator_create]
 12	4554	-1	-1624129662	
 12	4555	-1	1525656938	
 12	4556	-1	2000814957	
-12	4557	-1	-2100934378	
+12	4557	-1	-2100934378	[proc,fishing_spot_indicator_tools_check]
 12	4558	-1	793303117	
-12	4559	-1	-1716246348	
-12	4560	-1	1543060148	
+12	4559	-1	-1716246348	[clientscript,fishing_spot_indicator_tile_setup]
+12	4560	-1	1543060148	[proc,fishing_spot_indicator_tile_setup]
 12	4561	-1	-268091634	[proc,welcome_screen_toggle]
 12	4562	-1	-1679197251	
 12	4563	-1	1784868172	
@@ -14735,8 +14735,8 @@
 12	4575	-1	1943289352	[clientscript,settings_side_dropdown_hover]
 12	4576	-1	2141389947	
 12	4577	-1	-366440769	[proc,settings_toggle_roof]
-12	4578	-1	-1678694369	
-12	4579	-1	1422676719	
+12	4578	-1	-1678694369	[proc,settings_boss_health_overlay]
+12	4579	-1	1422676719	[proc,settings_standard_health_overlay]
 12	4580	-1	-563376798	[proc,settings_attack_style]
 12	4581	-1	-1761895610	[proc,settings_mouseover_tooltips]
 12	4582	-1	1086183177	[proc,settings_mouseover_text]
@@ -14751,30 +14751,30 @@
 12	4591	-1	-523119855	[proc,settings_buff_bar_tooltip]
 12	4592	-1	-1437456924	[proc,settings_buff_leagues]
 12	4593	-1	1412979741	[proc,settings_buff_home_teleport]
-12	4594	-1	2138114567	
+12	4594	-1	2138114567	[proc,settings_buff_minigame_teleport]
 12	4595	-1	-310304763	[proc,settings_buff_teleblock]
-12	4596	-1	-1021756971	
-12	4597	-1	1557139238	
-12	4598	-1	-1213622105	
-12	4599	-1	-1559006053	
-12	4600	-1	-1951762604	
-12	4601	-1	1209093017	
-12	4602	-1	-554549586	
-12	4603	-1	1628145099	
-12	4604	-1	1336234607	
-12	4605	-1	-1462447301	
-12	4606	-1	1759237615	
-12	4607	-1	-308362292	
-12	4608	-1	441077633	
-12	4609	-1	1289368994	
-12	4610	-1	1318917581	
-12	4611	-1	-112684833	
+12	4596	-1	-1021756971	[proc,settings_buff_charge_spell]
+12	4597	-1	1557139238	[proc,settings_buff_godwars_altar]
+12	4598	-1	-1213622105	[proc,settings_buff_dragonfire_shield_cooldown]
+12	4599	-1	-1559006053	[proc,settings_buff_imbued_heart_cooldown]
+12	4600	-1	-1951762604	[proc,settings_buff_vengeance_cooldown]
+12	4601	-1	1209093017	[proc,settings_buff_vengeance_active]
+12	4602	-1	-554549586	[proc,settings_buff_stamina_duration]
+12	4603	-1	1628145099	[proc,settings_buff_prayer_enhance_duration]
+12	4604	-1	1336234607	[proc,settings_buff_overload_duration]
+12	4605	-1	-1462447301	[proc,settings_buff_magic_imbue_duration]
+12	4606	-1	1759237615	[proc,settings_buff_sire_stun_duration]
+12	4607	-1	-308362292	[proc,settings_buff_freeze_duration]
+12	4608	-1	441077633	[proc,settings_buff_sotd_duration]
+12	4609	-1	1289368994	[proc,settings_buff_divine_potion_duration]
+12	4610	-1	1318917581	[proc,settings_buff_antifire_duration]
+12	4611	-1	-112684833	[proc,settings_buff_antipoison_duration]
 12	4612	-1	-124917087	
 12	4613	-1	1373995143	
 12	4614	-1	-889292960	
-12	4615	-1	1396011769	
-12	4616	-1	1035850181	
-12	4617	-1	2053792709	
+12	4615	-1	1396011769	[proc,settings_always_on_top]
+12	4616	-1	1035850181	[clientscript,synch_always_on_top]
+12	4617	-1	2053792709	[proc,synch_always_on_top]
 12	4618	-1	-87527429	[clientscript,antidrag_toggle]
 12	4619	-1	-1735523845	[proc,antidrag_toggle]
 12	4620	-1	854105605	
@@ -14877,7 +14877,7 @@
 12	4717	-1	-522178831	
 12	4718	-1	532058370	[proc,health_regen_timer]
 12	4719	-1	733205683	
-12	4720	-1	-1305087085	
+12	4720	-1	-1305087085	[clientscript,spec_regen_timer_off]
 12	4721	-1	-1148445373	[clientscript,spec_regen_timer]
 12	4722	-1	-945769136	
 12	4723	-1	-696726717	[proc,spec_regen_timer]
@@ -15014,11 +15014,11 @@
 12	4854	-1	-1141793540	
 12	4855	-1	13439776	
 12	4856	-1	-334511840	
-12	4857	-1	403749126	
+12	4857	-1	403749126	[clientscript,ca_bosses_reviewsize]
 12	4858	-1	-568473940	
-12	4859	-1	-1367998973	
+12	4859	-1	-1367998973	[clientscript,ca_rewards_reviewsize]
 12	4860	-1	-706311665	
-12	4861	-1	1688201709	
+12	4861	-1	1688201709	[clientscript,ca_tasks_reviewsize]
 12	4862	-1	1674442981	
 12	4863	-1	1455369765	179217
 12	4864	-1	1455371869	179473
@@ -15392,12 +15392,12 @@
 12	5232	-1	423702410	
 12	5233	-1	-42989773	[proc,deadman_sigils_buildoffer]
 12	5234	-1	-136052179	[proc,deadman_sigils_buildslot]
-12	5235	-1	-1704197244	
+12	5235	-1	-1704197244	[clientscript,wornitems_deadman_sigils_init]
 12	5236	-1	1740758686	
 12	5237	-1	-1391824738	
-12	5238	-1	234826605	
+12	5238	-1	234826605	[proc,settings_store_button_mobile]
 12	5239	-1	-450677922	
-12	5240	-1	-1887375730	
+12	5240	-1	-1887375730	[clientscript,quest_journal_reset]
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
 13	496	-1	1057075019	b12_full
