@@ -209,6 +209,9 @@ fun main() {
         "ca_tier_swords,$x".add()
         "ca_tier_swords_small,$x".add()
         "god_wars_icons,$x".add()
+        "ring_34,$x".add()
+        "rounded_tabs,$x".add()
+        "iron_icons,$x".add()
     }
 
     knownNames.remove("l16_186")

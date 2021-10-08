@@ -947,6 +947,7 @@
 [clientscript,clan_board_filterupdate]
 [clientscript,clan_board_init]
 [clientscript,clan_create_member_invite]
+[clientscript,clan_create_member_invite_group]
 [clientscript,clan_create_side_init]
 [clientscript,clan_create_side_list_players]
 [clientscript,clan_create_targetmode]
@@ -1320,6 +1321,13 @@
 [clientscript,ge_pricelist]
 [clientscript,ge_pricelist_draw]
 [clientscript,ge_pricelist_switchmode]
+[clientscript,gim_button_init]
+[clientscript,gim_buttons_click]
+[clientscript,gim_sidepanel_draw]
+[clientscript,gim_sidepanel_init]
+[clientscript,gim_sidepanel_limited_init]
+[clientscript,gim_sidepanel_op]
+[clientscript,gim_sidepanel_reset]
 [clientscript,glidermap_fly]
 [clientscript,glidermap_hideshow]
 [clientscript,glidermap_init]
@@ -1483,6 +1491,9 @@
 [clientscript,ironman_miscellaneous_redraw]
 [clientscript,ironman_modebutton_op]
 [clientscript,ironman_modebutton_redraw]
+[clientscript,ironman_tabs_init]
+[clientscript,ironman_tabs_select]
+[clientscript,ironman_tabs_transmit]
 [clientscript,itemsets_info_init]
 [clientscript,itemsets_init]
 [clientscript,itemsets_redraw]
@@ -1692,6 +1703,7 @@
 [clientscript,motw_setmodel]
 [clientscript,mourning_toad_init]
 [clientscript,mourning_toad_settoad]
+[clientscript,mouseover_ops]
 [clientscript,music_init]
 [clientscript,music_init_component]
 [clientscript,music_init_counter]
@@ -1771,6 +1783,8 @@
 [clientscript,options_areasounds_init]
 [clientscript,options_areasounds_op]
 [clientscript,options_areasounds_resynch]
+[clientscript,options_bigbutton_op]
+[clientscript,options_bigbutton_reset]
 [clientscript,options_bottom_appearance]
 [clientscript,options_bottom_init]
 [clientscript,options_brightness_init]
@@ -2035,6 +2049,7 @@
 [clientscript,prisonpete_init]
 [clientscript,private_op]
 [clientscript,publishing_platform]
+[clientscript,pvp_icons_comlevelrange]
 [clientscript,pvp_icons_killdeathratio]
 [clientscript,pvp_icons_layout]
 [clientscript,pvp_icons_layout_init]
@@ -2205,6 +2220,7 @@
 [clientscript,settings_show_keyboard]
 [clientscript,settings_side_accept_aid_resynch]
 [clientscript,settings_side_bottom_init]
+[clientscript,settings_side_brightness_init]
 [clientscript,settings_side_dropdown_close]
 [clientscript,settings_side_dropdown_hover]
 [clientscript,settings_side_dropdown_op]
@@ -2234,6 +2250,19 @@
 [clientscript,settings_zoom_slider_ondrag]
 [clientscript,settings_zoom_trans_timer]
 [clientscript,settrans]
+[clientscript,shared_bank_checksize]
+[clientscript,shared_bank_closebutton]
+[clientscript,shared_bank_dragitem]
+[clientscript,shared_bank_drawcap]
+[clientscript,shared_bank_init]
+[clientscript,shared_bank_init_timer]
+[clientscript,shared_bank_reorder]
+[clientscript,shared_bank_search_refresh]
+[clientscript,shared_bank_search_toggle]
+[clientscript,shared_bank_side_build]
+[clientscript,shared_bank_side_init]
+[clientscript,shared_bank_side_reorder]
+[clientscript,shared_bank_update]
 [clientscript,shop_main_init]
 [clientscript,shop_main_update]
 [clientscript,shop_quantity]
@@ -2609,6 +2638,7 @@
 [clientscript,worldswitcher_init]
 [clientscript,worldswitcher_loading]
 [clientscript,worldswitcher_sortbutton_op]
+[clientscript,wornitems_deadman_sigils_drawbutton]
 [clientscript,wornitems_deadman_sigils_init]
 [clientscript,xmas18_cow_init]
 [clientscript,xmas18_cowparts]
@@ -3214,6 +3244,11 @@
 [proc,get_quest_name]
 [proc,get_selected_quantity]
 [proc,getbit_range]
+[proc,gim_button_init]
+[proc,gim_buttons_init]
+[proc,gim_leave_text]
+[proc,gim_notification_message]
+[proc,gim_sidepanel_draw]
 [proc,glidermap_fly]
 [proc,glidermap_hideglider]
 [proc,glidermap_hideshow]
@@ -3332,6 +3367,8 @@
 [proc,ironman_miscellaneous_redraw]
 [proc,ironman_modebutton_init]
 [proc,ironman_modebutton_redraw]
+[proc,ironman_tabs_create]
+[proc,is_group_iron]
 [proc,itemsets_redraw]
 [proc,itemsets_side_draw]
 [proc,jar_of_darkness_update]
@@ -3477,6 +3514,7 @@
 [proc,mole_splat_zoom]
 [proc,motherlode_hud_update]
 [proc,mourning_toad_settoad]
+[proc,mouseover_ops]
 [proc,mouseover_text]
 [proc,mouseover_tooltip]
 [proc,music_optionbuttons]
@@ -3522,6 +3560,7 @@
 [proc,options_acceptaid]
 [proc,options_allsounds]
 [proc,options_appearance]
+[proc,options_bigbutton_init]
 [proc,options_bottom_appearance]
 [proc,options_brightness]
 [proc,options_button_off]
@@ -3925,6 +3964,14 @@
 [proc,setvolumeareasounds]
 [proc,setvolumemusic]
 [proc,setvolumesounds]
+[proc,shared_bank_closebutton]
+[proc,shared_bank_drawcap]
+[proc,shared_bank_drawitem]
+[proc,shared_bank_search_setbutton]
+[proc,shared_bank_setsize]
+[proc,shared_bank_side_build]
+[proc,shared_bank_side_drawitem]
+[proc,shared_bank_update]
 [proc,shiftclick_toggle]
 [proc,shop_main_update]
 [proc,shop_quantity]
@@ -4255,6 +4302,7 @@
 [proc,worldswitcher_entry_draw]
 [proc,worldswitcher_sortbutton_draw]
 [proc,worldswitcher_wipe_favourite]
+[proc,wornitems_deadman_sigils_drawbutton]
 [proc,xp_drops_tooltip_desktop]
 [proc,xp_drops_tooltip_mobile]
 [proc,xp_drops_tooltip_setup]
@@ -4632,6 +4680,7 @@ grimly_fiendish
 grip of the talon
 grotto
 ground scape
+group_icon
 grow grow grow
 grumpy
 gungywater
@@ -4649,12 +4698,14 @@ headicons_hint
 headicons_pk
 headicons_prayer
 heart and mind
+heart_icon
 hells bells
 hermit
 hespori
 hespori cave
 high seas
 high spirits
+hitmark_blocked
 hitmarks
 hloading2
 hoe down
