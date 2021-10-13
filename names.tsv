@@ -6632,6 +6632,11 @@
 6	700	-1	3506511	rose
 6	701	-1	2042811758	confrontation
 6	702	-1	-749456510	
+6	703	-1	1124561440	
+6	704	-1	-1176630440	
+6	705	-1	1979152303	
+6	706	-1	-1412699212	
+6	707	-1	-1489388529	
 8	0	-1	-1879805778	2x_standard_spells_on,0
 8	1	-1	-1879805777	2x_standard_spells_on,1
 8	2	-1	-1879805776	2x_standard_spells_on,2
@@ -14356,10 +14361,6 @@
 12	4155	-1	2113393445	
 12	4156	-1	1009186836	
 12	4157	-1	-60774978	
-12	4158	-1	-1368822323	[proc,getbit_range]
-12	4159	-1	-594691111	[proc,setbit_range]
-12	4160	-1	-1005670716	[proc,clearbit_range]
-12	4161	-1	-1186338076	[proc,setbit_range_toint]
 12	4162	-1	688612219	[clientscript,roguetrader_init]
 12	4163	-1	1798908545	[proc,roguetrader_game_size]
 12	4164	-1	-1520427890	[proc,roguetrader_draw_frames]
