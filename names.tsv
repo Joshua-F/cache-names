@@ -10336,7 +10336,7 @@
 12	97	-1	-1641435841	[clientscript,v2_stone_button_out_filled]
 12	98	-1	-709872419	[proc,create_graphic]
 12	99	-1	-1738227320	[clientscript,duel_check_button]
-12	100	-1	1519703915	[clientscript,duel_stake_vartrans]
+12	100	-1	-1443265835	
 12	101	-1	-1531657741	[clientscript,meslayer_close]
 12	102	-1	1613394365	[proc,meslayer_mode1]
 12	103	-1	-1242938404	[clientscript,meslayer_mode2]
@@ -11681,7 +11681,7 @@
 12	1442	-1	1803110349	[proc,duel_wait_button]
 12	1443	-1	-296198304	[clientscript,duel_accept_button]
 12	1444	-1	1572775761	[proc,duel_colour_variation]
-12	1445	-1	2058375146	[clientscript,duel_options_exclamations]
+12	1445	-1	-1955848027	
 12	1446	-1	-625485113	[proc,playermember]
 12	1447	-1	-872469011	
 12	1448	-1	245907437	
@@ -12593,7 +12593,6 @@
 12	2354	-1	660870716	[clientscript,castlewars_waitingroom_update]
 12	2355	-1	1494216364	
 12	2356	-1	-281123313	[clientscript,steam_lock_achievements]
-12	2357	-1	757518562	[proc,on_enhanced]
 12	2358	-1	-248564579	[clientscript,settings_interface_scaling]
 12	2359	-1	1490919915	[proc,shiftclick_toggle]
 12	2360	-1	275552870	
@@ -12712,7 +12711,7 @@
 12	2473	-1	-1742790641	[clientscript,model_transparent_init]
 12	2474	-1	1775142690	[clientscript,model_transparent_dynamiczoom_init]
 12	2475	-1	852653231	[clientscript,cc_outline_off]
-12	2476	-1	-1231502397	[clientscript,duel_info]
+12	2476	-1	-1641895273	
 12	2477	-1	-931507061	[clientscript,duel_stake_inv_cash]
 12	2478	-1	277332410	[clientscript,duel_stake_inv_details]
 12	2479	-1	2082265947	
@@ -15728,6 +15727,15 @@
 12	5489	-1	1067285034	
 12	5490	-1	905927356	
 12	5491	-1	2132655344	
+12	5492	-1	228034574	
+12	5493	-1	-1794072799	
+12	5494	-1	2024102241	
+12	5495	-1	659704713	
+12	5496	-1	1107806064	
+12	5497	-1	-1360898924	
+12	5498	-1	519344301	
+12	5499	-1	290135432	
+12	5500	-1	1120201188	
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
 13	496	-1	1057075019	b12_full
