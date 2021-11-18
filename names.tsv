@@ -10336,7 +10336,7 @@
 12	97	-1	-1641435841	[clientscript,v2_stone_button_out_filled]
 12	98	-1	-709872419	[proc,create_graphic]
 12	99	-1	-1738227320	[clientscript,duel_check_button]
-12	100	-1	-1443265835	
+12	100	-1	-1443265835	[proc,on_enhanced_any]
 12	101	-1	-1531657741	[clientscript,meslayer_close]
 12	102	-1	1613394365	[proc,meslayer_mode1]
 12	103	-1	-1242938404	[clientscript,meslayer_mode2]
@@ -11681,7 +11681,7 @@
 12	1442	-1	1803110349	[proc,duel_wait_button]
 12	1443	-1	-296198304	[clientscript,duel_accept_button]
 12	1444	-1	1572775761	[proc,duel_colour_variation]
-12	1445	-1	-1955848027	
+12	1445	-1	-1955848027	[proc,on_enhanced_desktop]
 12	1446	-1	-625485113	[proc,playermember]
 12	1447	-1	-872469011	
 12	1448	-1	245907437	
@@ -12711,7 +12711,7 @@
 12	2473	-1	-1742790641	[clientscript,model_transparent_init]
 12	2474	-1	1775142690	[clientscript,model_transparent_dynamiczoom_init]
 12	2475	-1	852653231	[clientscript,cc_outline_off]
-12	2476	-1	-1641895273	
+12	2476	-1	-1641895273	[proc,on_enhanced_mobile]
 12	2477	-1	-931507061	[clientscript,duel_stake_inv_cash]
 12	2478	-1	277332410	[clientscript,duel_stake_inv_details]
 12	2479	-1	2082265947	
@@ -14417,7 +14417,7 @@
 12	4179	-1	398758775	[clientscript,chat_sendabusereport]
 12	4180	-1	-1126965865	[proc,settings_colour_choose_transmit]
 12	4181	-1	551429799	[proc,settings_get_colour]
-12	4182	-1	-549273084	
+12	4182	-1	-549273084	[proc,settings_create_colour_input]
 12	4183	-1	1899084540	[clientscript,settings_colour_input_click]
 12	4184	-1	1942091373	[clientscript,settings_colour_input_update]
 12	4185	-1	91967525	
@@ -15478,7 +15478,7 @@
 12	5240	-1	-1887375730	[clientscript,quest_journal_reset]
 12	5241	-1	-1754610536	
 12	5242	-1	-1255253892	
-12	5243	-1	2021313536	
+12	5243	-1	2021313536	[proc,ca_task_is_disabled]
 12	5244	-1	-1093176875	[clientscript,ca_tasks_draw_list_timer]
 12	5245	-1	831253876	[clientscript,ironman_tabs_init]
 12	5246	-1	-727725996	[clientscript,ironman_tabs_transmit]
@@ -15551,7 +15551,7 @@
 12	5313	-1	-1039309508	
 12	5314	-1	1644946676	[proc,axe_checker]
 12	5315	-1	-1115237983	
-12	5316	-1	989762488	
+12	5316	-1	989762488	[clientscript,stat_boosts_hud_timertooltip]
 12	5317	-1	-1316411006	[clientscript,helper_slayer_init]
 12	5318	-1	-517857068	[proc,helper_slayer_draw_content]
 12	5319	-1	-1634297121	[proc,helper_slayer_current_assignment]
@@ -15567,12 +15567,12 @@
 12	5329	-1	1054755535	
 12	5330	-1	-1857888065	[clientscript,settings_toggle_roof]
 12	5331	-1	-2050921233	[proc,settings_helper_slayer]
-12	5332	-1	375470466	
-12	5333	-1	1821749374	
-12	5334	-1	-1793084445	
-12	5335	-1	-669143987	
-12	5336	-1	-242411732	
-12	5337	-1	-1044944784	
+12	5332	-1	375470466	[proc,settings_buff_poison_damage]
+12	5333	-1	1821749374	[proc,settings_popout_xptracker]
+12	5334	-1	-1793084445	[proc,settings_logout_notifier]
+12	5335	-1	-669143987	[proc,settings_ore_respawn_timer]
+12	5336	-1	-242411732	[proc,settings_woodcutting_respawn_timer]
+12	5337	-1	-1044944784	[proc,settings_bird_nest_notification]
 12	5338	-1	-619101234	
 12	5339	-1	1109161683	[proc,on_mac]
 12	5340	-1	-185239211	[proc,buff_bar_timer]
@@ -15733,7 +15733,7 @@
 12	5495	-1	659704713	
 12	5496	-1	1107806064	
 12	5497	-1	-1360898924	
-12	5498	-1	519344301	
+12	5498	-1	519344301	[clientscript,duel_options_radio_buttons]
 12	5499	-1	290135432	
 12	5500	-1	1120201188	
 13	494	-1	-342013218	p11_full
