@@ -2996,6 +2996,7 @@
 [proc,chat_autotyper_updateop]
 [proc,chat_broadcast_parseurl]
 [proc,chat_get_filter]
+[proc,chat_send]
 [proc,chat_sendpublic]
 [proc,chat_set_filter]
 [proc,chatalerts]
@@ -5472,6 +5473,7 @@ victory is mine
 village
 vision
 volcanic vikings
+volume_options_bobble_slider
 voodoo cult
 voyage
 waking dream
