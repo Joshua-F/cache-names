@@ -10337,6 +10337,7 @@
 12	93	-1	512804784	[clientscript,v2_stone_button_filled]
 12	94	-1	792584909	[clientscript,v2_stone_button_in]
 12	95	-1	-1900409775	[proc,chat_autotyper_updateop]
+12	96	-1	-1986134723	
 12	97	-1	-1641435841	[clientscript,v2_stone_button_out_filled]
 12	98	-1	-709872419	[proc,create_graphic]
 12	99	-1	-1738227320	[clientscript,duel_check_button]
@@ -13063,7 +13064,7 @@
 12	2820	-1	-1923071313	[proc,seed_vault_build]
 12	2821	-1	1364194506	
 12	2822	-1	1738143312	
-12	2823	-1	354420426	
+12	2823	-1	-48152728	
 12	2824	-1	422703473	[clientscript,seed_vault_drag_obj]
 12	2825	-1	223627013	[clientscript,seed_vault_drag_text]
 12	2826	-1	-794580667	[proc,seed_vault_doscroll]
@@ -15498,6 +15499,7 @@
 12	5255	-1	963175212	[clientscript,gim_sidepanel_init]
 12	5256	-1	958669176	[clientscript,gim_sidepanel_draw]
 12	5257	-1	1268600696	[proc,gim_sidepanel_draw]
+12	5258	-1	-1326077123	
 12	5259	-1	135086139	[clientscript,gim_sidepanel_op]
 12	5260	-1	43295471	[clientscript,gim_sidepanel_reset]
 12	5261	-1	-1793576633	[clientscript,gim_sidepanel_limited_init]
