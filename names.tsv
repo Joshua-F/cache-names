@@ -14994,7 +14994,7 @@
 12	4739	-1	2120869407	
 12	4740	-1	-2072728836	
 12	4741	-1	-62127936	[clientscript,blast_furnace_plan_init]
-12	4742	-1	78866012	
+12	4742	-1	78866012	[proc,affixtimestamp]
 12	4743	-1	-183396110	
 12	4744	-1	-672542022	[clientscript,highlight_npc_on]
 12	4745	-1	626026482	[clientscript,highlight_npc_off]

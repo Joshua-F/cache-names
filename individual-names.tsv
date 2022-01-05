@@ -2965,6 +2965,7 @@
 [proc,adventurepath_task_init_op]
 [proc,adventurepath_voucher_entry]
 [proc,adventurepath_voucher_init]
+[proc,affixtimestamp]
 [proc,agilityarena_rewards_draw]
 [proc,agilityarena_rewards_gracefulbutton_draw]
 [proc,agilityarena_rewards_gracefulbutton_drawcomponents]
