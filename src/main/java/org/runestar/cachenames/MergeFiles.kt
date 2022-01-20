@@ -212,6 +212,17 @@ fun main() {
         "ring_34,$x".add()
         "rounded_tabs,$x".add()
         "iron_icons,$x".add()
+        "league_3_fragment_back,$x".add()
+        "league_3_icons_light,$x".add()
+        "league_3_boss_icons,$x".add()
+        "league_3_button,$x".add()
+        "league_3_progress_bar,$x".add()
+        "league_3_relics,$x".add()
+        "league_3_relics_tli,$x".add()
+        "league_3_relics_large,$x".add()
+        "league_3_tutorial,$x".add()
+        "button_polished,$x".add()
+        "group_icon,$x".add()
     }
 
     knownNames.remove("l16_186")
