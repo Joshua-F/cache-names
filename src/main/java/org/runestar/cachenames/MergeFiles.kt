@@ -223,6 +223,7 @@ fun main() {
         "league_3_tutorial,$x".add()
         "button_polished,$x".add()
         "group_icon,$x".add()
+        "soul_wars_gameicons,$x".add()
     }
 
     knownNames.remove("l16_186")

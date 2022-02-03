@@ -9574,9 +9574,9 @@
 8	2926	-1	-1535437209	soul_wars_staticons,5
 8	2927	-1	-1535437208	soul_wars_staticons,6
 8	2928	-1	-1535437207	soul_wars_staticons,7
-8	2929	-1	1699930884	
-8	2930	-1	1699930885	
-8	2931	-1	1699930886	
+8	2929	-1	1699930884	soul_wars_gameicons,0
+8	2930	-1	1699930885	soul_wars_gameicons,1
+8	2931	-1	1699930886	soul_wars_gameicons,2
 8	2932	-1	-1781283272	
 8	2933	-1	-1781283271	
 8	2934	-1	-1781283270	
@@ -12285,7 +12285,7 @@
 12	1296	-1	-696564136	
 12	1297	-1	-1889431041	[clientscript,slayer_rewards_unlock_draw]
 12	1298	-1	1690769490	[proc,slayer_rewards_unlock_desc]
-12	1299	-1	1836919124	
+12	1299	-1	1836919124	[proc,string_findandreplace]
 12	1300	-1	1471914400	[clientscript,soulbearer_repair]
 12	1301	-1	-610106158	[clientscript,soulbearer_repair_update]
 12	1302	-1	-838782254	[proc,soulbearer_repair_update]

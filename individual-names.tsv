@@ -4425,6 +4425,7 @@
 [proc,storage_side_create]
 [proc,storage_side_recreate]
 [proc,storage_side_update]
+[proc,string_findandreplace]
 [proc,string_prependzero]
 [proc,string_to_int]
 [proc,string_trim]
