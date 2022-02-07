@@ -213,6 +213,8 @@ fun main() {
         "rounded_tabs,$x".add()
         "iron_icons,$x".add()
         "league_3_fragment_back,$x".add()
+        "league_3_fragment_base,$x".add()
+        "league_3_fragment_glow,$x".add()
         "league_3_icons_light,$x".add()
         "league_3_boss_icons,$x".add()
         "league_3_button,$x".add()
@@ -224,6 +226,8 @@ fun main() {
         "button_polished,$x".add()
         "group_icon,$x".add()
         "soul_wars_gameicons,$x".add()
+        "storeorb,$x".add()
+        "popout_icons,$x".add()
     }
 
     knownNames.remove("l16_186")
