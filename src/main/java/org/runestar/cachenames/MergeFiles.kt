@@ -228,6 +228,8 @@ fun main() {
         "soul_wars_gameicons,$x".add()
         "storeorb,$x".add()
         "popout_icons,$x".add()
+        "speedrun_trophies,$x".add()
+        "arrows_curved,$x".add()
     }
 
     knownNames.remove("l16_186")
