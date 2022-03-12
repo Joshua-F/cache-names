@@ -6520,7 +6520,7 @@
 6	549	-1	-222450192	dragonkin temple
 6	550	-1	1048381670	myths guild
 6	551	-1	-732051341	shayzien crypt
-6	552	-1	-1307362733	
+6	552	-1	-1307362733	scape five ts
 6	553	-1	-1737897091	
 6	554	-1	1344608745	roots_and_flutes
 6	555	-1	-939588165	
@@ -6652,7 +6652,7 @@
 6	681	-1	1574724701	safety in numbers
 6	682	-1	-2091564975	eves epinette
 6	683	-1	658928897	sea_minor_shanty
-6	684	-1	-1532936470	
+6	684	-1	-1532936470	revenant slayer cave
 6	685	-1	-1931522920	soul wars
 6	686	-1	192519476	the waiting game
 6	687	-1	213399440	scrubfoots descent
@@ -6662,30 +6662,30 @@
 6	691	-1	1992241892	
 6	692	-1	1806982742	rhapsody
 6	693	-1	-624190678	clanliness
-6	694	-1	729062204	
-6	695	-1	1283049997	
-6	696	-1	-1532213558	
+6	694	-1	729062204	catacombsofkourend
+6	695	-1	1283049997	shayzienforces
+6	696	-1	-1532213558	judgeofyama
 6	697	-1	-1251025872	coronation
 6	698	-1	2007391033	xamphur
-6	699	-1	-270271344	
+6	699	-1	-270271344	housesofkourend
 6	700	-1	3506511	rose
 6	701	-1	2042811758	confrontation
 6	702	-1	-749456510	
-6	703	-1	1124561440	
+6	703	-1	1124561440	warrens
 6	704	-1	-1176630440	
 6	705	-1	1979152303	
 6	706	-1	-1412699212	
 6	707	-1	-1489388529	
 6	708	-1	-1883237291	
-6	709	-1	-1482802189	
-6	710	-1	-2104288891	
-6	711	-1	-1504485131	
+6	709	-1	-1482802189	ancient prison
+6	710	-1	-2104288891	zaros zeitgeist
+6	711	-1	-1504485131	the angels fury
 6	712	-1	-1200238339	
-6	713	-1	1821427679	
+6	713	-1	1821427679	dusk in yu'biusk
 6	714	-1	376244272	
-6	715	-1	1542618593	
-6	716	-1	-1918346658	
-6	717	-1	-883239589	
+6	715	-1	1542618593	catacombs and tombs
+6	716	-1	-1918346658	zanik's theme
+6	717	-1	-883239589	temple of tribes
 8	0	-1	-1879805778	2x_standard_spells_on,0
 8	1	-1	-1879805777	2x_standard_spells_on,1
 8	2	-1	-1879805776	2x_standard_spells_on,2
@@ -11853,7 +11853,7 @@
 12	808	-1	1986587773	[clientscript,ge_offers_priceicon]
 12	809	-1	-1290436995	[proc,ge_offers_priceicon]
 12	810	-1	-253916699	[proc,ge_textbox]
-12	811	-1	633292281	
+12	811	-1	633292281	[clientscript,ge_offers_pulsate]
 12	812	-1	598811029	
 12	813	-1	-242239526	[proc,ge_offers_checkavailable]
 12	814	-1	1711540387	[clientscript,confirmdestroy_init]
@@ -14207,7 +14207,7 @@
 12	3162	-1	1840081982	[clientscript,league_icon_flash]
 12	3163	-1	955982588	[clientscript,league_flash_timer]
 12	3164	-1	-1893856663	[proc,league_flashicon]
-12	3165	-1	-1535796175	
+12	3165	-1	-1535796175	[proc,rebuild_makeover_feet]
 12	3166	-1	1668716220	
 12	3167	-1	1402404413	
 12	3168	-1	-228934550	
@@ -16547,13 +16547,13 @@
 12	5506	-1	-1304190430	[proc,gim_icon_draw]
 12	5507	-1	253167009	
 12	5508	-1	1491971106	[clientscript,gim_settings_static]
-12	5509	-1	-517785044	
+12	5509	-1	-517785044	[clientscript,gim_settings_editable]
 12	5510	-1	613310791	[proc,gim_settings_setsize]
 12	5511	-1	-1695335647	[clientscript,gim_settings_checksize]
 12	5512	-1	-1840385962	
-12	5513	-1	-1652965809	
-12	5514	-1	-2106516050	
-12	5515	-1	-1375998820	
+12	5513	-1	-1652965809	[clientscript,gim_settings_editable_hover]
+12	5514	-1	-2106516050	[clientscript,gim_settings_editable_op]
+12	5515	-1	-1375998820	[clientscript,gim_settings_editable_reset]
 12	5516	-1	-1598050241	[proc,gim_sidepanel_drawchannel]
 12	5517	-1	-1058613111	[proc,chat_send]
 12	5518	-1	600066660	
@@ -16590,8 +16590,8 @@
 12	5550	-1	-1228108240	[clientscript,stat_boosts_hud_mobile_tooltip]
 12	5551	-1	-1113158169	[clientscript,stat_boosts_hud_mobile_tooltip_remove]
 12	5552	-1	-890408741	[proc,stat_boosts_hud_timer_tooltip]
-12	5553	-1	-2098413751	
-12	5554	-1	-1283343165	
+12	5553	-1	-2098413751	[clientscript,stat_boosts_hud_mobile_timertooltip]
+12	5554	-1	-1283343165	[clientscript,stat_boosts_hud_mobile_timertooltip_timer]
 12	5555	-1	1839477558	
 12	5556	-1	1397499806	
 12	5557	-1	126067227	[clientscript,helper_agility_highlight_setup]
@@ -16767,7 +16767,7 @@
 12	5727	-1	21566260	[clientscript,helper_agility_mouseover]
 12	5728	-1	-2145332387	
 12	5729	-1	1909417757	[proc,helper_agility_requirements]
-12	5730	-1	466897516	
+12	5730	-1	466897516	[clientscript,ge_offers_setdesc]
 12	5731	-1	-770305320	
 12	5732	-1	1707906645	
 12	5733	-1	1314314426	
@@ -16881,9 +16881,9 @@
 12	5843	-1	-316716326	[clientscript,if_fade]
 12	5844	-1	684169108	[clientscript,if_fade_timer]
 12	5845	-1	-763603713	
-12	5846	-1	1392922647	
-12	5847	-1	-1818703406	
-12	5848	-1	-545231978	
+12	5846	-1	1392922647	[proc,buff_bar_dynamic_tooltip]
+12	5847	-1	-1818703406	[proc,buff_bar_dynamic_graphic]
+12	5848	-1	-545231978	[proc,buff_bar_dynamic_graphic2]
 12	5849	-1	-1632017001	[proc,speedrunning_world]
 12	5850	-1	1852654959	
 12	5851	-1	803548028	
@@ -16903,7 +16903,7 @@
 12	5865	-1	-441320460	
 12	5866	-1	1478429175	
 12	5867	-1	1478429174	
-12	5868	-1	-67256715	
+12	5868	-1	-67256715	[proc,speedrunning_misc_unlocks]
 12	5869	-1	2064843989	
 12	5870	-1	-968614738	
 12	5871	-1	-1013617707	
@@ -16914,22 +16914,22 @@
 12	5876	-1	1568131019	
 12	5877	-1	-999042168	
 12	5878	-1	-836490823	
-12	5879	-1	-1455448657	
-12	5880	-1	-1296111276	
-12	5881	-1	-1208360417	
-12	5882	-1	1670926367	
+12	5879	-1	-1455448657	[clientscript,speedrunning_helper_update]
+12	5880	-1	-1296111276	[proc,speedrunning_helper_draw]
+12	5881	-1	-1208360417	[proc,speedrunning_helper_update_time]
+12	5882	-1	1670926367	[clientscript,speedrunning_helper_update_time]
 12	5883	-1	-579029848	
 12	5884	-1	1600666666	
 12	5885	-1	1996871463	
 12	5886	-1	1725504321	[clientscript,speedrunning_init]
 12	5887	-1	1871243016	[clientscript,speedrunning_stats_update]
 12	5888	-1	-922748664	[proc,speedrunning_stats_update]
-12	5889	-1	-2106911772	
-12	5890	-1	1778447311	
-12	5891	-1	864542769	
-12	5892	-1	-2018813640	
-12	5893	-1	587837192	
-12	5894	-1	318674565	
+12	5889	-1	-2106911772	[proc,speedrunning_points_update]
+12	5890	-1	1778447311	[proc,speedrunning_trophies_update]
+12	5891	-1	864542769	[proc,speedrunning_trophy_update]
+12	5892	-1	-2018813640	[proc,speedrunning_trophy_check]
+12	5893	-1	587837192	[proc,speedrunning_total_trophies]
+12	5894	-1	318674565	[proc,speedrunning_quest_enabled]
 12	5895	-1	1797460845	
 12	5896	-1	1925723091	
 12	5897	-1	-932877541	
@@ -16957,24 +16957,24 @@
 12	5919	-1	984209063	
 12	5920	-1	318362374	
 12	5921	-1	628293894	
-12	5922	-1	1864920376	
-12	5923	-1	141803314	
+12	5922	-1	1864920376	[proc,settings_buff_cannon_ammo]
+12	5923	-1	141803314	[proc,buff_bar_get_value]
 12	5924	-1	267583663	
 12	5925	-1	-55525692	
 12	5926	-1	-257214288	
 12	5927	-1	12503728	
-12	5928	-1	-1546368989	
-12	5929	-1	1465122051	
-12	5930	-1	-182874365	
-12	5931	-1	1234579928	
-12	5932	-1	-204054568	
-12	5933	-1	-985433986	
+12	5928	-1	-1546368989	[proc,buff_bar_dynamic_obj]
+12	5929	-1	1465122051	[clientscript,buff_bar_2_init]
+12	5930	-1	-182874365	[proc,buff_bar_2_init]
+12	5931	-1	1234579928	[clientscript,buff_bar_start]
+12	5932	-1	-204054568	[proc,buff_bar_start]
+12	5933	-1	-985433986	[clientscript,buff_bar_transmit_value]
 12	5934	-1	696313881	
 12	5935	-1	1138127714	
 12	5936	-1	909451618	
-12	5937	-1	-1286100530	
-12	5938	-1	1770641358	
-12	5939	-1	-1590147982	
+12	5937	-1	-1286100530	[clientscript,buff_bar_layout_redraw]
+12	5938	-1	1770641358	[proc,buff_bar_layout_redraw]
+12	5939	-1	-1590147982	[clientscript,buff_bar_display_timer]
 12	5940	-1	60773583	
 12	5941	-1	48596748	
 12	5942	-1	153614944	

@@ -984,13 +984,18 @@
 [clientscript,brew_tools_op]
 [clientscript,brew_tools_resetbutton]
 [clientscript,brew_tools_supplies]
+[clientscript,buff_bar_2_init]
 [clientscript,buff_bar_buff_timer]
 [clientscript,buff_bar_buff_transmit]
+[clientscript,buff_bar_display_timer]
 [clientscript,buff_bar_init]
+[clientscript,buff_bar_layout_redraw]
 [clientscript,buff_bar_mobile_tooltip]
 [clientscript,buff_bar_mobile_tooltip_remove]
 [clientscript,buff_bar_position_review]
 [clientscript,buff_bar_setup]
+[clientscript,buff_bar_start]
+[clientscript,buff_bar_transmit_value]
 [clientscript,bugreport_back]
 [clientscript,bugreport_continue]
 [clientscript,bugreport_drawbutton]
@@ -1500,6 +1505,8 @@
 [clientscript,ge_offers_index_drawtop]
 [clientscript,ge_offers_init]
 [clientscript,ge_offers_priceicon]
+[clientscript,ge_offers_pulsate]
+[clientscript,ge_offers_setdesc]
 [clientscript,ge_offers_setup_changeprice]
 [clientscript,ge_offers_setup_changequantity]
 [clientscript,ge_offers_setup_draw]
@@ -1514,6 +1521,10 @@
 [clientscript,gim_buttons_click]
 [clientscript,gim_settings_checksize]
 [clientscript,gim_settings_draw]
+[clientscript,gim_settings_editable]
+[clientscript,gim_settings_editable_hover]
+[clientscript,gim_settings_editable_op]
+[clientscript,gim_settings_editable_reset]
 [clientscript,gim_settings_init]
 [clientscript,gim_settings_static]
 [clientscript,gim_sidepanel_draw]
@@ -2592,6 +2603,8 @@
 [clientscript,speedrunning_button_draw]
 [clientscript,speedrunning_button_op]
 [clientscript,speedrunning_button_reset]
+[clientscript,speedrunning_helper_update]
+[clientscript,speedrunning_helper_update_time]
 [clientscript,speedrunning_init]
 [clientscript,speedrunning_stats_update]
 [clientscript,spinmodel]
@@ -2600,6 +2613,8 @@
 [clientscript,stake_tooltip]
 [clientscript,start_slideshow]
 [clientscript,stat_boosts_hud_init]
+[clientscript,stat_boosts_hud_mobile_timertooltip]
+[clientscript,stat_boosts_hud_mobile_timertooltip_timer]
 [clientscript,stat_boosts_hud_mobile_tooltip]
 [clientscript,stat_boosts_hud_mobile_tooltip_remove]
 [clientscript,stat_boosts_hud_timertooltip]
@@ -3131,6 +3146,7 @@
 [proc,brew_tools_resetbutton]
 [proc,brew_tools_setupbutton]
 [proc,brew_tools_supplies]
+[proc,buff_bar_2_init]
 [proc,buff_bar_basic]
 [proc,buff_bar_buff_amount]
 [proc,buff_bar_buff_create]
@@ -3138,13 +3154,20 @@
 [proc,buff_bar_buff_disabled]
 [proc,buff_bar_buff_position]
 [proc,buff_bar_buff_show]
+[proc,buff_bar_dynamic_graphic2]
+[proc,buff_bar_dynamic_graphic]
+[proc,buff_bar_dynamic_obj]
+[proc,buff_bar_dynamic_tooltip]
 [proc,buff_bar_get_number]
 [proc,buff_bar_get_transmit]
+[proc,buff_bar_get_value]
 [proc,buff_bar_inventory_slot]
+[proc,buff_bar_layout_redraw]
 [proc,buff_bar_max_buffs]
 [proc,buff_bar_position_init]
 [proc,buff_bar_position_review]
 [proc,buff_bar_setup]
+[proc,buff_bar_start]
 [proc,buff_bar_time_string]
 [proc,buff_bar_timer]
 [proc,bugreport_drawbutton]
@@ -4108,6 +4131,7 @@
 [proc,raids_storage_side_private_drawitem]
 [proc,raids_storage_side_setup]
 [proc,raids_storage_side_warning]
+[proc,rebuild_makeover_feet]
 [proc,rebuildchatbox]
 [proc,rebuildpmbox]
 [proc,recipe_for_disaster_button]
@@ -4165,6 +4189,7 @@
 [proc,settings_buff_antipoison_duration]
 [proc,settings_buff_bar]
 [proc,settings_buff_bar_tooltip]
+[proc,settings_buff_cannon_ammo]
 [proc,settings_buff_charge_spell]
 [proc,settings_buff_corruption]
 [proc,settings_buff_death_charge]
@@ -4403,7 +4428,16 @@
 [proc,speedrunning_button_draw]
 [proc,speedrunning_button_init]
 [proc,speedrunning_button_init_core]
+[proc,speedrunning_helper_draw]
+[proc,speedrunning_helper_update_time]
+[proc,speedrunning_misc_unlocks]
+[proc,speedrunning_points_update]
+[proc,speedrunning_quest_enabled]
 [proc,speedrunning_stats_update]
+[proc,speedrunning_total_trophies]
+[proc,speedrunning_trophies_update]
+[proc,speedrunning_trophy_check]
+[proc,speedrunning_trophy_update]
 [proc,speedrunning_world]
 [proc,standard_autocast_spellpos]
 [proc,start_slideshow]
@@ -4795,6 +4829,7 @@ ambience3
 ambience4
 ambient jungle
 amlodd
+ancient prison
 ancient_cavern
 anywhere
 arabian
@@ -4898,6 +4933,8 @@ camelot
 canvas
 cargonet
 castlewars
+catacombs and tombs
+catacombsofkourend
 catch me if you can
 cave background
 cave of beasts
@@ -5002,6 +5039,7 @@ dreamstate
 drunken dwarf
 duel arena
 dunjun
+dusk in yu'biusk
 dwarf theme
 dwarven_mines
 dynamic_membership_banner
@@ -5162,6 +5200,7 @@ homescape
 honing_my_aim
 horizon
 hosidius_sigil
+housesofkourend
 huffman
 hypnotized
 iban
@@ -5223,6 +5262,7 @@ jollyr
 jormungand defeated jingle
 jormungand fight
 joy of the hunt
+judgeofyama
 jungle bells
 jungle hunt
 jungle island
@@ -5497,6 +5537,7 @@ resize_map_clickmask
 resize_map_clickmask_bond
 resize_map_mask
 rest_in_peace
+revenant slayer cave
 revenants
 rhapsody
 right on track
@@ -5533,6 +5574,7 @@ sarim's vermin
 save
 scape cave
 scape crystal
+scape five ts
 scape hunter
 scape main
 scape main default
@@ -5562,6 +5604,7 @@ sharpshooter
 shayzien crypt
 shayzien_march
 shayzien_sigil
+shayzienforces
 shine
 shining
 shining_spirit
@@ -5645,12 +5688,14 @@ tears of guthix
 technology
 temple
 temple of light
+temple of tribes
 tempoross
 tex_brown
 tex_red
 that_sullen_hall
 thatched
 the adventurer
+the angels fury
 the cellar dwellers
 the chosen
 the dark fragment
@@ -5780,6 +5825,7 @@ wally cutscene
 wander
 warpath
 warped_library
+warrens
 warrior
 warriors guild
 wasteland
@@ -5831,6 +5877,8 @@ yesteryear
 zalcano_combat
 zamorak zoo
 zanaris
+zanik's theme
+zaros zeitgeist
 zeah_combat
 zeah_farming
 zeah_fishing
