@@ -12458,7 +12458,7 @@
 12	1348	-1	694123021	[proc,settings_buff_ward_of_arceuus]
 12	1349	-1	-1034637013	[proc,settings_buff_resurrection]
 12	1350	-1	46545235	[clientscript,questlist_init]
-12	1351	-1	1109056469	
+12	1351	-1	1109056469	[proc,on_ios]
 12	1352	-1	-1382815611	[proc,questlist_sort]
 12	1353	-1	1120787464	
 12	1354	-1	1945332568	

@@ -3905,6 +3905,7 @@
 [proc,on_enhanced_any]
 [proc,on_enhanced_desktop]
 [proc,on_enhanced_mobile]
+[proc,on_ios]
 [proc,on_mac]
 [proc,on_mobile]
 [proc,on_steam]
