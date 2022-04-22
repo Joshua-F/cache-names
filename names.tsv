@@ -11644,6 +11644,7 @@
 12	442	-1	-993603161	
 12	443	-1	1979769876	[clientscript,castlewarstrade_init]
 12	444	-1	-342398352	[clientscript,barbassault_turret_data]
+12	445	-1	-870192481	
 12	446	-1	1748639803	[clientscript,orbs_update_health]
 12	447	-1	-1659275024	[clientscript,orbs_update_runenergy]
 12	448	-1	-1877308001	
@@ -11737,6 +11738,7 @@
 12	536	-1	1407590371	
 12	537	-1	-1476942622	
 12	538	-1	-809709035	[proc,soul_wars_rewards_statbuttondraw]
+12	539	-1	-1733584838	
 12	540	-1	-948431074	[clientscript,ge_offers_bigbutton_init]
 12	541	-1	938547597	[proc,ge_offers_bigbutton]
 12	542	-1	1272760493	[clientscript,ge_offers_bigbutton_op]
