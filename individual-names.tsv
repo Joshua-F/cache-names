@@ -3712,6 +3712,7 @@
 [proc,interface_invother_draw_slot_big]
 [proc,interface_invother_update_big]
 [proc,inv_freespace]
+[proc,inventory_antidrag_active]
 [proc,inventory_build]
 [proc,inventory_drawitem]
 [proc,inventory_setophelds]
@@ -5381,6 +5382,7 @@ login_icons
 logo
 logo_deadman_mode
 logo_osrs
+logo_seasonal_mode
 lonesome
 long ago
 long way home

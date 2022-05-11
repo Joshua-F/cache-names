@@ -9234,7 +9234,7 @@
 8	2266	-1	1859383576	square_button,0
 8	2267	-1	1859383577	square_button,1
 8	2268	-1	965112423	tradebacking_grey
-8	2269	-1	2068756832	
+8	2269	-1	2068756832	logo_seasonal_mode
 8	2270	-1	1375004274	hitmark,17
 8	2271	-1	-1434843594	headicons_pk_interface,15
 8	2272	-1	1083716759	achievement_diary_icons,5
@@ -17354,7 +17354,7 @@
 12	6013	-1	-308894816	[clientscript,inventory_reorder]
 12	6014	-1	333821694	[clientscript,inventory_op]
 12	6015	-1	164177897	[clientscript,inventory_antidrag_update]
-12	6016	-1	737786700	
+12	6016	-1	737786700	[proc,inventory_antidrag_active]
 12	6017	-1	595750468	
 12	6018	-1	-1042274217	
 12	6019	-1	-85141180	
