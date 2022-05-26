@@ -4563,6 +4563,7 @@
 [proc,text_create]
 [proc,text_device]
 [proc,thinbox]
+[proc,thinbox_entityoverlay]
 [proc,thinbox_light]
 [proc,thinbox_specific]
 [proc,thinstonebox]
