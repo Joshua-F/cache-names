@@ -12437,7 +12437,7 @@
 12	940	-1	1185723034	[clientscript,peng_observer_init]
 12	941	-1	-415132919	[clientscript,peng_observer_borders]
 12	942	-1	-1424906999	[proc,peng_observer_borders]
-12	943	-1	708168567	
+12	943	-1	708168567	[proc,soul_wars_rewards_drawitem_other]
 12	944	-1	-1879505847	
 12	945	-1	-1022639624	
 12	946	-1	-933646167	[clientscript,zep_balloon_map_hover]
@@ -13732,7 +13732,7 @@
 12	2235	-1	878841298	
 12	2236	-1	-483042824	
 12	2237	-1	-520888793	
-12	2238	-1	1114618134	
+12	2238	-1	1114618134	[clientscript,steelborder_closebutton]
 12	2239	-1	1018676190	[clientscript,keyboard_hide]
 12	2240	-1	-1842806649	[clientscript,collection_init]
 12	2241	-1	-91915553	
@@ -17338,7 +17338,7 @@
 12	5842	-1	1196493637	
 12	5843	-1	-316716326	[clientscript,if_fade]
 12	5844	-1	684169108	[clientscript,if_fade_timer]
-12	5845	-1	-763603713	
+12	5845	-1	-763603713	[proc,dynamic_stone_button_filled_main]
 12	5846	-1	1392922647	[proc,buff_bar_dynamic_tooltip]
 12	5847	-1	-1818703406	[proc,buff_bar_dynamic_graphic]
 12	5848	-1	-545231978	[proc,buff_bar_dynamic_graphic2]
@@ -17408,8 +17408,8 @@
 12	5912	-1	-1931618034	
 12	5913	-1	95263458	
 12	5914	-1	-44811935	[clientscript,wildy_loot_init]
-12	5915	-1	-1240217121	
-12	5916	-1	263019099	
+12	5915	-1	-1240217121	[clientscript,wildy_loot_itemnote_transmit]
+12	5916	-1	263019099	[clientscript,wildy_loot_itemnote_switch]
 12	5917	-1	1118058854	
 12	5918	-1	1682558843	959525
 12	5919	-1	-250887347	
@@ -17551,9 +17551,9 @@
 12	6055	-1	-891302799	
 12	6056	-1	1507028570	
 12	6057	-1	268803162	
-12	6058	-1	186360211	
+12	6058	-1	186360211	[proc,spec_regen_timer_off]
 12	6059	-1	-1955543216	
-12	6060	-1	1124663217	
+12	6060	-1	1124663217	[clientscript,spec_regen_vartransmit]
 12	6061	-1	1561053590	
 12	6062	-1	1981989065	
 12	6063	-1	-206092315	
