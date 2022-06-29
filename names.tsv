@@ -8382,6 +8382,7 @@
 8	1405	-1	720212002	tiny_combat_staticons,4
 8	1406	-1	720212003	tiny_combat_staticons,5
 8	1407	-1	720212004	tiny_combat_staticons,6
+8	1408	-1	87149996	iron_icons,5
 8	1412	-1	1085444827	refresh
 8	1413	-1	-1333874720	side_icons,17
 8	1414	-1	-1054847467	sideicons_interface,17
@@ -12024,6 +12025,7 @@
 12	530	-1	-1487347113	[proc,settings_buff_shadow_veil]
 12	531	-1	1321326204	
 12	532	-1	1636266467	
+12	533	-1	1573554978	
 12	534	-1	-736160877	[clientscript,steam_set_unlocked]
 12	535	-1	690006799	[clientscript,soul_wars_rewards_init]
 12	536	-1	1407590371	
@@ -12126,6 +12128,9 @@
 12	633	-1	1827543514	[proc,int_to_bool]
 12	634	-1	-1646353300	[proc,displayname_draw]
 12	635	-1	824285238	[clientscript,displayname_lookup]
+12	636	-1	-358414329	
+12	637	-1	-1184707164	[proc,debug_mes_info]
+12	638	-1	-1172153652	[proc,debug_mes_warn]
 12	639	-1	754701892	[clientscript,poh_menagerie_initlist]
 12	640	-1	1159138960	[clientscript,poh_menagerie_drawlist]
 12	641	-1	-79086448	[proc,poh_menagerie_drawlist]
@@ -13966,7 +13971,7 @@
 12	2476	-1	-1641895273	[proc,on_enhanced_mobile]
 12	2477	-1	-931507061	[clientscript,duel_stake_inv_cash]
 12	2478	-1	277332410	[clientscript,duel_stake_inv_details]
-12	2479	-1	2082265947	
+12	2479	-1	2082265947	[clientscript,load_stake_preset]
 12	2480	-1	-90177871	[clientscript,duel_stake_load_highlight]
 12	2481	-1	-258541716	[clientscript,duel_stake_load_mouseout]
 12	2482	-1	-619251907	[clientscript,duel_switch_setup_buttons]
@@ -15247,8 +15252,8 @@
 12	3757	-1	1499614526	
 12	3758	-1	-419999271	[proc,recipe_for_disaster_button]
 12	3759	-1	849171182	[clientscript,recipe_for_disaster_animate]
-12	3760	-1	1722931478	
-12	3761	-1	-995504435	
+12	3760	-1	1722931478	[clientscript,recipe_for_disaster_updatecolour]
+12	3761	-1	-995504435	[proc,recipe_for_disaster_getcolour]
 12	3762	-1	-864388598	[clientscript,recipe_for_disaster_op]
 12	3763	-1	-2059838897	[clientscript,friendschat_op]
 12	3764	-1	-1582810174	[proc,friendschat_sendkick]
@@ -15623,7 +15628,7 @@
 12	4133	-1	604853882	[proc,arceuus_autocast_spellpos]
 12	4134	-1	198980000	
 12	4135	-1	-292888618	
-12	4136	-1	-1937934073	
+12	4136	-1	-1937934073	[proc,quest_is_complete]
 12	4137	-1	1351525461	
 12	4138	-1	1036147245	
 12	4139	-1	426498881	[clientscript,tutorial_displayname_allow_input]
@@ -17476,7 +17481,7 @@
 12	5986	-1	-384876865	
 12	5987	-1	1478431930	218641
 12	5988	-1	1478431929	218640
-12	5989	-1	-1083477655	
+12	5989	-1	-1083477655	[proc,quest_requirement_check]
 12	5990	-1	-143021309	
 12	5991	-1	-956204826	
 12	5992	-1	-908069545	
@@ -17569,7 +17574,7 @@
 12	6079	-1	1479112416	220176
 12	6080	-1	1479120010	220945
 12	6081	-1	1479120009	220944
-12	6082	-1	160059673	
+12	6082	-1	160059673	[clientscript,reward_shop_init]
 12	6083	-1	1441182053	
 12	6084	-1	-544222227	
 12	6085	-1	1713868688	
@@ -17610,9 +17615,9 @@
 12	6120	-1	122177522	
 12	6121	-1	1159157315	
 12	6122	-1	-69673348	
-12	6123	-1	1218134314	
-12	6124	-1	1278030699	
-12	6125	-1	790802183	
+12	6123	-1	1218134314	[clientscript,smithing_close]
+12	6124	-1	1278030699	[clientscript,crafting_init]
+12	6125	-1	790802183	[clientscript,crafting_close]
 12	6126	-1	-636892531	
 12	6127	-1	-145137389	
 12	6128	-1	-576078943	
@@ -17638,6 +17643,11 @@
 12	6148	-1	-60537473	
 12	6149	-1	1684243539	
 12	6150	-1	-1584536443	
+12	6151	-1	1818319296	[proc,debug_mes_error]
+12	6152	-1	355900414	
+12	6153	-1	-61172546	[proc,quest_is_subquest]
+12	6154	-1	1754495259	
+12	6155	-1	-1568110508	[proc,questdisplay_hide_quest]
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
 13	496	-1	1057075019	b12_full
