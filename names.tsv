@@ -15692,7 +15692,7 @@
 12	4199	-1	2072946417	[proc,audio_menu_createentry_indexed]
 12	4200	-1	1051327940	[clientscript,audio_category_select]
 12	4201	-1	41553860	[proc,audio_category_select]
-12	4202	-1	-1701118202	
+12	4202	-1	-1701118202	[proc,audio_synth_sublist]
 12	4203	-1	1858824514	[clientscript,audio_synth_play]
 12	4204	-1	-252875220	[clientscript,audio_loop_click]
 12	4205	-1	-1225032748	
@@ -17489,7 +17489,7 @@
 12	6002	-1	27336276	
 12	6003	-1	-1955380463	[clientscript,examine_item]
 12	6004	-1	-2082017007	[proc,examine_item]
-12	6005	-1	2075495200	
+12	6005	-1	2075495200	[proc,examine_price_info]
 12	6006	-1	298779023	
 12	6007	-1	-1325484753	[clientscript,inventory_init]
 12	6008	-1	1758409148	[clientscript,inventory_key]
@@ -17595,15 +17595,15 @@
 12	6108	-1	2023604783	
 12	6109	-1	1184379123	
 12	6110	-1	-1625452097	
-12	6111	-1	-15223047	
+12	6111	-1	-15223047	[clientscript,giants_foundry_hud_init]
 12	6112	-1	1135383322	
-12	6113	-1	367763296	
+12	6113	-1	367763296	[clientscript,giants_foundry_hud_update]
 12	6114	-1	420987162	
 12	6115	-1	1736076837	
 12	6116	-1	-296388274	
 12	6117	-1	-1383941887	
 12	6118	-1	1756472006	
-12	6119	-1	-1974975660	
+12	6119	-1	-1974975660	[proc,giants_foundry_section_count]
 12	6120	-1	122177522	
 12	6121	-1	1159157315	
 12	6122	-1	-69673348	
@@ -17640,14 +17640,14 @@
 12	6153	-1	-61172546	[proc,quest_is_subquest]
 12	6154	-1	1754495259	
 12	6155	-1	-1568110508	[proc,questdisplay_hide_quest]
-12	6156	-1	1881684709	
-12	6157	-1	-502872183	
-12	6158	-1	-1735258377	
-12	6159	-1	-1733231256	
-12	6160	-1	-1738873566	
-12	6161	-1	-1830636535	
-12	6162	-1	-1225597634	
-12	6163	-1	-667826216	
+12	6156	-1	1881684709	[proc,scrollbar_horizontal]
+12	6157	-1	-502872183	[proc,scrollbar_horizontal_rebuild]
+12	6158	-1	-1735258377	[clientscript,scrollbar_horizontal_hold]
+12	6159	-1	-1733231256	[clientscript,scrollbar_horizontal_jump]
+12	6160	-1	-1738873566	[clientscript,scrollbar_horizontal_drag]
+12	6161	-1	-1830636535	[clientscript,scrollbar_horizontal_wheel]
+12	6162	-1	-1225597634	[proc,scrollbar_horizontal_doscroll]
+12	6163	-1	-667826216	[proc,scrollbar_horizontal_setdragger]
 12	6164	-1	-961311365	
 12	6165	-1	823089907	
 12	6166	-1	1985473779	
@@ -17843,7 +17843,7 @@
 12	6357	-1	303837621	
 12	6358	-1	1866266387	
 12	6359	-1	-226250703	
-12	6360	-1	-1967626985	
+12	6360	-1	-1967626985	[clientscript,clan_stonebutton_init]
 12	6361	-1	-469459470	
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
