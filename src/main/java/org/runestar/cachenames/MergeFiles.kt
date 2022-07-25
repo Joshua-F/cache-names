@@ -230,6 +230,11 @@ fun main() {
         "popout_icons,$x".add()
         "speedrun_trophies,$x".add()
         "arrows_curved,$x".add()
+        "lotg_buttons,$x".add()
+        "giants_foundry_moulds_big,$x".add()
+        "giants_foundry_moulds_small,$x".add()
+        "giants_foundry_tool_icon,$x".add()
+        "giants_foundry_hud_bar,$x".add()
     }
 
     knownNames.remove("l16_186")
