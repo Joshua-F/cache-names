@@ -18304,14 +18304,14 @@
 12	6583	-1	-1203607408	[proc,toa_hud_statusrefresh]
 12	6584	-1	1926851319	
 12	6585	-1	2098541379	[clientscript,toa_hud_statusnames]
-12	6586	-1	2017458931	
-12	6587	-1	1007684851	
-12	6588	-1	296611919	
-12	6589	-1	67935823	
+12	6586	-1	2017458931	[clientscript,toa_raid_summary_init]
+12	6587	-1	1007684851	[proc,toa_raid_summary_init]
+12	6588	-1	296611919	[clientscript,toa_raid_summary_timetab]
+12	6589	-1	67935823	[proc,toa_raid_summary_timetab]
 12	6590	-1	985488768	
-12	6591	-1	1353085148	
+12	6591	-1	1353085148	[clientscript,toa_raid_summary_selectedborder]
 12	6592	-1	-1000680788	
-12	6593	-1	1970064861	
+12	6593	-1	1970064861	[clientscript,toa_raid_summary_mobile_tooltip]
 12	6594	-1	200640222	[clientscript,toa_partylist_init]
 12	6595	-1	-1166285783	[proc,toa_partylist_setsize]
 12	6596	-1	-156511703	[clientscript,toa_partylist_setsize]
@@ -18329,7 +18329,7 @@
 12	6608	-1	37959430	[clientscript,toa_partylist_clicksort]
 12	6609	-1	1373266429	[clientscript,toa_invocations_init]
 12	6610	-1	1362017759	
-12	6611	-1	291132392	
+12	6611	-1	291132392	[clientscript,toa_lobby_hud_init]
 12	6612	-1	-1327925257	
 12	6613	-1	-1058207241	
 12	6614	-1	1868669351	[clientscript,toa_hud_nameflasher]
