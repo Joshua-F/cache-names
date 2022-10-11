@@ -2529,6 +2529,7 @@
 [clientscript,pvpa_sidepanel_init]
 [clientscript,quest_journal_reset]
 [clientscript,questdisplay]
+[clientscript,questjournal_init]
 [clientscript,questlist_completed]
 [clientscript,questlist_draw]
 [clientscript,questlist_init]
@@ -2843,6 +2844,7 @@
 [clientscript,speedrunning_helper_update]
 [clientscript,speedrunning_helper_update_time]
 [clientscript,speedrunning_init]
+[clientscript,speedrunning_rewards_init]
 [clientscript,speedrunning_stats_update]
 [clientscript,spinmodel]
 [clientscript,spinner]
@@ -5495,6 +5497,7 @@ corridors of power
 courage
 crag
 creature cruelty
+crest of a wave
 cross
 crystal castle
 crystal cave
@@ -5614,6 +5617,9 @@ fixed_map_mask
 fixed_minimap_cover
 floating free
 flute salad
+fog01
+fog02
+fog03
 food for thought
 forbidden
 forest
@@ -5684,6 +5690,7 @@ ground scape
 group_icon
 grow grow grow
 grumpy
+guardians of the rift
 gungywater
 hallowed sepulchre
 ham and seek
@@ -6139,6 +6146,7 @@ sigmunds showdown
 silence
 single_arrow
 sire
+skulls01
 sl_arrows
 sl_back
 sl_button
@@ -6172,6 +6180,7 @@ spooky
 spooky2
 spookyjungle
 spy games
+spymaster
 stagnant
 stand up and be counted
 starlight
@@ -6205,6 +6214,7 @@ tears of guthix
 technology
 temple
 temple of light
+temple of the eye
 temple of tribes
 tempoross
 tex_brown
@@ -6318,6 +6328,7 @@ upir likhyi
 upper_depths
 vanescula
 vanstrom
+venomous
 venture
 venture2
 verdana_11pt_bold
