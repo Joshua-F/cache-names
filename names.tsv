@@ -12482,6 +12482,8 @@
 12	755	-1	1590408477	[clientscript,trade_main_init]
 12	756	-1	333504356	[clientscript,cc_flasher]
 12	757	-1	1847157575	[clientscript,if_flasher]
+12	758	-1	517615192	
+12	759	-1	-1488199527	
 12	760	-1	2016902673	[proc,worldswitcher_sortbutton_draw]
 12	761	-1	-1319740140	[clientscript,worldswitcher_sortbutton_op]
 12	762	-1	1024599313	[clientscript,trade_main_drawitems]
@@ -18083,7 +18085,7 @@
 12	6358	-1	1866266387	
 12	6359	-1	-226250703	[proc,pvpa_1v1_info_getlayer]
 12	6360	-1	-1967626985	[clientscript,clan_stonebutton_init]
-12	6361	-1	-469459470	
+12	6361	-1	1680603406	
 12	6362	-1	620596505	[proc,cr_quests_ui_create_tab]
 12	6363	-1	180942405	
 12	6364	-1	-533453755	
@@ -18647,6 +18649,7 @@
 12	6922	-1	-1354933209	
 12	6923	-1	-1582247519	[clientscript,hw22_communitygoal_current_state_transmit]
 12	6924	-1	1734978735	
+12	6925	-1	1740724371	
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
 13	496	-1	1057075019	b12_full
