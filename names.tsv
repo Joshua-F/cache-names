@@ -15993,7 +15993,7 @@
 12	4131	-1	-2086072865	[proc,magic_spellbook_unlocked]
 12	4132	-1	-1247402635	
 12	4133	-1	604853882	[proc,arceuus_autocast_spellpos]
-12	4134	-1	198980000	
+12	4134	-1	198980000	[proc,diary_reward_get]
 12	4135	-1	-292888618	
 12	4136	-1	-1937934073	[proc,quest_is_complete]
 12	4137	-1	1351525461	
@@ -16602,7 +16602,7 @@
 12	4740	-1	-2072728836	
 12	4741	-1	-62127936	[clientscript,blast_furnace_plan_init]
 12	4742	-1	78866012	[proc,affixtimestamp]
-12	4743	-1	-183396110	
+12	4743	-1	-183396110	[proc,highlighting_channel_setup]
 12	4744	-1	-672542022	[clientscript,highlight_npc_on]
 12	4745	-1	626026482	[clientscript,highlight_npc_off]
 12	4746	-1	-278122636	[clientscript,highlight_npctype_on]
@@ -17045,7 +17045,7 @@
 12	5183	-1	-160835407	
 12	5184	-1	-385265368	[proc,settings_helper_agility]
 12	5185	-1	1420886446	[proc,settings_helper_agility_highlight_obstacles]
-12	5186	-1	-924510841	
+12	5186	-1	-924510841	[proc,emote_get_name]
 12	5187	-1	-96891388	[proc,settings_buff_ammo]
 12	5188	-1	-1644555304	
 12	5189	-1	937485246	
@@ -17079,7 +17079,7 @@
 12	5217	-1	237457306	
 12	5218	-1	-261007105	
 12	5219	-1	-1274057985	
-12	5220	-1	111382488	
+12	5220	-1	111382488	[proc,tob_partylist_fillline]
 12	5221	-1	212625369	[clientscript,summary_sidepanel_timer_draw]
 12	5222	-1	1951951557	
 12	5223	-1	1931831144	
@@ -18075,7 +18075,7 @@
 12	6213	-1	1017930522	
 12	6214	-1	-765353880	
 12	6215	-1	-139407768	
-12	6216	-1	1022285679	
+12	6216	-1	1022285679	[clientscript,pvpa_spectator_double]
 12	6217	-1	1542258811	[proc,pvpa_spectator_stats]
 12	6218	-1	-590875243	[proc,pvpa_spectator_inventory_dummy]
 12	6219	-1	-1083506425	[clientscript,pvpa_board_init]
@@ -18302,7 +18302,7 @@
 12	6440	-1	267326769	[proc,herbiboar_helper_highlight_disable]
 12	6441	-1	-1279738004	[clientscript,herbiboar_helper_highlight_clear]
 12	6442	-1	-343315092	[proc,herbiboar_helper_highlight_clear]
-12	6443	-1	1074628602	
+12	6443	-1	1074628602	[clientscript,clan_hall_partydrop_main_chestitems]
 12	6444	-1	-224237314	[proc,herbiboar_helper_highlight_enable]
 12	6445	-1	2056145690	[proc,settings_buff_cannon_decay]
 12	6446	-1	1741248769	[proc,settings_helper_tog]
@@ -18326,10 +18326,10 @@
 12	6464	-1	2033358531	
 12	6465	-1	-1854907623	
 12	6466	-1	-1722902726	[proc,settings_npc_indicators]
-12	6467	-1	-1933403241	
-12	6468	-1	534144374	
-12	6469	-1	539922867	
-12	6470	-1	-930089327	
+12	6467	-1	-1933403241	[proc,settings_npc_indicators_outline]
+12	6468	-1	534144374	[proc,settings_npc_indicators_name]
+12	6469	-1	539922867	[proc,settings_npc_indicators_tile]
+12	6470	-1	-930089327	[proc,settings_npc_indicators_check]
 12	6471	-1	741285617	
 12	6472	-1	67948746	
 12	6473	-1	1496367849	
@@ -18368,38 +18368,38 @@
 12	6506	-1	688743746	
 12	6507	-1	-194173211	
 12	6508	-1	988649209	
-12	6509	-1	-1170175672	
+12	6509	-1	-1170175672	[clientscript,br_loadout_settabs]
 12	6510	-1	-473301194	
-12	6511	-1	-860244152	
+12	6511	-1	-860244152	[proc,br_loadout_settabs]
 12	6512	-1	-1127378795	
 12	6513	-1	245783859	
 12	6514	-1	1600993472	
 12	6515	-1	-1529793822	
 12	6516	-1	-202889808	
 12	6517	-1	1635782764	
-12	6518	-1	864467575	
-12	6519	-1	276433942	
+12	6518	-1	864467575	[clientscript,br_loadout_drawtab]
+12	6519	-1	276433942	[clientscript,br_loadout_displayinit]
 12	6520	-1	-945826537	
 12	6521	-1	-1660222697	
 12	6522	-1	-1700530310	
 12	6523	-1	-1717968765	
-12	6524	-1	-1209625472	
-12	6525	-1	1313605620	
-12	6526	-1	-294898395	
+12	6524	-1	-1209625472	[proc,br_loadout_get_spellbook]
+12	6525	-1	1313605620	[proc,br_loadout_set_spellbook]
+12	6526	-1	-294898395	[clientscript,br_lobbyoverlay_drawsettings]
 12	6527	-1	-372186979	[proc,cluehelper_uri_overlay]
-12	6528	-1	-1622956639	
+12	6528	-1	-1622956639	[clientscript,loadnpc_cluehelper_uri_transmit]
 12	6529	-1	1102148597	
 12	6530	-1	-254553063	
 12	6531	-1	1356143004	
-12	6532	-1	1043350425	
+12	6532	-1	1043350425	[proc,loadnpc_cluehelper_uri_overlay]
 12	6533	-1	1969116220	
-12	6534	-1	365159205	
+12	6534	-1	365159205	[proc,br_lobbyoverlay_drawsettings]
 12	6535	-1	995422396	
-12	6536	-1	-873066171	
+12	6536	-1	-873066171	[clientscript,br_settings_init]
 12	6537	-1	1186924477	
-12	6538	-1	-1796047215	
-12	6539	-1	1260694673	
-12	6540	-1	-1945034604	
+12	6538	-1	-1796047215	[clientscript,br_settings_indicators]
+12	6539	-1	1260694673	[proc,br_settings_indicators]
+12	6540	-1	-1945034604	[clientscript,br_settings_op]
 12	6541	-1	-166064769	
 12	6542	-1	-519557006	
 12	6543	-1	-2043074881	
@@ -18432,9 +18432,9 @@
 12	6570	-1	-195126886	
 12	6571	-1	-13463813	
 12	6572	-1	695904736	
-12	6573	-1	518661703	
-12	6574	-1	970380359	
-12	6575	-1	-1048136203	
+12	6573	-1	518661703	[clientscript,thinbox_tab_draw]
+12	6574	-1	970380359	[proc,thinbox_tab_draw]
+12	6575	-1	-1048136203	[proc,thinbox_tab_draw_core]
 12	6576	-1	-237467119	[clientscript,toa_hud_init]
 12	6577	-1	-1600498820	[proc,toa_hud_status_init]
 12	6578	-1	-241973155	[clientscript,toa_hud_draw]
@@ -18471,8 +18471,8 @@
 12	6609	-1	1373266429	[clientscript,toa_invocations_init]
 12	6610	-1	1362017759	
 12	6611	-1	291132392	[clientscript,toa_lobby_hud_init]
-12	6612	-1	-1327925257	
-12	6613	-1	-1058207241	
+12	6612	-1	-1327925257	[clientscript,toa_lobby_update_header]
+12	6613	-1	-1058207241	[proc,toa_lobby_update_header]
 12	6614	-1	1868669351	[clientscript,toa_hud_nameflasher]
 12	6615	-1	-1963391138	[clientscript,toa_partydetails_init]
 12	6616	-1	-1584320599	[proc,toa_partydetails_setsize]
@@ -18580,7 +18580,7 @@
 12	6718	-1	553749645	
 12	6719	-1	1156329153	
 12	6720	-1	896189644	
-12	6721	-1	1090608639	
+12	6721	-1	1090608639	[proc,loadnpc_cluehelper_generic]
 12	6722	-1	673604049	[clientscript,toa_partydetails_addmember]
 12	6723	-1	-604748329	
 12	6724	-1	-126404891	
@@ -18629,7 +18629,7 @@
 12	6767	-1	-106635017	
 12	6768	-1	126460151	
 12	6769	-1	-1248809002	
-12	6770	-1	-520133663	
+12	6770	-1	-520133663	[proc,toa_invocations_side_panel_update]
 12	6771	-1	1376341334	[clientscript,toa_scoreboard_init]
 12	6772	-1	295176019	[clientscript,toa_scoreboard_tab_update]
 12	6773	-1	1796151635	[proc,toa_scoreboard_tab_update]
@@ -18651,17 +18651,17 @@
 12	6789	-1	-98286407	
 12	6790	-1	1230484652	
 12	6791	-1	-1536166298	[clientscript,speedrunning_rewards_init]
-12	6792	-1	-39696718	
-12	6793	-1	-34924045	
-12	6794	-1	1943951591	
-12	6795	-1	-1014073188	
-12	6796	-1	-1906626428	
+12	6792	-1	-39696718	[proc,speedrunning_rewards_draw]
+12	6793	-1	-34924045	[proc,speedrunning_reward_draw_item]
+12	6794	-1	1943951591	[proc,speedrunning_filterbutton]
+12	6795	-1	-1014073188	[clientscript,speedrunning_reward_shop_select]
+12	6796	-1	-1906626428	[clientscript,speedrunning_reward_shop_refuse]
 12	6797	-1	-241273277	
-12	6798	-1	-1251138495	
-12	6799	-1	413243068	
-12	6800	-1	-808767341	
-12	6801	-1	-990525320	
-12	6802	-1	2142058104	
+12	6798	-1	-1251138495	[clientscript,speedrunning_reward_shop_confirmop]
+12	6799	-1	413243068	[clientscript,speedrunning_reward_shop_buy]
+12	6800	-1	-808767341	[clientscript,speedrunning_reward_confirm_back]
+12	6801	-1	-990525320	[proc,speedrunning_reward_shop_showpoints]
+12	6802	-1	2142058104	[clientscript,speedrunning_reward_shop_showpoints]
 12	6803	-1	-756333345	
 12	6804	-1	-414627642	
 12	6805	-1	307438323	
@@ -18808,10 +18808,10 @@
 12	6948	-1	280962449	
 12	6949	-1	51559315	67345
 12	6950	-1	51559314	67344
-12	6951	-1	-1081337566	
-12	6952	-1	-1865863497	
-12	6953	-1	-558681382	
-12	6954	-1	-1410943644	
+12	6951	-1	-1081337566	[proc,percentage_string]
+12	6952	-1	-1865863497	[proc,divide_up]
+12	6953	-1	-558681382	[proc,divide_round]
+12	6954	-1	-1410943644	[proc,max_int]
 12	6955	-1	-1862920754	
 12	6956	-1	616558158	
 12	6957	-1	-710059136	
