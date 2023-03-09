@@ -12222,7 +12222,7 @@
 12	356	-1	1735994846	[proc,stonepanel_blue]
 12	357	-1	1772198385	[clientscript,stonepanel_red]
 12	358	-1	333563889	[proc,stonepanel_red]
-12	359	-1	-991284212	
+12	359	-1	-248563767	
 12	360	-1	1262095929	
 12	361	-1	-1987160837	[clientscript,soul_wars_game_hud_init]
 12	362	-1	-583875358	[clientscript,soul_wars_game_hud_update]
@@ -12410,7 +12410,7 @@
 12	544	-1	907808010	[proc,league_reward_draw_item]
 12	545	-1	-1093432751	[clientscript,wear_updateslot]
 12	546	-1	1553538129	[proc,wear_updateslot]
-12	547	-1	-984361086	[clientscript,runweight_visible]
+12	547	-1	120670665	
 12	548	-1	-1524383477	[proc,meslayer_mode12]
 12	549	-1	190536100	[proc,meslayer_mode12_setprompt]
 12	550	-1	-1524383446	[proc,meslayer_mode13]
@@ -13797,7 +13797,7 @@
 12	1931	-1	47685585	21264
 12	1932	-1	47688340	21520
 12	1933	-1	47690423	21776
-12	1934	-1	783654106	
+12	1934	-1	-1515141522	
 12	1935	-1	662921668	[proc,instance_check]
 12	1936	-1	241151661	
 12	1937	-1	-2002384231	[clientscript,bookofscrolls_init]
@@ -14430,6 +14430,8 @@
 12	2564	-1	-2069191035	[clientscript,membership_benefits_close_benefit_hover]
 12	2565	-1	-1738800414	[clientscript,membership_benefits_close_benefit]
 12	2566	-1	-47454446	
+12	2567	-1	-1467294890	
+12	2568	-1	791093373	
 12	2569	-1	-1026687418	[proc,membership_benefits_prompt_button_init]
 12	2570	-1	712183442	[clientscript,membership_benefits_prompt_button_draw]
 12	2571	-1	-1031193454	[proc,membership_benefits_prompt_button_draw]
@@ -14619,8 +14621,7 @@
 12	2755	-1	-1478938743	[proc,wint_timer_resynch]
 12	2756	-1	-873394286	[clientscript,wint_timer_countdown]
 12	2757	-1	618053010	[proc,wint_timer_countdown]
-12	2758	-1	-1797499392	[proc,prayer_infobutton]
-12	2759	-1	941007087	[clientscript,prayer_infomode]
+12	2758	-1	1454728309	
 12	2760	-1	1346060301	[clientscript,prayer_levelupdate]
 12	2761	-1	1655991821	[proc,prayer_levelupdate]
 12	2762	-1	186260102	[proc,prayer_gettooltiptext]
@@ -14655,7 +14656,7 @@
 12	2791	-1	806088921	[proc,skill_guide_data_magic]
 12	2792	-1	-1723908796	[proc,orbs_spec_draw_button]
 12	2793	-1	2025499251	[clientscript,orbs_toggle_spec_op]
-12	2794	-1	-1288651461	[clientscript,orbs_blocked_spec_op]
+12	2794	-1	1448378753	
 12	2795	-1	-1446156868	[clientscript,itemsets_info_init]
 12	2796	-1	1250767661	
 12	2797	-1	-1574586929	[clientscript,journal_list_init]
@@ -15014,6 +15015,12 @@
 12	3150	-1	-868313624	
 12	3151	-1	-1345310507	[clientscript,boardgames_draughts_options_update_selections]
 12	3152	-1	1762280149	[proc,boardgames_draughts_options_update_selections]
+12	3153	-1	1242812029	
+12	3154	-1	1219702657	
+12	3155	-1	-809606738	
+12	3156	-1	-1481051218	
+12	3157	-1	-1911888506	
+12	3158	-1	-1652096640	
 12	3159	-1	38337636	
 12	3160	-1	-171869472	[proc,league_world]
 12	3161	-1	1373478006	[clientscript,clear_chat_all]
@@ -15162,6 +15169,9 @@
 12	3304	-1	1736656507	[clientscript,wiki_icon_init]
 12	3305	-1	296834658	[clientscript,wiki_icon_update]
 12	3306	-1	748553314	[proc,wiki_icon_update]
+12	3307	-1	797198458	
+12	3308	-1	1733621370	
+12	3309	-1	621721015	
 12	3310	-1	2036451027	[proc,summary_sidepanel_draw]
 12	3311	-1	1647437019	[clientscript,nightmare_totems_init]
 12	3312	-1	-1526421866	[clientscript,nightmare_totem_hud_fade_in]
@@ -15504,7 +15514,11 @@
 12	3649	-1	-1152240731	
 12	3650	-1	835932425	[clientscript,bondif_init]
 12	3651	-1	1823188781	
+12	3652	-1	-1008432542	
+12	3653	-1	-1432685116	
+12	3654	-1	-1167963406	
 12	3655	-1	359594442	
+12	3656	-1	-2138341453	
 12	3657	-1	1652275600	[clientscript,trailblazer_areas_init]
 12	3658	-1	1370690289	[proc,league_areas_draw_interface]
 12	3659	-1	-1557577616	
@@ -16395,6 +16409,7 @@
 12	4544	-1	-1498487291	-388061
 12	4545	-1	-1498484557	-388317
 12	4546	-1	-1497711702	-393181
+12	4547	-1	1879150264	
 12	4548	-1	2073673795	[clientscript,fishing_spot_indicator_vartransmit]
 12	4549	-1	2018980537	[clientscript,fishing_spot_indicator_invtransmit]
 12	4550	-1	833515420	[clientscript,fishing_spot_indicator_stattransmit]
@@ -16408,6 +16423,7 @@
 12	4558	-1	793303117	
 12	4559	-1	-1716246348	[clientscript,fishing_spot_indicator_tile_setup]
 12	4560	-1	1543060148	[proc,fishing_spot_indicator_tile_setup]
+12	4561	-1	1879312828	
 12	4562	-1	-1669341472	
 12	4563	-1	1784868172	
 12	4564	-1	-1487592871	[clientscript,settings_player_attack_options]
@@ -17038,6 +17054,7 @@
 12	5189	-1	937485246	
 12	5190	-1	-110016457	[proc,settings_minimap_lock]
 12	5191	-1	899757623	[clientscript,settings_minimap_lock]
+12	5192	-1	-1179034793	
 12	5193	-1	-2078683157	[proc,settings_set_draw_distance]
 12	5194	-1	-298631870	
 12	5195	-1	-2101469092	
@@ -17189,8 +17206,6 @@
 12	5341	-1	-1214070430	
 12	5342	-1	-2121187748	
 12	5343	-1	-1187073890	
-12	5344	-1	206100301	
-12	5345	-1	-1914042432	
 12	5346	-1	-1468224707	
 12	5347	-1	-1225907557	
 12	5348	-1	-186448373	[proc,helper_generic_set_bit]
@@ -17912,6 +17927,7 @@
 12	6064	-1	2017734122	
 12	6065	-1	-1499063645	
 12	6066	-1	-1949201160	
+12	6067	-1	312412503	
 12	6069	-1	-653456438	
 12	6070	-1	1622782736	[proc,raffle_tab_not_selected]
 12	6071	-1	1201829500	[proc,raffle_tab_selected]
