@@ -235,6 +235,13 @@ fun main() {
         "giants_foundry_moulds_small,$x".add()
         "giants_foundry_tool_icon,$x".add()
         "giants_foundry_hud_bar,$x".add()
+        "worldmap_marker_mini,$x".add()
+        "close_arrows,$x".add()
+        "pre_eoc_stones,$x".add()
+        "osm_status_icons,$x".add()
+        "pvpa_rankicons,$x".add()
+        "combination_lock_join,$x".add()
+        "combination_lock_arrows,$x".add()
     }
 
     knownNames.remove("l16_186")

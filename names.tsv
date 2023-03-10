@@ -8276,8 +8276,8 @@
 8	1177	-1	-1040412602	
 8	1178	-1	-755780838	resize_map_mask
 8	1179	-1	-1447235676	resize_compass_mask
-8	1180	-1	-824987820	
-8	1181	-1	-824987819	
+8	1180	-1	-824987820	pre_eoc_stones,0
+8	1181	-1	-824987819	pre_eoc_stones,1
 8	1182	-1	1994806034	fixed_minimap_cover
 8	1183	-1	-1470463910	fixed_map_mask
 8	1184	-1	-1468326684	fixed_compass_mask
@@ -8505,9 +8505,9 @@
 8	1406	-1	720212003	tiny_combat_staticons,5
 8	1407	-1	720212004	tiny_combat_staticons,6
 8	1408	-1	87149996	iron_icons,5
-8	1409	-1	-2039678294	
-8	1410	-1	-2039678293	
-8	1411	-1	-2039678292	
+8	1409	-1	-2039678294	pvpa_rankicons,0
+8	1410	-1	-2039678293	pvpa_rankicons,1
+8	1411	-1	-2039678292	pvpa_rankicons,2
 8	1412	-1	1085444827	refresh
 8	1413	-1	-1333874720	side_icons,17
 8	1414	-1	-1054847467	sideicons_interface,17
@@ -8712,7 +8712,7 @@
 8	1613	-1	372595405	keyboard_key_middle
 8	1614	-1	709376484	keyboard_key_right
 8	1615	-1	-2129892515	
-8	1616	-1	284547162	
+8	1616	-1	284547162	osm_drag_camera
 8	1617	-1	290391726	options_slider,8
 8	1618	-1	-1297225048	
 8	1619	-1	1068276279	
@@ -8736,14 +8736,14 @@
 8	1637	-1	1015588478	orb_filler,13
 8	1638	-1	412208745	options_slider,10
 8	1639	-1	412208746	options_slider,11
-8	1640	-1	-174781753	
-8	1641	-1	-174781752	
-8	1642	-1	-174781751	
-8	1643	-1	-174781750	
-8	1644	-1	-174781749	
-8	1645	-1	-174781748	
-8	1646	-1	-174781747	
-8	1647	-1	-174781746	
+8	1640	-1	-174781753	osm_status_icons,0
+8	1641	-1	-174781752	osm_status_icons,1
+8	1642	-1	-174781751	osm_status_icons,2
+8	1643	-1	-174781750	osm_status_icons,3
+8	1644	-1	-174781749	osm_status_icons,4
+8	1645	-1	-174781748	osm_status_icons,5
+8	1646	-1	-174781747	osm_status_icons,6
+8	1647	-1	-174781746	osm_status_icons,7
 8	1648	-1	280257200	leafytree_tiled
 8	1649	-1	2031613510	titlebutton_large
 8	1650	-1	-1796162459	
@@ -9339,10 +9339,10 @@
 8	2240	-1	-1429839833	getting_started_with_ranged
 8	2241	-1	1256999606	honing_my_aim
 8	2242	-1	1975245282	sharpshooter
-8	2243	-1	-667682388	
+8	2243	-1	-667682388	logo_speedrunning
 8	2244	-1	682093053	
 8	2245	-1	-1444468665	
-8	2246	-1	1256350453	
+8	2246	-1	1256350453	close_arrows,0
 8	2247	-1	155076437	brown_border
 8	2248	-1	277709617	button_brown_small
 8	2249	-1	793128991	rightarrow_small_stone,0
@@ -11613,11 +11613,11 @@
 8	4514	-1	1163515936	
 8	4515	-1	1163515937	
 8	4516	-1	1163515938	
-8	4517	-1	-2039678291	
-8	4518	-1	-2039678290	
-8	4519	-1	-2039678289	
-8	4520	-1	-2039678288	
-8	4521	-1	-2039678287	
+8	4517	-1	-2039678291	pvpa_rankicons,3
+8	4518	-1	-2039678290	pvpa_rankicons,4
+8	4519	-1	-2039678289	pvpa_rankicons,5
+8	4520	-1	-2039678288	pvpa_rankicons,6
+8	4521	-1	-2039678287	pvpa_rankicons,7
 8	4522	-1	1567756414	pvpa_heart
 8	4523	-1	328557904	mod_icons_interface,50
 8	4524	-1	328557905	mod_icons_interface,51
@@ -11649,9 +11649,9 @@
 8	4550	-1	1798608729	worldmap_marker,6
 8	4551	-1	1798608730	worldmap_marker,7
 8	4552	-1	1798608731	worldmap_marker,8
-8	4553	-1	-1499159349	
-8	4554	-1	-1499159348	
-8	4555	-1	-1499159347	
+8	4553	-1	-1499159349	worldmap_marker_mini,0
+8	4554	-1	-1499159348	worldmap_marker_mini,1
+8	4555	-1	-1499159347	worldmap_marker_mini,2
 8	4556	-1	1375004305	hitmark,27
 8	4557	-1	1375004306	hitmark,28
 8	4558	-1	1375004307	hitmark,29
@@ -11764,9 +11764,9 @@
 8	4665	-1	97606464	fog02
 8	4666	-1	97606465	fog03
 8	4667	-1	-1808947913	skulls01
-8	4668	-1	1256350454	
-8	4669	-1	1256350455	
-8	4670	-1	1256350456	
+8	4668	-1	1256350454	close_arrows,1
+8	4669	-1	1256350455	close_arrows,2
+8	4670	-1	1256350456	close_arrows,3
 8	4671	-1	443607520	worldswitcher_stars,7
 8	4672	-1	-772768770	
 8	4673	-1	-1881563404	
@@ -11824,8 +11824,8 @@
 8	4725	-1	1021412508	
 8	4726	-1	1021472089	
 8	4727	-1	1021472090	
-8	4728	-1	491835807	
-8	4729	-1	-269664598	
+8	4728	-1	491835807	leftarrow_small_highlight
+8	4729	-1	-269664598	rightarrow_small_highlight
 8	4730	-1	1331131546	
 8	4731	-1	1331131547	
 8	4732	-1	1331131548	
@@ -11834,14 +11834,14 @@
 8	4735	-1	-1079655026	
 8	4736	-1	-1079655025	
 8	4737	-1	-1079655024	
-8	4738	-1	-663966565	
-8	4739	-1	-1573962670	
-8	4740	-1	-1573962669	
-8	4741	-1	-1573962668	
-8	4742	-1	-626631758	
-8	4743	-1	-626631757	
-8	4744	-1	-626631756	
-8	4745	-1	-626631755	
+8	4738	-1	-663966565	combination_lock
+8	4739	-1	-1573962670	combination_lock_join,0
+8	4740	-1	-1573962669	combination_lock_join,1
+8	4741	-1	-1573962668	combination_lock_join,2
+8	4742	-1	-626631758	combination_lock_arrows,0
+8	4743	-1	-626631757	combination_lock_arrows,1
+8	4744	-1	-626631756	combination_lock_arrows,2
+8	4745	-1	-626631755	combination_lock_arrows,3
 8	4746	-1	1713893235	
 8	4747	-1	-1828585192	
 8	4748	-1	-1828585191	
@@ -12222,8 +12222,8 @@
 12	356	-1	1735994846	[proc,stonepanel_blue]
 12	357	-1	1772198385	[clientscript,stonepanel_red]
 12	358	-1	333563889	[proc,stonepanel_red]
-12	359	-1	-248563767	
-12	360	-1	1262095929	
+12	359	-1	-248563767	[clientscript,prayer_redraw]
+12	360	-1	1262095929	[clientscript,soul_wars_lobby_hud_init]
 12	361	-1	-1987160837	[clientscript,soul_wars_game_hud_init]
 12	362	-1	-583875358	[clientscript,soul_wars_game_hud_update]
 12	363	-1	917100258	[proc,soul_wars_game_hud_update]
@@ -12410,7 +12410,7 @@
 12	544	-1	907808010	[proc,league_reward_draw_item]
 12	545	-1	-1093432751	[clientscript,wear_updateslot]
 12	546	-1	1553538129	[proc,wear_updateslot]
-12	547	-1	120670665	
+12	547	-1	120670665	[proc,prayer_redraw]
 12	548	-1	-1524383477	[proc,meslayer_mode12]
 12	549	-1	190536100	[proc,meslayer_mode12_setprompt]
 12	550	-1	-1524383446	[proc,meslayer_mode13]
@@ -12808,7 +12808,7 @@
 12	942	-1	-1424906999	[proc,peng_observer_borders]
 12	943	-1	708168567	[proc,soul_wars_rewards_drawitem_other]
 12	944	-1	-1879505847	
-12	945	-1	-1022639624	
+12	945	-1	-1022639624	[proc,entity_highlight_active_loc_linked]
 12	946	-1	-933646167	[clientscript,zep_balloon_map_hover]
 12	947	-1	1087738835	
 12	948	-1	278526517	[clientscript,fade_overlay]
@@ -13838,11 +13838,11 @@
 12	1972	-1	-2042328074	[proc,on_mobile]
 12	1973	-1	-1564928847	
 12	1974	-1	560684013	[clientscript,mesoverlay]
-12	1975	-1	-1910508526	
+12	1975	-1	-1910508526	[clientscript,osm_hidechat]
 12	1976	-1	415170004	
-12	1977	-1	-1951992098	
-12	1978	-1	-499187401	
-12	1979	-1	-2037145070	
+12	1977	-1	-1951992098	[clientscript,osm_closechat]
+12	1978	-1	-499187401	[proc,osm_showchat]
+12	1979	-1	-2037145070	[proc,osm_hidechat]
 12	1980	-1	1028816259	[clientscript,keyboard_show]
 12	1981	-1	-912714475	[clientscript,vm_info_draw]
 12	1982	-1	-1039351019	[proc,vm_info_draw]
@@ -14100,12 +14100,12 @@
 12	2234	-1	-361395563	[clientscript,camera_do_zoom]
 12	2235	-1	878841298	
 12	2236	-1	-483042824	
-12	2237	-1	-520888793	
+12	2237	-1	-520888793	[proc,private_event_world]
 12	2238	-1	1114618134	[clientscript,steelborder_closebutton]
 12	2239	-1	1018676190	[clientscript,keyboard_hide]
 12	2240	-1	-1842806649	[clientscript,collection_init]
-12	2241	-1	-91915553	
-12	2242	-1	1843662047	
+12	2241	-1	-91915553	[clientscript,osm_vibrate]
+12	2242	-1	1843662047	[proc,osm_vibrate]
 12	2243	-1	1986589369	[proc,logout_layout_update]
 12	2244	-1	-1281751011	[clientscript,logout_button_text]
 12	2245	-1	-401902530	
@@ -14162,8 +14162,8 @@
 12	2296	-1	-2038924514	[clientscript,tob_hud_draw]
 12	2297	-1	2129406238	[proc,tob_hud_draw]
 12	2298	-1	-1612431633	[proc,tob_hud_statusrefresh]
-12	2299	-1	-409067848	
-12	2300	-1	1082379448	
+12	2299	-1	-409067848	[clientscript,tob_hud_statusmyself]
+12	2300	-1	1082379448	[proc,tob_hud_statusmyself]
 12	2301	-1	1101469026	[clientscript,tob_hud_statusnames]
 12	2302	-1	871596998	[clientscript,tob_hud_nameflasher]
 12	2303	-1	1889539526	[proc,tob_hud_nameflasher]
@@ -14383,7 +14383,7 @@
 12	2517	-1	-1551610195	[proc,nzone_lobby_hint]
 12	2518	-1	-1154152000	
 12	2519	-1	1946862797	
-12	2520	-1	-1669843131	
+12	2520	-1	-1669843131	[proc,settings_custom_dependency]
 12	2521	-1	-1156598085	[proc,skill_guide_subsection_defence]
 12	2522	-1	742523929	[clientscript,decant_itembutton_key]
 12	2523	-1	1233405976	
@@ -15019,7 +15019,7 @@
 12	3154	-1	1219702657	
 12	3155	-1	-809606738	
 12	3156	-1	-1481051218	
-12	3157	-1	-1911888506	
+12	3157	-1	-1911888506	[clientscript,prayer_filtertoggle_op]
 12	3158	-1	-1652096640	
 12	3159	-1	38337636	
 12	3160	-1	-171869472	[proc,league_world]
@@ -15171,7 +15171,7 @@
 12	3306	-1	748553314	[proc,wiki_icon_update]
 12	3307	-1	797198458	
 12	3308	-1	1733621370	
-12	3309	-1	621721015	
+12	3309	-1	621721015	[proc,prayer_passfilter]
 12	3310	-1	2036451027	[proc,summary_sidepanel_draw]
 12	3311	-1	1647437019	[clientscript,nightmare_totems_init]
 12	3312	-1	-1526421866	[clientscript,nightmare_totem_hud_fade_in]
@@ -15515,10 +15515,10 @@
 12	3650	-1	835932425	[clientscript,bondif_init]
 12	3651	-1	1823188781	
 12	3652	-1	-1008432542	
-12	3653	-1	-1432685116	
-12	3654	-1	-1167963406	
+12	3653	-1	-1432685116	[clientscript,prayer_filtertoggle_reset]
+12	3654	-1	-1167963406	[proc,button_setup]
 12	3655	-1	359594442	
-12	3656	-1	-2138341453	
+12	3656	-1	-2138341453	[proc,prayer_overrides]
 12	3657	-1	1652275600	[clientscript,trailblazer_areas_init]
 12	3658	-1	1370690289	[proc,league_areas_draw_interface]
 12	3659	-1	-1557577616	
@@ -15599,7 +15599,7 @@
 12	3734	-1	-2047244836	[proc,slideshow_transition]
 12	3735	-1	-1448598121	[clientscript,slideshow_fadeout]
 12	3736	-1	1818565618	[clientscript,slideshow_skip]
-12	3737	-1	-120348023	
+12	3737	-1	-120348023	[clientscript,steelborder_noclose]
 12	3738	-1	-321859627	[clientscript,closebutton_click_sound]
 12	3739	-1	1032928391	
 12	3740	-1	-694237332	[clientscript,sound_synth]
@@ -15820,7 +15820,7 @@
 12	3955	-1	2063225320	[proc,settings_check_block]
 12	3956	-1	-1275002267	[proc,settings_op_checker]
 12	3957	-1	913425723	
-12	3958	-1	-1511383814	
+12	3958	-1	-1511383814	[proc,settings_check_dependency]
 12	3959	-1	-156654686	[proc,settings_custom_check]
 12	3960	-1	-1545741793	[proc,settings_get_toggle]
 12	3961	-1	1777585714	[proc,settings_get_slider]
@@ -15934,8 +15934,8 @@
 12	4069	-1	1196590120	
 12	4070	-1	841903929	
 12	4071	-1	-74424957	[clientscript,tempoross_hud_init]
-12	4072	-1	1366687746	
-12	4073	-1	430539305	
+12	4072	-1	1366687746	[proc,summary_diary_completed]
+12	4073	-1	430539305	[proc,summary_diary_total]
 12	4074	-1	-690697366	[clientscript,tempoross_hud_update]
 12	4075	-1	1911941654	[proc,tempoross_hud_update_bar]
 12	4076	-1	-756852072	[clientscript,tempoross_hud_bar_movement]
@@ -15978,7 +15978,7 @@
 12	4113	-1	-1162742929	[clientscript,camdozaal_timer_pause]
 12	4114	-1	-762793914	[clientscript,camdozaal_timer]
 12	4115	-1	-1313191032	[proc,camdozaal_timer_text]
-12	4116	-1	-1217360047	
+12	4116	-1	-1217360047	[clientscript,tempoross_lobby_hud]
 12	4117	-1	892513278	
 12	4118	-1	325921871	
 12	4119	-1	-1285567716	
@@ -16423,7 +16423,7 @@
 12	4558	-1	793303117	
 12	4559	-1	-1716246348	[clientscript,fishing_spot_indicator_tile_setup]
 12	4560	-1	1543060148	[proc,fishing_spot_indicator_tile_setup]
-12	4561	-1	1879312828	
+12	4561	-1	1879312828	[proc,prayer_isavailable_req]
 12	4562	-1	-1669341472	
 12	4563	-1	1784868172	
 12	4564	-1	-1487592871	[clientscript,settings_player_attack_options]
@@ -17054,7 +17054,7 @@
 12	5189	-1	937485246	
 12	5190	-1	-110016457	[proc,settings_minimap_lock]
 12	5191	-1	899757623	[clientscript,settings_minimap_lock]
-12	5192	-1	-1179034793	
+12	5192	-1	-1179034793	[clientscript,stonepanel_resizable]
 12	5193	-1	-2078683157	[proc,settings_set_draw_distance]
 12	5194	-1	-298631870	
 12	5195	-1	-2101469092	
@@ -17203,7 +17203,7 @@
 12	5338	-1	-619101234	
 12	5339	-1	1109161683	[proc,on_mac]
 12	5340	-1	1521421015	[proc,gim_options_settitle]
-12	5341	-1	-1214070430	
+12	5341	-1	-1214070430	[proc,gim_option_get]
 12	5342	-1	-2121187748	
 12	5343	-1	-1187073890	
 12	5346	-1	-1468224707	
@@ -17212,7 +17212,7 @@
 12	5349	-1	713300191	
 12	5350	-1	-1758700732	[proc,mouseover_entity_highlight]
 12	5351	-1	-860491133	
-12	5352	-1	1016298701	
+12	5352	-1	1016298701	[proc,mouseover_entity_highlight_toggle_client]
 12	5353	-1	2073099183	
 12	5354	-1	-623635511	
 12	5355	-1	-1633409591	
@@ -17230,7 +17230,7 @@
 12	5367	-1	-1600027435	[proc,xptracker_create_overall_text]
 12	5368	-1	-445953814	
 12	5369	-1	919010697	
-12	5370	-1	1078300928	
+12	5370	-1	1078300928	[proc,xptracker_update_progress_bar]
 12	5371	-1	21897231	
 12	5372	-1	1925578047	
 12	5373	-1	-261134632	
@@ -17910,12 +17910,12 @@
 12	6047	-1	1478459682	219408
 12	6048	-1	1334414626	
 12	6049	-1	-252460815	
-12	6050	-1	859455857	
+12	6050	-1	859455857	[proc,health_regen_values]
 12	6051	-1	330273619	
-12	6052	-1	-1861290802	
+12	6052	-1	-1861290802	[clientscript,health_orb_vartransmit]
 12	6053	-1	686538538	
 12	6054	-1	-1231765423	
-12	6055	-1	-891302799	
+12	6055	-1	-891302799	[clientscript,health_orb_stattransmit]
 12	6056	-1	1507028570	
 12	6057	-1	268803162	
 12	6058	-1	186360211	[proc,spec_regen_timer_off]
@@ -17923,11 +17923,11 @@
 12	6060	-1	1124663217	[clientscript,spec_regen_vartransmit]
 12	6061	-1	1561053590	
 12	6062	-1	1981989065	[clientscript,setscreensize]
-12	6063	-1	-206092315	
+12	6063	-1	-206092315	[clientscript,inventory_startdrag]
 12	6064	-1	2017734122	
 12	6065	-1	-1499063645	
 12	6066	-1	-1949201160	
-12	6067	-1	312412503	
+12	6067	-1	312412503	[proc,stonepanel_resizable]
 12	6069	-1	-653456438	
 12	6070	-1	1622782736	[proc,raffle_tab_not_selected]
 12	6071	-1	1201829500	[proc,raffle_tab_selected]
@@ -17973,8 +17973,8 @@
 12	6111	-1	-15223047	[clientscript,giants_foundry_hud_init]
 12	6112	-1	1135383322	
 12	6113	-1	367763296	[clientscript,giants_foundry_hud_update]
-12	6114	-1	420987162	
-12	6115	-1	1736076837	
+12	6114	-1	420987162	[proc,giants_foundry_hud_rescale]
+12	6115	-1	1736076837	[proc,giants_foundry_hud_update_pointers]
 12	6116	-1	-296388274	
 12	6117	-1	-1383941887	
 12	6118	-1	1756472006	
@@ -18011,7 +18011,7 @@
 12	6149	-1	1684243539	
 12	6150	-1	-1584536443	[proc,pet_insurance_click_sound]
 12	6151	-1	1818319296	[proc,debug_mes_error]
-12	6152	-1	355900414	
+12	6152	-1	355900414	[proc,quest_is_valid]
 12	6153	-1	-61172546	[proc,quest_is_subquest]
 12	6154	-1	1754495259	
 12	6155	-1	-1568110508	[proc,questdisplay_hide_quest]
@@ -18144,7 +18144,7 @@
 12	6282	-1	1699268138	[proc,pvpa_applicants_finished]
 12	6283	-1	-1249476737	[proc,pvpa_applicants_entry_init]
 12	6284	-1	-1301316738	[proc,pvpa_applicants_setsort]
-12	6285	-1	1979591691	
+12	6285	-1	1979591691	[proc,pvpa_applicants_sortbutton_draw]
 12	6286	-1	-913709185	
 12	6287	-1	35063598	
 12	6288	-1	-2005650130	
@@ -18205,8 +18205,8 @@
 12	6343	-1	1769720059	[clientscript,pvpa_reward_shop_select]
 12	6344	-1	877166819	[clientscript,pvpa_reward_shop_refuse]
 12	6345	-1	-1307041028	[clientscript,pvpa_1v1_info_init]
-12	6346	-1	-2054893007	
-12	6347	-1	-563445711	
+12	6346	-1	-2054893007	[clientscript,pvpa_1v1_info_dodger]
+12	6347	-1	-563445711	[proc,pvpa_1v1_info_dodger]
 12	6348	-1	-781697662	[proc,pvpa_1v1_info_setlayout]
 12	6349	-1	1906683097	[proc,pvpa_1v1_info_addline]
 12	6350	-1	1013192876	
@@ -18222,8 +18222,8 @@
 12	6360	-1	-1967626985	[clientscript,clan_stonebutton_init]
 12	6361	-1	1680603406	
 12	6362	-1	620596505	[proc,cr_quests_ui_create_tab]
-12	6363	-1	180942405	
-12	6364	-1	-533453755	
+12	6363	-1	180942405	[clientscript,cr_quests_ui_tab_set_state]
+12	6364	-1	-533453755	[proc,cr_quests_ui_tab_set_state]
 12	6365	-1	655848369	[clientscript,cr_quests_ui_tab_click]
 12	6366	-1	-325650761	
 12	6367	-1	-417406181	[proc,cr_quests_ui_update_tabs]
@@ -18443,7 +18443,7 @@
 12	6581	-1	-318767248	[clientscript,toa_time_update_timer]
 12	6582	-1	-1328541328	[proc,toa_time_update_timer]
 12	6583	-1	-1203607408	[proc,toa_hud_statusrefresh]
-12	6584	-1	1926851319	
+12	6584	-1	1926851319	[proc,toa_hud_statusmyself]
 12	6585	-1	2098541379	[clientscript,toa_hud_statusnames]
 12	6586	-1	2017458931	[clientscript,toa_raid_summary_init]
 12	6587	-1	1007684851	[proc,toa_raid_summary_init]
@@ -18507,7 +18507,7 @@
 12	6645	-1	303441859	[proc,cluehelper_get_clue_type]
 12	6646	-1	302854192	[proc,cluehelper_get_clue_text]
 12	6647	-1	-960977879	[proc,cluehelper_get_target_description]
-12	6648	-1	126133068	
+12	6648	-1	126133068	[proc,cluehelper_get_target_description_short]
 12	6649	-1	-2099078589	
 12	6650	-1	-1524082340	
 12	6651	-1	-1691218221	[proc,cluehelper_is_dig]
@@ -18578,8 +18578,8 @@
 12	6716	-1	2001630383	
 12	6717	-1	1804293261	
 12	6718	-1	553749645	
-12	6719	-1	1156329153	
-12	6720	-1	896189644	
+12	6719	-1	1156329153	[proc,loadnpc_cluehelper_generic_setup]
+12	6720	-1	896189644	[clientscript,loadnpc_cluehelper_generic_transmit]
 12	6721	-1	1090608639	[proc,loadnpc_cluehelper_generic]
 12	6722	-1	673604049	[clientscript,toa_partydetails_addmember]
 12	6723	-1	-604748329	
@@ -18675,7 +18675,7 @@
 12	6813	-1	47713360	22033
 12	6814	-1	47713359	22032
 12	6815	-1	-709034851	
-12	6816	-1	455196589	
+12	6816	-1	455196589	[proc,questscroll_closebutton_init]
 12	6817	-1	-580955623	
 12	6818	-1	-2142944948	
 12	6819	-1	1634579966	[clientscript,questjournal_init]
@@ -18703,7 +18703,7 @@
 12	6841	-1	-1147194643	
 12	6842	-1	460151994	[proc,toa_raid_level]
 12	6843	-1	-1470443917	
-12	6844	-1	-206888867	
+12	6844	-1	-206888867	[clientscript,journal_scroll_reset]
 12	6845	-1	-1816227863	
 12	6846	-1	1519204996	11261221
 12	6847	-1	1519207079	11261477
@@ -18711,8 +18711,8 @@
 12	6849	-1	1493411975	11193893
 12	6850	-1	-1768788869	[proc,text_client]
 12	6851	-1	-696250713	[proc,int_client]
-12	6852	-1	-1377669678	
-12	6853	-1	-240490584	
+12	6852	-1	-1377669678	[proc,toplevel_getcomponents_debug]
+12	6853	-1	-240490584	[clientscript,herbiboar_helper_stattransmit]
 12	6854	-1	483638207	
 12	6855	-1	-576752348	
 12	6856	-1	-327693951	
@@ -18762,8 +18762,8 @@
 12	6900	-1	-2028719708	
 12	6901	-1	1928032717	
 12	6902	-1	2028928678	
-12	6903	-1	-993380294	
-12	6904	-1	318075237	
+12	6903	-1	-993380294	[clientscript,eventscroll_init]
+12	6904	-1	318075237	[proc,eventscroll_closebutton_init]
 12	6905	-1	-529176057	
 12	6906	-1	-1645252125	
 12	6907	-1	-1202298171	
@@ -18802,8 +18802,8 @@
 12	6940	-1	1366706144	
 12	6941	-1	745553947	[proc,pvp_world]
 12	6942	-1	1283744625	
-12	6943	-1	453840785	
-12	6944	-1	1272711586	
+12	6943	-1	453840785	[proc,beige_stone_button_in_alt]
+12	6944	-1	1272711586	[proc,beige_stone_button_out_alt]
 12	6945	-1	-1989409183	
 12	6946	-1	92585821	
 12	6947	-1	1294013329	
@@ -18821,16 +18821,16 @@
 12	6959	-1	-1472959279	
 12	6960	-1	-1766362286	
 12	6961	-1	1941798996	
-12	6962	-1	2038893700	
-12	6963	-1	-940495575	
-12	6964	-1	-1108848684	
-12	6965	-1	607488302	
-12	6966	-1	-880967197	
-12	6967	-1	1179142383	
-12	6968	-1	-1715813903	
+12	6962	-1	2038893700	[clientscript,combination_lock_init]
+12	6963	-1	-940495575	[clientscript,combination_lock_setup]
+12	6964	-1	-1108848684	[clientscript,combination_lock_turn_dial]
+12	6965	-1	607488302	[proc,combination_lock_offset_index]
+12	6966	-1	-880967197	[proc,combination_lock_getvar]
+12	6967	-1	1179142383	[proc,combination_lock_setvar]
+12	6968	-1	-1715813903	[proc,combination_lock_initbutton_confirm]
 12	6969	-1	1719815895	
 12	6970	-1	1404488817	
-12	6971	-1	-607865159	
+12	6971	-1	-607865159	[proc,combination_lock_initbutton_close]
 12	6972	-1	-1632221921	
 12	6973	-1	1111580985	
 12	6974	-1	-2042861431	
@@ -18878,36 +18878,36 @@
 12	7016	-1	1741258784	
 12	7017	-1	1130335380	
 12	7018	-1	189182507	
-12	7019	-1	578097927	
+12	7019	-1	578097927	[proc,tostring_commas]
 12	7020	-1	-1650120788	
 12	7021	-1	66432029	
 12	7022	-1	1479179745	222993
 12	7023	-1	1479179744	222992
 12	7024	-1	502218365	
 12	7025	-1	-1236439957	
-12	7026	-1	-990456611	
+12	7026	-1	-990456611	[clientscript,settings_minimap_zoom_position_timer]
 12	7027	-1	1672258033	
 12	7028	-1	1923312735	
 12	7029	-1	-150439599	
-12	7030	-1	-2086276565	
-12	7031	-1	-417899349	
+12	7030	-1	-2086276565	[proc,membership_benefits_prompt_close]
+12	7031	-1	-417899349	[clientscript,membership_benefits_prompt_banner]
 12	7032	-1	753678180	
 12	7033	-1	791877518	
 12	7034	-1	1708845093	
-12	7035	-1	-1627143018	
-12	7036	-1	-1453560149	
-12	7037	-1	-875247771	
+12	7035	-1	-1627143018	[proc,membership_benefits_prompt_banner_highlight]
+12	7036	-1	-1453560149	[proc,membership_benefits_prompt_banner]
+12	7037	-1	-875247771	[proc,membership_benefits_prompt_button]
 12	7038	-1	181274790	
 12	7039	-1	946271927	
 12	7040	-1	-774707252	
 12	7041	-1	-821886298	
-12	7042	-1	-298972572	
+12	7042	-1	-298972572	[clientscript,cluehelper_infobox_reset_data]
 12	7043	-1	-619016210	
-12	7044	-1	665266507	
-12	7045	-1	934984523	
-12	7046	-1	755759166	
-12	7047	-1	1837233428	
-12	7048	-1	2147164948	
+12	7044	-1	665266507	[clientscript,toplevel_compass_setops]
+12	7045	-1	934984523	[proc,toplevel_compass_setops]
+12	7046	-1	755759166	[clientscript,trek_flash_init]
+12	7047	-1	1837233428	[clientscript,trek_flash_trigger]
+12	7048	-1	2147164948	[proc,trek_flash_trigger]
 12	7049	-1	-1248412062	
 12	7050	-1	938284475	
 12	7051	-1	1317658731	
