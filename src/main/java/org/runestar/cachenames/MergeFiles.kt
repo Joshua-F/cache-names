@@ -242,6 +242,17 @@ fun main() {
         "pvpa_rankicons,$x".add()
         "combination_lock_join,$x".add()
         "combination_lock_arrows,$x".add()
+        "toa_grouping_icons,$x".add()
+        "toa_invocation_icons,$x".add()
+        "standard_prayer_30,$x".add()
+        "standard_prayer_40,$x".add()
+        "standard_prayer_50,$x".add()
+        "standard_prayer_60,$x".add()
+        "standard_prayer_70,$x".add()
+        "standard_prayer_80,$x".add()
+        "cross_big,$x".add()
+        "prayerglow,$x".add()
+        "ground_items_visibility,$x".add()
     }
 
     knownNames.remove("l16_186")
