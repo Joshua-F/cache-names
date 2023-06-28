@@ -3584,6 +3584,7 @@
 [proc,buff_bar_inventory_slot]
 [proc,buff_bar_layout_redraw]
 [proc,buff_bar_max_buffs]
+[proc,buff_bar_mobile_tooltip]
 [proc,buff_bar_position_init]
 [proc,buff_bar_position_review]
 [proc,buff_bar_setup]
