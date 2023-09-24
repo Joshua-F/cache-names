@@ -17,10 +17,12 @@ fun main() {
         }
     }
 
-    for (x in 0..275) {
+    for (x in 0..350) {
         for (y in 0..255) {
             "m${x}_$y".add()
             "l${x}_$y".add()
+            "ul${x}_$y".add()
+            "um${x}_$y".add()
             "e${x}_$y".add()
             "standard_charge_$y,$x".add()
             "standard_shield_$y,$x".add()
@@ -249,10 +251,20 @@ fun main() {
         "cross_big,$x".add()
         "prayerglow,$x".add()
         "ground_items_visibility,$x".add()
+        "$x".add()
+        " $x".add()
+        "qj$x".add()
+    }
+
+    for (x in 0..500) {
+        "com_$x".add()
     }
 
     knownNames.remove("l16_186")
     knownNames.remove("l193_196")
+    knownNames.remove("l211_241")
+    knownNames.remove("standard_shield_108,192")
+    knownNames.remove("standard_shield_217,324")
 
     val knownNamesMap = knownNames.associateBy { it.hashCode() }
 
