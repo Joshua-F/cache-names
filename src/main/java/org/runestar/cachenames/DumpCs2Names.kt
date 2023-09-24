@@ -13,6 +13,7 @@ fun main() {
 
     dump(Path.of("interface-names.tsv"), 3)
     dumpFile(Path.of("component-names.tsv"), 3)
+    dump(Path.of("song-names.tsv"), 6)
     dump(Path.of("graphic-names.tsv"), 8)
     dump(Path.of("script-names.tsv"), 12)
     dump(Path.of("fontmetrics-names.tsv"), 13)
