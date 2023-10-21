@@ -5216,6 +5216,7 @@
 [proc,stoneborder]
 [proc,stoneborder_free]
 [proc,stonebox]
+[proc,stonebutton_init]
 [proc,stonebutton_url_draw]
 [proc,stonepanel]
 [proc,stonepanel_blue]
