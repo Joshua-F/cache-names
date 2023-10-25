@@ -753,6 +753,7 @@
 [clientscript,adventurepath_voucher_init]
 [clientscript,adventurepath_voucher_item_op]
 [clientscript,adventurepath_voucher_op_init]
+[clientscript,advisor_flash_icon]
 [clientscript,agilityarena_colour]
 [clientscript,agilityarena_overlay]
 [clientscript,agilityarena_overlay_init]
@@ -762,10 +763,14 @@
 [clientscript,agilityarena_rewards_hidelayer]
 [clientscript,agilityarena_rewards_init]
 [clientscript,agilityarena_rewards_setgracefulbutton]
+[clientscript,agilityarena_set_model]
 [clientscript,ahoy_windspeed_init]
 [clientscript,aide_map_init]
 [clientscript,aide_map_marker]
 [clientscript,aide_map_tutors]
+[clientscript,ame_costumes_init]
+[clientscript,ame_reward_init]
+[clientscript,ame_rewards_select]
 [clientscript,anma_reward_init]
 [clientscript,antidrag_toggle]
 [clientscript,ap_flash_timer]
@@ -803,11 +808,13 @@
 [clientscript,bank_sort_button]
 [clientscript,bank_v2_bankitemdrag]
 [clientscript,bank_v2_bankitemdrop]
+[clientscript,bank_v2_bankpinshow]
 [clientscript,bank_v2_build_init]
 [clientscript,bank_v2_cert_click]
 [clientscript,bank_v2_clickaddbutton]
 [clientscript,bank_v2_close]
 [clientscript,bank_v2_help_init]
+[clientscript,bank_v2_help_link]
 [clientscript,bank_v2_help_showpage]
 [clientscript,bank_v2_rebuild]
 [clientscript,bank_v2_rebuild_delayed]
@@ -846,6 +853,8 @@
 [clientscript,bankpin_button_op]
 [clientscript,bankpin_buttonnumber]
 [clientscript,bankpin_cancel]
+[clientscript,bankpin_digits]
+[clientscript,bankpin_instructions]
 [clientscript,bankpin_keypad_init]
 [clientscript,bankpin_otherbutton]
 [clientscript,bankside_bag_draw]
@@ -856,11 +865,13 @@
 [clientscript,bankside_switchview]
 [clientscript,bankside_worn_reorder]
 [clientscript,barbassault_healer_init]
+[clientscript,barbassault_name_transmit]
 [clientscript,barbassault_overlay_init]
 [clientscript,barbassault_reward_shop_init]
 [clientscript,barbassault_turret_data]
 [clientscript,barbassault_tutorial_button_init]
 [clientscript,barbassault_tutorial_button_setup]
+[clientscript,barbassault_tutorial_colours]
 [clientscript,barrows_killcount_update]
 [clientscript,barrows_nodnod]
 [clientscript,barrows_nodnodoff]
@@ -872,6 +883,7 @@
 [clientscript,barrows_puzzle_init]
 [clientscript,barrows_reward_draw]
 [clientscript,barrows_reward_init]
+[clientscript,barrows_show_head]
 [clientscript,bees]
 [clientscript,bees_init]
 [clientscript,bees_mouseleave]
@@ -894,6 +906,7 @@
 [clientscript,boardgames_draughts_options_update_rune]
 [clientscript,boardgames_draughts_options_update_selections]
 [clientscript,boardgames_draughts_options_update_time]
+[clientscript,boardgames_names]
 [clientscript,boardgames_options_onload]
 [clientscript,boardgames_options_pick_piece]
 [clientscript,boardgames_options_ranked]
@@ -920,6 +933,10 @@
 [clientscript,boardgames_runeversi_options_update_selections]
 [clientscript,boardgames_runeversi_options_update_time]
 [clientscript,boardgames_runeversi_update_grid]
+[clientscript,boardgames_sandtimer]
+[clientscript,boardgames_status]
+[clientscript,body_back]
+[clientscript,body_next]
 [clientscript,bolt_pouch_drag_complete]
 [clientscript,bolt_pouch_extra_ammo_draw]
 [clientscript,bolt_pouch_extra_ammo_init]
@@ -951,6 +968,9 @@
 [clientscript,book_init]
 [clientscript,bookofscrolls_init]
 [clientscript,bookofscrolls_populate]
+[clientscript,booth_confirm_mouseleave]
+[clientscript,booth_confirm_mouseover]
+[clientscript,booth_init]
 [clientscript,br_fogcolour]
 [clientscript,br_hud_clamp]
 [clientscript,br_hud_init]
@@ -1004,6 +1024,10 @@
 [clientscript,brew_tools_op]
 [clientscript,brew_tools_resetbutton]
 [clientscript,brew_tools_supplies]
+[clientscript,brightness_1]
+[clientscript,brightness_2]
+[clientscript,brightness_3]
+[clientscript,brightness_4]
 [clientscript,buff_bar_2_init]
 [clientscript,buff_bar_buff_timer]
 [clientscript,buff_bar_buff_transmit]
@@ -1070,6 +1094,7 @@
 [clientscript,camdozaal_timer_pause]
 [clientscript,camdozaal_timer_update]
 [clientscript,camdozaal_vault_init]
+[clientscript,camera_control]
 [clientscript,camera_do_zoom]
 [clientscript,camera_zoom]
 [clientscript,camera_zoom_slider_click]
@@ -1103,12 +1128,14 @@
 [clientscript,cc_object_swapper]
 [clientscript,cc_outline_off]
 [clientscript,cc_outline_on]
+[clientscript,cc_setoutline]
 [clientscript,cc_settrans]
 [clientscript,cc_settrans_temporarily]
 [clientscript,cc_settrans_temporarily_end]
 [clientscript,cc_text_colour_swapper]
 [clientscript,cc_text_swapper]
 [clientscript,champions_log]
+[clientscript,champions_onop]
 [clientscript,chat_alert_flash]
 [clientscript,chat_autotyper]
 [clientscript,chat_broadcast_op]
@@ -1129,6 +1156,8 @@
 [clientscript,chatbox_keyinput_listener]
 [clientscript,chatbox_multi_init]
 [clientscript,chatbox_open_input]
+[clientscript,chatbox_resize_drag]
+[clientscript,chatbox_resize_load]
 [clientscript,chatchannel_current_build]
 [clientscript,chatchannel_current_init]
 [clientscript,chatchannel_current_sortbutton_clicksort]
@@ -1259,7 +1288,12 @@
 [clientscript,clanchat_login]
 [clientscript,clancup_hud_init]
 [clientscript,clancup_hud_update]
+[clientscript,clanjoin_onclantransmit]
+[clientscript,clanjoin_onload]
+[clientscript,clankickuser]
 [clientscript,clansetrank]
+[clientscript,clansetup_onfriendtransmit]
+[clientscript,clansetup_onload]
 [clientscript,clanwars_confirm_challenge_op]
 [clientscript,clanwars_confirm_challenge_redraw]
 [clientscript,clanwars_confirm_challenge_wait]
@@ -1358,6 +1392,13 @@
 [clientscript,combat_interface_sp_redraw]
 [clientscript,combat_interface_sp_updatebar]
 [clientscript,combat_level_transmit]
+[clientscript,combat_side_button_highlight]
+[clientscript,combat_side_comlevel]
+[clientscript,combat_side_setup]
+[clientscript,combat_side_special]
+[clientscript,combat_side_special_highlight]
+[clientscript,combat_side_special_level]
+[clientscript,combat_side_title]
 [clientscript,combat_wilderness_transmit]
 [clientscript,combination_lock_init]
 [clientscript,combination_lock_setup]
@@ -1372,6 +1413,7 @@
 [clientscript,confirmdestroy_resetbutton]
 [clientscript,confirmdestroy_triggerbutton]
 [clientscript,construction_materials]
+[clientscript,contact_spell]
 [clientscript,corp_beast_damage]
 [clientscript,corp_beast_init]
 [clientscript,cr_icon_flash]
@@ -1393,6 +1435,8 @@
 [clientscript,crafting_init]
 [clientscript,crafting_level]
 [clientscript,crafting_level_hide]
+[clientscript,create_exit]
+[clientscript,create_go]
 [clientscript,cws_graphic_swap]
 [clientscript,cws_graphic_swap_2]
 [clientscript,cws_init]
@@ -1464,6 +1508,7 @@
 [clientscript,decant_itembutton_key]
 [clientscript,decant_mouseover]
 [clientscript,deltooltip]
+[clientscript,deltooltip_cc_graphic_swapper]
 [clientscript,deltooltip_graphic_swapper]
 [clientscript,depositbox_mobile_button_init]
 [clientscript,depositbox_mobile_button_op]
@@ -1534,7 +1579,18 @@
 [clientscript,equipment_icon_init]
 [clientscript,equipscreen_init]
 [clientscript,eventscroll_init]
+[clientscript,evilbob_load]
+[clientscript,evilbob_start]
 [clientscript,examine_item]
+[clientscript,fade2_flash_generic]
+[clientscript,fade2_flash_stop]
+[clientscript,fade2_flash_timer]
+[clientscript,fade2_in]
+[clientscript,fade2_in_generic]
+[clientscript,fade2_in_slow]
+[clientscript,fade2_out]
+[clientscript,fade2_out_slow]
+[clientscript,fade2_timer]
 [clientscript,fade_component]
 [clientscript,fade_component_update]
 [clientscript,fade_in_darkness]
@@ -1568,6 +1624,7 @@
 [clientscript,farming_view_panel_loading]
 [clientscript,farming_view_setpanel]
 [clientscript,farming_view_updatetabs]
+[clientscript,female_click]
 [clientscript,fishing_spot_indicator_invtransmit]
 [clientscript,fishing_spot_indicator_mouseleave]
 [clientscript,fishing_spot_indicator_mouseover]
@@ -1601,8 +1658,10 @@
 [clientscript,fossilquest_progress]
 [clientscript,fossilquest_voyage]
 [clientscript,fossilquest_voyage_end]
+[clientscript,friend_deltooltip]
 [clientscript,friend_init]
 [clientscript,friend_op]
+[clientscript,friend_tooltip]
 [clientscript,friend_transmit]
 [clientscript,friend_update]
 [clientscript,friends_sortbutton_clicksort]
@@ -1644,6 +1703,8 @@
 [clientscript,ge_pricelist]
 [clientscript,ge_pricelist_draw]
 [clientscript,ge_pricelist_switchmode]
+[clientscript,gender_back]
+[clientscript,gender_next]
 [clientscript,giants_foundry_hud_init]
 [clientscript,giants_foundry_hud_rescale]
 [clientscript,giants_foundry_hud_update]
@@ -1699,11 +1760,24 @@
 [clientscript,godwars_killcount_saradomin]
 [clientscript,godwars_killcount_zamorak]
 [clientscript,godwars_killcount_zaros]
+[clientscript,godwars_overlay_init]
+[clientscript,godwars_overlay_vartransmit]
 [clientscript,graphic_swapper]
 [clientscript,graphicbox_listener]
 [clientscript,graphicbox_reset]
 [clientscript,graphicbox_set_graphic]
 [clientscript,graphicbox_setbuttons]
+[clientscript,graphics_options_canceldropdown]
+[clientscript,graphics_options_choosesetting]
+[clientscript,graphics_options_countdown]
+[clientscript,graphics_options_countdownmouseover]
+[clientscript,graphics_options_createdropdown]
+[clientscript,graphics_options_decision]
+[clientscript,graphics_options_init]
+[clientscript,graphics_options_mouseoveroption]
+[clientscript,graphics_options_settoolkit]
+[clientscript,graphics_options_setwindowmode]
+[clientscript,gravedigger_spin]
 [clientscript,gravestone_generic_drag_end]
 [clientscript,gravestone_generic_drag_preview]
 [clientscript,gravestone_generic_init]
@@ -1725,6 +1799,7 @@
 [clientscript,gravestone_shop_select]
 [clientscript,gravestone_shop_setup]
 [clientscript,gravestone_transmit_data]
+[clientscript,gravestone_update_timer]
 [clientscript,ground_items_confirm]
 [clientscript,ground_items_filter]
 [clientscript,ground_items_focus_changed]
@@ -1759,6 +1834,8 @@
 [clientscript,hauntedmine_controls_load]
 [clientscript,hauntedmine_controls_startanim]
 [clientscript,hauntedmine_controls_update]
+[clientscript,head_back]
+[clientscript,head_next]
 [clientscript,health_orb_arc]
 [clientscript,health_orb_stattransmit]
 [clientscript,health_orb_vartransmit]
@@ -1797,6 +1874,7 @@
 [clientscript,herbiboar_helper_stattransmit]
 [clientscript,herbiboar_helper_transmit]
 [clientscript,herbiboar_helper_update]
+[clientscript,hide_component]
 [clientscript,hidey_build]
 [clientscript,hidey_buildlists]
 [clientscript,hidey_tabbuttons]
@@ -1847,6 +1925,7 @@
 [clientscript,hp_hud_update_bar]
 [clientscript,hud_clamp_review]
 [clientscript,hw22_communitygoal_current_state_transmit]
+[clientscript,if_close]
 [clientscript,if_fade]
 [clientscript,if_fade_timer]
 [clientscript,if_flash_component]
@@ -1855,6 +1934,8 @@
 [clientscript,if_setnoclickthrough]
 [clientscript,if_settextalign]
 [clientscript,if_settextfont]
+[clientscript,if_settrans]
+[clientscript,if_switchside_previous]
 [clientscript,ignore_init]
 [clientscript,ignore_op]
 [clientscript,ignore_sortbutton_clicksort]
@@ -1887,11 +1968,13 @@
 [clientscript,interface_invother_update_big]
 [clientscript,inventory_antidrag_update]
 [clientscript,inventory_build]
+[clientscript,inventory_drag]
 [clientscript,inventory_init]
 [clientscript,inventory_key]
 [clientscript,inventory_op]
 [clientscript,inventory_reorder]
 [clientscript,inventory_startdrag]
+[clientscript,inventory_targetmode]
 [clientscript,ironman_init]
 [clientscript,ironman_miscellaneous_redraw]
 [clientscript,ironman_modebutton_op]
@@ -2025,6 +2108,7 @@
 [clientscript,league_tutorial_interface_update]
 [clientscript,league_tutorial_main_init]
 [clientscript,leagues_closebutton_click]
+[clientscript,letter_lj_settitle]
 [clientscript,levelup_charity_init]
 [clientscript,levelup_charity_update]
 [clientscript,light_puzzle_button_reset]
@@ -2032,6 +2116,8 @@
 [clientscript,light_puzzle_op_button]
 [clientscript,light_puzzle_text_mouseover]
 [clientscript,light_puzzle_update]
+[clientscript,lightning_init]
+[clientscript,lightning_update]
 [clientscript,load_stake_preset]
 [clientscript,loading_icon_init]
 [clientscript,loading_icon_resize]
@@ -2042,6 +2128,7 @@
 [clientscript,local_notification]
 [clientscript,loginscreen_camera_timer]
 [clientscript,loginscreen_camfinished]
+[clientscript,loginscreen_disable_camera]
 [clientscript,loginscreen_keypress]
 [clientscript,loginscreen_load]
 [clientscript,loginscreen_setactivemenu]
@@ -2066,8 +2153,11 @@
 [clientscript,lore_head_update]
 [clientscript,lore_interface_inv_init]
 [clientscript,lore_interface_inv_update]
+[clientscript,lore_magic_init]
+[clientscript,lore_mouseover_text]
 [clientscript,lore_points_update]
 [clientscript,lore_pouch_counter]
+[clientscript,lore_switchside_op]
 [clientscript,lost_property_init]
 [clientscript,lovaquest_locks_init]
 [clientscript,lovaquest_power_grid_init]
@@ -2081,6 +2171,11 @@
 [clientscript,macro_beekeeper_rearrange]
 [clientscript,macro_beekeeper_timer]
 [clientscript,macro_beekeeper_transmit]
+[clientscript,macro_combilock_adjust]
+[clientscript,macro_combilock_init]
+[clientscript,macro_combilock_update_1]
+[clientscript,macro_combilock_update_2]
+[clientscript,macro_combilock_update_3]
 [clientscript,macro_evil_bob_init]
 [clientscript,macro_maze_timer]
 [clientscript,macro_mime_emotes_build]
@@ -2111,8 +2206,13 @@
 [clientscript,magictraining_shop]
 [clientscript,magictraining_shop_points]
 [clientscript,makeover_clothes_setup]
+[clientscript,makeover_colour_force]
+[clientscript,makeover_colour_resynch]
 [clientscript,makeover_feet_select]
+[clientscript,makeover_gender_force]
+[clientscript,makeover_gender_resynch]
 [clientscript,makeover_hair_setup]
+[clientscript,makeover_headsetup]
 [clientscript,makeover_hover_colour]
 [clientscript,makeover_hover_item]
 [clientscript,makeover_indicator]
@@ -2129,6 +2229,7 @@
 [clientscript,makeovermage_colour_op]
 [clientscript,makeovermage_colour_update]
 [clientscript,makeovermage_gender]
+[clientscript,male_click]
 [clientscript,mazetimer_init]
 [clientscript,membership_benefits_button_draw]
 [clientscript,membership_benefits_close_benefit]
@@ -2147,8 +2248,10 @@
 [clientscript,meslayer_close]
 [clientscript,meslayer_key_close]
 [clientscript,meslayer_keyboard_show]
+[clientscript,meslayer_lastname]
 [clientscript,meslayer_lastname_click]
 [clientscript,meslayer_mode12]
+[clientscript,meslayer_mode13]
 [clientscript,meslayer_mode14]
 [clientscript,meslayer_mode14_select]
 [clientscript,meslayer_mode14_update]
@@ -2174,6 +2277,32 @@
 [clientscript,mirror_interface_keypress]
 [clientscript,misc_collection_draw]
 [clientscript,misc_collection_init]
+[clientscript,mob_buy_add]
+[clientscript,mob_camera_control]
+[clientscript,mob_camera_reset]
+[clientscript,mob_chat_onkey]
+[clientscript,mob_colour_swapper]
+[clientscript,mob_exception_object]
+[clientscript,mob_formation_click]
+[clientscript,mob_formation_onload]
+[clientscript,mob_highlight_start]
+[clientscript,mob_highlight_stop]
+[clientscript,mob_highlight_timer]
+[clientscript,mob_initialise_buttons]
+[clientscript,mob_initialise_text]
+[clientscript,mob_invest_add]
+[clientscript,mob_invest_tooltips]
+[clientscript,mob_locator_onload]
+[clientscript,mob_locator_resource_setup]
+[clientscript,mob_locator_switch_tab]
+[clientscript,mob_move_text]
+[clientscript,mob_rank_click]
+[clientscript,mob_set_limit]
+[clientscript,mob_shop_init]
+[clientscript,mob_show_hide]
+[clientscript,mob_side_units_onload]
+[clientscript,mob_status_castle]
+[clientscript,mob_status_killcount]
 [clientscript,mobile_billing_open]
 [clientscript,mobile_rating_init]
 [clientscript,model_dynamiczoom]
@@ -2189,6 +2318,7 @@
 [clientscript,mourning_deathalter_list_init]
 [clientscript,mourning_toad_init]
 [clientscript,mourning_toad_settoad]
+[clientscript,mouse_next]
 [clientscript,mouseover_ops]
 [clientscript,music_init]
 [clientscript,music_init_component]
@@ -2212,6 +2342,13 @@
 [clientscript,nightmare_totem_hud_update]
 [clientscript,nightmare_totem_hud_update_bar]
 [clientscript,nightmare_totems_init]
+[clientscript,notes_click]
+[clientscript,notes_colour_abort]
+[clientscript,notes_drag]
+[clientscript,notes_drag_end]
+[clientscript,notes_graphic_swapper]
+[clientscript,notes_init]
+[clientscript,notes_update]
 [clientscript,notification_delay]
 [clientscript,notification_display_init]
 [clientscript,notification_end]
@@ -2228,7 +2365,9 @@
 [clientscript,npc_name_vartransmit]
 [clientscript,ntk_init]
 [clientscript,ntk_layout]
+[clientscript,ntk_text]
 [clientscript,ntk_textbox]
+[clientscript,ntk_timer]
 [clientscript,ntk_timer_autonomous]
 [clientscript,ntk_timer_resynch]
 [clientscript,nzone_game_absorption_tickdown]
@@ -2364,6 +2503,7 @@
 [clientscript,options_music_init]
 [clientscript,options_music_op]
 [clientscript,options_music_resynch]
+[clientscript,options_pm]
 [clientscript,options_poh]
 [clientscript,options_prayertooltips_init]
 [clientscript,options_prayertooltips_op]
@@ -2371,6 +2511,7 @@
 [clientscript,options_roofs_init]
 [clientscript,options_roofs_op]
 [clientscript,options_roofs_resynch]
+[clientscript,options_run]
 [clientscript,options_runmode_init]
 [clientscript,options_runmode_op]
 [clientscript,options_runmode_resynch]
@@ -2479,6 +2620,10 @@
 [clientscript,pillory_button_init]
 [clientscript,pillory_button_op]
 [clientscript,pillory_button_reset]
+[clientscript,player_kit_scroll]
+[clientscript,player_prefix_current]
+[clientscript,player_prefix_highlight]
+[clientscript,player_prefix_load]
 [clientscript,playermember]
 [clientscript,pm_init]
 [clientscript,poh_add_room_costupdate]
@@ -2495,6 +2640,7 @@
 [clientscript,poh_board_send_name]
 [clientscript,poh_board_set_last_name]
 [clientscript,poh_board_validate_name]
+[clientscript,poh_bookcase_build]
 [clientscript,poh_costumes_build]
 [clientscript,poh_costumes_buttons_1off_op]
 [clientscript,poh_costumes_buttons_1off_reset]
@@ -2532,6 +2678,7 @@
 [clientscript,poh_ranging_init]
 [clientscript,poh_tablets_hidehighlight]
 [clientscript,poh_tablets_init]
+[clientscript,poh_tablets_setup]
 [clientscript,poh_tablets_update]
 [clientscript,poh_tablets_updatebutton]
 [clientscript,poh_viewer_opbutton]
@@ -2564,6 +2711,9 @@
 [clientscript,poll_voting_addquestion_refresh]
 [clientscript,popout_tooltip_clear_clientscript]
 [clientscript,popout_tooltip_remove_delayed]
+[clientscript,prayer_client_op]
+[clientscript,prayer_custom_op]
+[clientscript,prayer_custom_varupdate]
 [clientscript,prayer_filtertoggle_op]
 [clientscript,prayer_filtertoggle_reset]
 [clientscript,prayer_flash_prayer]
@@ -2572,8 +2722,11 @@
 [clientscript,prayer_init]
 [clientscript,prayer_level]
 [clientscript,prayer_levelupdate]
+[clientscript,prayer_load_buttons]
+[clientscript,prayer_load_glow]
 [clientscript,prayer_op]
 [clientscript,prayer_redraw]
+[clientscript,prayer_refresh_scrollbar]
 [clientscript,prayer_statupdate]
 [clientscript,prayer_stop_flash]
 [clientscript,prayer_updatebutton]
@@ -2671,6 +2824,7 @@
 [clientscript,quickprayer_close_timeout]
 [clientscript,quickprayer_icon_update]
 [clientscript,quickprayer_init]
+[clientscript,quit]
 [clientscript,quiz_init]
 [clientscript,raffle_tab_op]
 [clientscript,raids_challenge_build_list]
@@ -2734,6 +2888,7 @@
 [clientscript,rcguild_overlay_load]
 [clientscript,rebootwatch]
 [clientscript,rebuildchatbox]
+[clientscript,rebuildpmbox_timer]
 [clientscript,recipe_for_disaster_animate]
 [clientscript,recipe_for_disaster_op]
 [clientscript,recipe_for_disaster_updatecolour]
@@ -2747,6 +2902,7 @@
 [clientscript,roguetrader_placerune]
 [clientscript,roguetrader_selectrune]
 [clientscript,roguetrader_selectrune_transmit]
+[clientscript,run_energy_initiate]
 [clientscript,rune_pouch_drawinventory]
 [clientscript,rune_pouch_drawpouch]
 [clientscript,rune_pouch_init]
@@ -2893,6 +3049,7 @@
 [clientscript,shop_main_update]
 [clientscript,shop_quantity]
 [clientscript,shop_quantity_op]
+[clientscript,show_component]
 [clientscript,show_ios_review]
 [clientscript,side_channels_drawtab]
 [clientscript,side_channels_init]
@@ -2901,6 +3058,7 @@
 [clientscript,side_container_reload]
 [clientscript,side_journal_switchtab_onop]
 [clientscript,side_journal_switchtab_ontransmit]
+[clientscript,sidebook_build]
 [clientscript,silver_crafting_init]
 [clientscript,silver_crafting_jewellery_draw]
 [clientscript,silver_crafting_jewellerytitle_draw]
@@ -2949,18 +3107,32 @@
 [clientscript,smithing_init]
 [clientscript,smithing_setup]
 [clientscript,smokeoverlay_init]
+[clientscript,snapshot_confirm_name]
+[clientscript,snapshot_help_close]
+[clientscript,snapshot_highlight_off]
+[clientscript,snapshot_highlight_on]
 [clientscript,snapshot_ignore]
+[clientscript,snapshot_ignore_no]
+[clientscript,snapshot_ignore_yes]
 [clientscript,snapshot_init]
+[clientscript,snapshot_main_exit_v1]
 [clientscript,snapshot_main_load]
+[clientscript,snapshot_main_load_v1]
 [clientscript,snapshot_mute]
 [clientscript,snapshot_mutetoggle]
+[clientscript,snapshot_name_update]
 [clientscript,snapshot_onkey]
+[clientscript,snapshot_onkey_v1]
 [clientscript,snapshot_open]
+[clientscript,snapshot_open_bugreport]
 [clientscript,snapshot_openkeyboard]
 [clientscript,snapshot_report]
+[clientscript,snapshot_report_v1]
 [clientscript,snapshot_rules_hover]
 [clientscript,snapshot_rules_init]
 [clientscript,snapshot_rules_send]
+[clientscript,snapshot_selected_highlight]
+[clientscript,snapshot_update_display]
 [clientscript,snow_flakes_init]
 [clientscript,snowflakes_zoom]
 [clientscript,soul_wars_game_hud_init]
@@ -3002,6 +3174,7 @@
 [clientscript,speedrunning_stats_update]
 [clientscript,spinmodel]
 [clientscript,spinner]
+[clientscript,spirittree_start]
 [clientscript,splitpm_changed]
 [clientscript,stake_tooltip]
 [clientscript,start_slideshow]
@@ -3017,6 +3190,7 @@
 [clientscript,stat_group_tooltips]
 [clientscript,stats_init]
 [clientscript,stats_init_tooltip]
+[clientscript,stats_mouseoff]
 [clientscript,stats_mouseover]
 [clientscript,stats_op]
 [clientscript,stats_scrollbar_setup]
@@ -3041,7 +3215,9 @@
 [clientscript,stock_offerprice_minus]
 [clientscript,stock_offerprice_plus]
 [clientscript,stock_v2_stone_button_filled]
+[clientscript,stockcollect_oninvtransmit]
 [clientscript,stockcollect_onload]
+[clientscript,stockcollect_onstocktransmit]
 [clientscript,stockmarket_choosebuy]
 [clientscript,stockmarket_choosecancel]
 [clientscript,stockmarket_offerbutton]
@@ -3094,6 +3270,8 @@
 [clientscript,tackle_box_side_init]
 [clientscript,tackle_box_swapitem]
 [clientscript,tackle_box_swapsideitem]
+[clientscript,tanning_cost]
+[clientscript,tanning_open]
 [clientscript,target_skull]
 [clientscript,target_system_hideop]
 [clientscript,target_system_init]
@@ -3233,8 +3411,16 @@
 [clientscript,toplevel_subchange]
 [clientscript,toplevel_timer]
 [clientscript,toplevel_vartransmit]
+[clientscript,topstat_hitpoints_button_mouseleave]
+[clientscript,topstat_hitpoints_button_mouseover]
+[clientscript,topstat_hitpoints_update]
+[clientscript,topstat_prayer_button_mouseleave]
+[clientscript,topstat_prayer_button_mouseover]
+[clientscript,topstat_prayer_button_op]
 [clientscript,topstat_prayer_button_update]
+[clientscript,topstat_prayer_custom]
 [clientscript,topstat_run_button_init]
+[clientscript,topstat_run_button_mouseleave]
 [clientscript,topstat_run_button_mouseover]
 [clientscript,topstat_run_button_op]
 [clientscript,topstat_run_button_update]
@@ -3259,6 +3445,8 @@
 [clientscript,trade_main_drawitems]
 [clientscript,trade_main_init]
 [clientscript,trade_partner_set]
+[clientscript,trade_pricechecker_init]
+[clientscript,trade_pricechecker_setup]
 [clientscript,trade_slot_changed]
 [clientscript,trade_slot_flasher]
 [clientscript,trail_puzzle_click]
@@ -3275,8 +3463,10 @@
 [clientscript,trawler_activity_update]
 [clientscript,trawler_cancel_confirmation]
 [clientscript,trawler_overlay_init]
+[clientscript,trawler_reward_setup]
 [clientscript,trawler_start_setgraphic]
 [clientscript,trawler_start_toggle]
+[clientscript,trawler_time_left]
 [clientscript,trawler_water]
 [clientscript,trawler_water_init]
 [clientscript,trawler_water_level]
@@ -3310,6 +3500,9 @@
 [clientscript,tutorial_progress_bar]
 [clientscript,tutorial_progressbar_init]
 [clientscript,tutorial_progressbar_set]
+[clientscript,tzhaar_fightcave_init]
+[clientscript,tzhaar_fightcave_op]
+[clientscript,tzhaar_fightcave_slide]
 [clientscript,tzhaar_fightpit_foesremaining]
 [clientscript,tzhaar_fightpit_init]
 [clientscript,update_diary_entry]
@@ -3318,6 +3511,7 @@
 [clientscript,v2_stone_button]
 [clientscript,v2_stone_button_change_in]
 [clientscript,v2_stone_button_change_out]
+[clientscript,v2_stone_button_deltooltip]
 [clientscript,v2_stone_button_filled]
 [clientscript,v2_stone_button_filled_deltooltip]
 [clientscript,v2_stone_button_filled_free]
@@ -3381,6 +3575,8 @@
 [clientscript,wom_tab_init]
 [clientscript,wom_telescope_borders]
 [clientscript,wom_telescope_init]
+[clientscript,worldmap_choosemap]
+[clientscript,worldmap_flashelementcategory]
 [clientscript,worldmap_hovertoggle]
 [clientscript,worldmap_init]
 [clientscript,worldmap_key_toggle]
@@ -3399,10 +3595,12 @@
 [clientscript,worldmap_search_input]
 [clientscript,worldmap_search_off]
 [clientscript,worldmap_search_start]
+[clientscript,worldmap_showmenu]
 [clientscript,worldmap_size_handler]
 [clientscript,worldmap_toggleoverview]
 [clientscript,worldmap_toggles_op]
 [clientscript,worldmap_toggles_vartransmit]
+[clientscript,worldmap_tooltip_key]
 [clientscript,worldmap_transmitdata]
 [clientscript,worldmap_vartransmit]
 [clientscript,worldmap_window_drag_end]
@@ -3413,12 +3611,20 @@
 [clientscript,worldswitcher_draw]
 [clientscript,worldswitcher_init]
 [clientscript,worldswitcher_loading]
+[clientscript,worldswitcher_mouseleave]
+[clientscript,worldswitcher_mouserepeat]
+[clientscript,worldswitcher_refresh]
 [clientscript,worldswitcher_sortbutton_op]
 [clientscript,wornitems_deadman_sigils_drawbutton]
 [clientscript,wornitems_deadman_sigils_init]
+[clientscript,wornitems_slot]
 [clientscript,xbows_bolts]
+[clientscript,xbows_bolts_update]
 [clientscript,xbows_init]
 [clientscript,xbows_level]
+[clientscript,xbows_pouch_num]
+[clientscript,xbows_rune_update]
+[clientscript,xbows_setfont]
 [clientscript,xmas18_cow_init]
 [clientscript,xmas18_cowparts]
 [clientscript,xmas18_rotate_cow]
@@ -3555,6 +3761,7 @@
 [proc,agilityarena_rewards_setgracefulbutton]
 [proc,aide_map_marker]
 [proc,aide_map_tutors]
+[proc,ame_reward_createbutton]
 [proc,ancient_autocast_spellpos]
 [proc,antidrag_toggle]
 [proc,arceuus_autocast_spellpos]
@@ -3565,6 +3772,7 @@
 [proc,arceuus_teletab_placeingredient]
 [proc,arceuus_teletab_redraw]
 [proc,area_task_complete]
+[proc,arrow_pos]
 [proc,arrow_set]
 [proc,arrow_update]
 [proc,assist_set_icon]
@@ -3668,6 +3876,7 @@
 [proc,boardgames_runeversi_options_update_rune]
 [proc,boardgames_runeversi_options_update_selections]
 [proc,boardgames_runeversi_options_update_time]
+[proc,boardgames_status_output]
 [proc,bolt_pouch_create_entry]
 [proc,bolt_pouch_extra_ammo_draw]
 [proc,bolt_pouch_return_id]
@@ -3737,6 +3946,7 @@
 [proc,burgh_highlight_1]
 [proc,burgh_highlight_2]
 [proc,button_setup]
+[proc,buyprice]
 [proc,ca_boss_disable_search]
 [proc,ca_boss_draw_tabs_all]
 [proc,ca_boss_enable_search]
@@ -3811,8 +4021,12 @@
 [proc,chatbox_mobile_rearrange]
 [proc,chatbox_multi_addoption]
 [proc,chatbox_open]
+[proc,chatbox_resize]
+[proc,chatbox_resize_reset]
+[proc,chatbox_resize_window]
 [proc,chatchannel_current_build]
 [proc,chatchannel_setup_build]
+[proc,chatdefault_openmeslayer]
 [proc,chatdefault_opt_item]
 [proc,chatdefault_restoreinput]
 [proc,chatdefault_setonkey]
@@ -3930,6 +4144,7 @@
 [proc,clanwars_setup_corner_update]
 [proc,clanwars_setup_createbox]
 [proc,clanwars_setup_scrollbox_drawframe]
+[proc,clanwars_setup_side_gfx_icon]
 [proc,clanwars_setup_smallbox_updatetext]
 [proc,clanwars_setup_togglebox_update]
 [proc,clanwars_updateside]
@@ -3997,6 +4212,9 @@
 [proc,combat_interface_setbuttons]
 [proc,combat_interface_sp_redraw]
 [proc,combat_interface_sp_updatebar]
+[proc,combat_side_button]
+[proc,combat_side_comlevel]
+[proc,combat_side_title]
 [proc,combination_lock_getvar]
 [proc,combination_lock_initbutton_close]
 [proc,combination_lock_initbutton_confirm]
@@ -4038,12 +4256,19 @@
 [proc,cr_ui_rebuild_window]
 [proc,cr_ui_size_handler]
 [proc,cr_utility_module_v1_init]
+[proc,create_check_email]
+[proc,create_check_username]
+[proc,create_complete]
+[proc,create_exit]
 [proc,create_graphic]
+[proc,create_setup]
 [proc,create_v2_stone_button_filled_free]
 [proc,create_v2_stone_button_filled_free_icon]
 [proc,cuisine_check_inv]
 [proc,current_date_time]
 [proc,current_side_if]
+[proc,curse_get_stat]
+[proc,cursors_login]
 [proc,cutscene_overlay_clamp]
 [proc,cutscene_overlay_resize]
 [proc,cws_cc_getvar]
@@ -4173,6 +4398,12 @@
 [proc,eventscroll_closebutton_init]
 [proc,examine_item]
 [proc,examine_price_info]
+[proc,fade2_flash_generic]
+[proc,fade2_generic]
+[proc,fade2_in]
+[proc,fade2_in_slow]
+[proc,fade2_out]
+[proc,fade2_out_slow]
 [proc,fade_component]
 [proc,fade_component_increment]
 [proc,fade_overlay]
@@ -4198,12 +4429,15 @@
 [proc,fishing_spot_indicator_setup]
 [proc,fishing_spot_indicator_tile_setup]
 [proc,fishing_spot_indicator_tools_check]
+[proc,flashside_arrow]
 [proc,forget_set_switch]
 [proc,fossil_driftnet_store_update]
 [proc,fossil_fade_overlay_increment]
 [proc,fossil_storage_build]
 [proc,fossil_storage_get]
 [proc,fossil_volcanic_shop_points]
+[proc,friend_deltooltip]
+[proc,friend_tooltip]
 [proc,friend_update]
 [proc,friends_appearance]
 [proc,friends_sortbutton_draw]
@@ -4243,6 +4477,8 @@
 [proc,getclanicon]
 [proc,getsidehidden]
 [proc,getsideicon]
+[proc,getsidelayer]
+[proc,getstonelayer]
 [proc,giants_foundry_hud_rescale]
 [proc,giants_foundry_hud_update_pointers]
 [proc,giants_foundry_mould_is_unlocked]
@@ -4285,6 +4521,19 @@
 [proc,godwars_hideshow]
 [proc,godwars_killcount]
 [proc,graphic_device]
+[proc,graphics_options_decision]
+[proc,graphics_options_detailget]
+[proc,graphics_options_detailset]
+[proc,graphics_options_init]
+[proc,graphics_options_message]
+[proc,graphics_options_opencountdown]
+[proc,graphics_options_rebuild]
+[proc,graphics_options_resolutions]
+[proc,graphics_options_reviewoptions]
+[proc,graphics_options_startcountdown]
+[proc,graphics_options_titlebox]
+[proc,graphics_options_toolkitbutton]
+[proc,graphics_options_windowmodebutton]
 [proc,gravestone_generic_parsecoffer]
 [proc,gravestone_generic_parsefee]
 [proc,gravestone_generic_resetbutton]
@@ -4298,6 +4547,7 @@
 [proc,gravestone_retrieval_unlockstatus]
 [proc,gravestone_shop_createbutton]
 [proc,gravestone_shop_model]
+[proc,gravestone_stop_timer]
 [proc,ground_items_build]
 [proc,ground_items_clear_vector]
 [proc,ground_items_custom_highlight]
@@ -4434,6 +4684,7 @@
 [proc,inventory_antidrag_active]
 [proc,inventory_build]
 [proc,inventory_drawitem]
+[proc,inventory_setcursor]
 [proc,inventory_setophelds]
 [proc,inzone]
 [proc,ironman_miscellaneous_redraw]
@@ -4540,6 +4791,7 @@
 [proc,levelup_charity_update]
 [proc,light_puzzle_button_setup]
 [proc,light_puzzle_update]
+[proc,lightning_update]
 [proc,loading_icon_draw]
 [proc,loading_icon_init]
 [proc,loadnpc_cluehelper_bard_overlay]
@@ -4556,6 +4808,7 @@
 [proc,local_notification]
 [proc,loginscreen_bgsoundvol]
 [proc,loginscreen_brightness]
+[proc,loginscreen_initialisecamera]
 [proc,loginscreen_load]
 [proc,loginscreen_musicvol]
 [proc,loginscreen_setactivemenu]
@@ -4581,6 +4834,7 @@
 [proc,lumbridge_alchemy_vartransmit]
 [proc,macro_beekeeper_setcomponent]
 [proc,macro_beekeeper_update]
+[proc,macro_combilock_update]
 [proc,macro_mime_emotes_buttontext]
 [proc,macro_mime_emotes_drawbutton]
 [proc,macro_pinball_score]
@@ -4604,6 +4858,7 @@
 [proc,magic_training_highlight_selected]
 [proc,magic_training_rewards]
 [proc,magic_updateicon]
+[proc,makeover_colour]
 [proc,makeover_create_dropdown]
 [proc,makeover_draw_colours]
 [proc,makeover_draw_content]
@@ -4613,6 +4868,7 @@
 [proc,makeover_draw_select_button]
 [proc,makeover_drawmodels]
 [proc,makeover_feet_add_option]
+[proc,makeover_gender]
 [proc,makeover_indicator]
 [proc,makeover_size_check]
 [proc,makeover_unlockedcolour]
@@ -4649,6 +4905,8 @@
 [proc,meslayer_mode1_enabled]
 [proc,meslayer_mode6]
 [proc,meslayer_open]
+[proc,meslayer_setupdynamicbutton]
+[proc,meslayer_setupinput]
 [proc,meslayer_skillmulti]
 [proc,mesoverlay_draw]
 [proc,min]
@@ -4657,6 +4915,11 @@
 [proc,minmax]
 [proc,mirror_interface_button_draw]
 [proc,misc_collection_draw]
+[proc,mob_formation_click]
+[proc,mob_highlight_start]
+[proc,mob_highlight_stop]
+[proc,mob_locator_resource_setup]
+[proc,mob_show_hide]
 [proc,mobile_billing_open]
 [proc,mobile_chatbox_resize]
 [proc,mobile_mainmodal_open]
@@ -4688,6 +4951,12 @@
 [proc,nightmare_totem_hud_update]
 [proc,nightmare_totem_hud_update_bar]
 [proc,nosavegame_world]
+[proc,notes_build]
+[proc,notes_click]
+[proc,notes_convert_colour]
+[proc,notes_get_colour]
+[proc,notes_get_note]
+[proc,notes_update]
 [proc,notification_init]
 [proc,notification_positioning]
 [proc,notifications_lootdrop_redraw]
@@ -4710,6 +4979,7 @@
 [proc,nzone_rewards_tabs]
 [proc,nzone_rewards_updatepotion]
 [proc,nzone_rewards_upgrades]
+[proc,obj_warning]
 [proc,objdialog_close]
 [proc,objdialog_doscrollbar]
 [proc,objdialog_dosearch]
@@ -4772,9 +5042,11 @@
 [proc,options_minimaporbs]
 [proc,options_mouse]
 [proc,options_mousecam]
+[proc,options_pm]
 [proc,options_poh]
 [proc,options_prayertooltips]
 [proc,options_roofs]
+[proc,options_run]
 [proc,options_runmode]
 [proc,options_satooltips]
 [proc,options_setfps]
@@ -4834,6 +5106,9 @@
 [proc,pet_insurance_pot_value_draw]
 [proc,pickaxe_checker]
 [proc,pillory_button_reset]
+[proc,player_kit_scroll]
+[proc,player_kit_select]
+[proc,player_prefix_check]
 [proc,playermember]
 [proc,pm_filtertest]
 [proc,poh_add_room_costupdate]
@@ -4901,17 +5176,25 @@
 [proc,popout_tooltip_hook_cc_clear]
 [proc,popout_tooltip_hook_if]
 [proc,popout_tooltip_hook_if_clear]
+[proc,prayer_client_getvar]
 [proc,prayer_gettooltiptext]
 [proc,prayer_infobutton]
+[proc,prayer_init_buttons]
 [proc,prayer_isavailable]
 [proc,prayer_isavailable_req]
 [proc,prayer_level]
 [proc,prayer_levelupdate]
+[proc,prayer_load_buttons]
+[proc,prayer_load_customise]
+[proc,prayer_load_glow]
+[proc,prayer_members_check]
 [proc,prayer_overrides]
 [proc,prayer_passfilter]
 [proc,prayer_quicksort]
 [proc,prayer_redraw]
+[proc,prayer_refresh_scrollbar]
 [proc,prayer_setupbutton]
+[proc,prayer_temp_glow]
 [proc,prayer_tooltips]
 [proc,prayer_updatebutton]
 [proc,private_event_world]
@@ -5071,6 +5354,7 @@
 [proc,raids_storage_side_private_drawitem]
 [proc,raids_storage_side_setup]
 [proc,raids_storage_side_warning]
+[proc,rankenum]
 [proc,rebuild_makeover_feet]
 [proc,rebuildchatbox]
 [proc,rebuildpmbox]
@@ -5351,6 +5635,7 @@
 [proc,side_journal_switchtab]
 [proc,side_journal_tab_highlight]
 [proc,side_journal_tab_highlight_reset]
+[proc,sidebook_build]
 [proc,sideinit_comp_close]
 [proc,silver_crafting_jewellery_draw]
 [proc,silver_crafting_jewellery_setup]
@@ -5401,6 +5686,7 @@
 [proc,skillmulti_quantitybutton_x_receive]
 [proc,skillmulti_quantitybuttons_set]
 [proc,skillmulti_wipebutton]
+[proc,skilltotal]
 [proc,slayer_rewards_etcetera_draw]
 [proc,slayer_rewards_setpoints]
 [proc,slayer_rewards_tab]
@@ -5414,7 +5700,10 @@
 [proc,small_button_pressed]
 [proc,smithing_item]
 [proc,smithing_setup]
+[proc,snapshot_hide_help]
+[proc,snapshot_highlight_button]
 [proc,snapshot_rules_write]
+[proc,snapshot_selected_highlight]
 [proc,snapshot_toggle]
 [proc,snowflakes_zoom]
 [proc,soul_wars_game_hud_update]
@@ -5446,6 +5735,8 @@
 [proc,speedrunning_trophy_check]
 [proc,speedrunning_trophy_update]
 [proc,speedrunning_world]
+[proc,spirittree_data]
+[proc,spirittree_entry]
 [proc,standard_autocast_spellpos]
 [proc,start_slideshow]
 [proc,stat_boosts_hud_debug_mes]
@@ -5505,6 +5796,7 @@
 [proc,tackle_box_setitem]
 [proc,tackle_box_setsideitem]
 [proc,tackle_box_side_draw]
+[proc,tanning_cost]
 [proc,target_system_redraw]
 [proc,target_world]
 [proc,telenexus_get_slot]
@@ -5617,7 +5909,10 @@
 [proc,toplevel_sidebutton_switch]
 [proc,toplevel_sidebuttons_enable]
 [proc,toplevel_subchange]
+[proc,topstat_button_mouseleave]
+[proc,topstat_button_mouseover]
 [proc,topstat_calculate_percent]
+[proc,topstat_hitpoints_update]
 [proc,topstat_prayer_button_update]
 [proc,topstat_run_button_update]
 [proc,topstat_run_text_update]
@@ -5638,6 +5933,7 @@
 [proc,trade_confirm_redraw]
 [proc,trade_main_drawitems]
 [proc,trade_partner_check]
+[proc,trade_pricechecker_setup]
 [proc,trade_tooltip]
 [proc,trail_rewardscreen_draw]
 [proc,trail_slidepuzzle_getint]
@@ -5679,6 +5975,7 @@
 [proc,tutorial_progressbar_set]
 [proc,update_diary_entry]
 [proc,update_diary_entry_grey]
+[proc,updatemodel]
 [proc,v2_stone_button]
 [proc,v2_stone_button_change_in]
 [proc,v2_stone_button_change_out]
@@ -5740,11 +6037,14 @@
 [proc,wom_telescope_borders]
 [proc,world_x_pvp]
 [proc,worldmap_applyzoom]
+[proc,worldmap_arrow_update]
+[proc,worldmap_arrowkey]
 [proc,worldmap_createline]
 [proc,worldmap_createtitle]
 [proc,worldmap_element_tooltip]
 [proc,worldmap_elements_chooseposition]
 [proc,worldmap_elements_marker]
+[proc,worldmap_elements_textbox]
 [proc,worldmap_elements_update]
 [proc,worldmap_findcoordinmap]
 [proc,worldmap_hidegraphic]
@@ -5759,17 +6059,21 @@
 [proc,worldmap_overview_toggle]
 [proc,worldmap_quicksort_alphabetical]
 [proc,worldmap_quicksort_category]
+[proc,worldmap_quicksort_menu]
 [proc,worldmap_search_off]
 [proc,worldmap_search_setalignment]
 [proc,worldmap_search_update]
 [proc,worldmap_setupgraphic]
 [proc,worldmap_setuptext]
 [proc,worldmap_setzoom]
+[proc,worldmap_showmenu]
 [proc,worldmap_showoverview]
 [proc,worldmap_size_handler]
 [proc,worldmap_toggles_createbutton]
 [proc,worldmap_toggles_enablebutton]
 [proc,worldmap_toggles_set]
+[proc,worldmap_tooltip]
+[proc,worldmap_tooltip_element]
 [proc,worldmap_tooltip_override]
 [proc,worldmap_window_set]
 [proc,worldmap_zoom_adjust]
@@ -5777,9 +6081,13 @@
 [proc,worldmap_zoombutton_draw]
 [proc,worldswitcher_draw]
 [proc,worldswitcher_entry_draw]
+[proc,worldswitcher_init]
+[proc,worldswitcher_refresh]
 [proc,worldswitcher_sortbutton_draw]
 [proc,worldswitcher_wipe_favourite]
 [proc,wornitems_deadman_sigils_drawbutton]
+[proc,xbows_bolts_update]
+[proc,xbows_rune_update]
 [proc,xp_drops_tooltip_desktop]
 [proc,xp_drops_tooltip_mobile]
 [proc,xp_drops_tooltip_setup]
@@ -5908,6 +6216,8 @@ a_2
 ability_helm
 ability_missiles
 ability_ring
+abort
+abort_layer
 abox
 accept
 accept1
@@ -5918,14 +6228,22 @@ accept5
 accept_button
 accept_layer
 accept_text
+account_name
 achey
 acorn
 activity_title
 adamantite
+add_button
 add_inv_layer
+add_tooltip
+add_tooltip_bounding_box
 adventure
 adventurepath_placeholder
 advice
+advisor_database
+advisor_tutorial_chat
+advisor_tutorial_side
+advisorbutton
 agility
 agility_button
 agilityarena_overlay
@@ -5951,6 +6269,7 @@ alchemical hydra
 all
 alls fairy in love n war
 alone
+already_title
 altar ego
 altar_ego
 alternative root
@@ -5959,11 +6278,15 @@ ambience3
 ambience4
 ambient jungle
 ambush
+ame_costumes
+ame_rewards
 amik
 amlodd
 amulet_title
+ancestral wisdom
 ancient prison
 ancient_cavern
+ancient_cavern_staticelements
 anger1
 anger10
 anger2
@@ -5998,15 +6321,18 @@ arboretum
 arceuus_sigil
 ardougne ago
 ardougne_underground
+ardougne_underground_staticelements
 area
 area_task
 arena
 arena_layer
 aries
 arma gonna get you
+armadyl
 armadyl alliance
 armadyl_total
 armageddon
+arms_tab
 army of darkness
 arrival
 arrow
@@ -6021,10 +6347,13 @@ arrow_4
 arrow_5
 arrow_6
 arrow_down
+arrow_graphic
+arrow_gravestone
 arrow_left
 arrow_middle
 arrow_right
 arrow_up
+arrowbutton
 arrowkeys
 arrows
 arrows_points
@@ -6033,6 +6362,7 @@ artistry
 ascent
 asgarnia
 asgarnia_ice_dungeon
+asgarnia_ice_dungeon_staticelements
 asgarnian
 assault and battery
 assign_layer
@@ -6050,8 +6380,15 @@ attack4
 attack5
 attack6
 attack_button
+attack_icon
+attack_label
+attack_layer
+attack_op1
+attack_radio
+attack_txt
 attention
 auto_icon
+auto_text
 automatic_wizard
 autumn in bridgelum
 autumn voyage
@@ -6088,15 +6425,23 @@ b_8
 b_9
 back
 back to life
+back_button
+back_container
 back_layer
+back_text
 backbase1
 backbase2
 backbutton
 backdrop
 background
 background_1
+background_2
+background_border
 background_layer
+background_mid
+background_op
 background_scroll
+background_top
 backhmid1
 backhmid2
 backleft1
@@ -6113,50 +6458,31 @@ ballad of enchantment
 ballad of the basilisk
 bamboo
 bandit camp
+bandos
 bandos battalion
 bandos_total
 bane of summer
-bank_buttons,0
-bank_buttons,1
-bank_buttons,10
-bank_buttons,11
-bank_buttons,12
-bank_buttons,13
-bank_buttons,14
-bank_buttons,15
-bank_buttons,16
-bank_buttons,17
-bank_buttons,2
-bank_buttons,3
-bank_buttons,4
-bank_buttons,5
-bank_buttons,6
-bank_buttons,7
-bank_buttons,8
-bank_buttons,9
+bank
+bank_bag
 bank_cert_button
 bank_cert_icon
 bank_counter
 bank_deposit_box
 bank_deposit_imp
+bank_inv_button
+bank_inv_icon
 bank_layer
-bank_slot,0
-bank_slot,1
-bank_slot,2
-bank_slot,3
 bank_sort_button
 bank_sort_icon
 bank_space
-bank_tabs,0
-bank_tabs,1
-bank_tabs,2
-bank_tabs,3
-bank_tabs,4
+bank_text
 bank_v2_help
 bank_v2_main
 bank_v2_side
+bankpin
 bankpin_a
 bankpin_b
+bankpin_button
 bankpin_c
 bankpin_d
 bankpin_e
@@ -6166,7 +6492,10 @@ bankpin_h
 bankpin_i
 bankpin_j
 bankpin_main
+bankpin_model
 bankpin_settings
+bankpin_text
+banktext
 banner
 banner_anti_virus
 banner_chatheads
@@ -6202,6 +6531,13 @@ bark
 barking mad
 baroque
 barren_land
+barricade_cost
+barricade_down
+barricade_layer
+barricade_left
+barricade_num
+barricade_right
+barricade_up
 barrows_ahrim
 barrows_control_layer
 barrows_dharok
@@ -6213,22 +6549,30 @@ barrows_puzzle_layer
 barrows_torag
 barrows_verac
 base
+base_layer
 bash
 battlefront
 bbox
+beard_tab
 beehive
+beehives
+bees_layer
 beetle juice
 beneath_the_stronghold
 beyond
 bg
 bg_1
 bg_16
+bg_layer
+bg_rect
 big chords
 bish bash bosh
 bittersweet bunny
 black
 black of knight
+black_rect
 blackmark
+blackout
 blackout_rect
 blank
 blast_furnace_bar_stock
@@ -6247,6 +6591,7 @@ blue_count
 blue_score
 blue_shield
 board
+board_1
 board_back
 boardgames_challenge
 boardgames_challenge_close
@@ -6257,6 +6602,7 @@ boardgames_draughts_overlay
 boardgames_draughts_view
 boardgames_options
 boardgames_rank_column
+boardgames_rank_overlay
 boardgames_runelink
 boardgames_runelink_options
 boardgames_runelink_overlay
@@ -6270,16 +6616,22 @@ boardgames_runeversi_options
 boardgames_runeversi_overlay
 boardgames_runeversi_view
 boardgames_title
+boardgames_view
 boat
+bob_label
+bob_layer
 bob_locator
 bob_locator_amulet
 bob_locator_mouth
+bob_op1
+bob_radio
 bobdump
 bobs on holiday
 body
 body parts
 body_builder
 body_fade
+body_pts
 body_talisman
 body_text
 bodyslot
@@ -6287,30 +6639,47 @@ boil
 bolrie's diary
 bolts
 bolts_points
+bomber_contest
 bone dance
 bone dry
 book
 book of spells
 books
+boothpreview
 border
 border_1
+border_3
+border_bottom
+border_bottom_left
+border_bottom_right
 border_l
+border_layer
+border_left
 border_lower
 border_r
+border_right
 border_side_bottom
 border_side_left
 border_side_right
 border_side_top
 border_top
+border_top_left
+border_top_right
 borderland
+borders
 bordertop
 bottom
+bottom_1
+bottom_2
 bottom_bar
+bottom_border
 bottom_left
 bottom_left_corner
 bottom_right
+bottom_right_1
 bottom_right_corner
 bottombar
+bounding
 bounding_box
 boundingbox
 bounty
@@ -6324,6 +6693,7 @@ bow
 bow0
 bow1
 bow2
+bow_layer
 box
 box1
 box10
@@ -6357,6 +6727,7 @@ brain_cat_overlay
 brain_gas_overlay
 brain_water_overlay
 braindeath_island
+braindeath_island_staticelements
 breeze
 brew hoo hoo
 brew_game_over
@@ -6379,21 +6750,33 @@ bronze_border,4
 brother_kills
 brown_border
 bubble and squeak
+buckets
 buckets_name
 buckets_remove
 buckets_store
+build_button
 build_layer
+build_text
 building_muscle
 bunny_sugar_rush
 burgh_map
 burning desire
+but we can fight
 button
 button1
+button1_back
 button2
+button2_back
 button3
+button3_back
 button4
+button4_back
 button5
 button6
+button7
+button8
+button9
+button_0
 button_1
 button_10
 button_11
@@ -6491,10 +6874,16 @@ button_94
 button_95
 button_96
 button_97
+button_a
+button_b
 button_back
 button_brown
 button_brown_big
 button_brown_small
+button_c
+button_filter
+button_layer
+button_light
 button_next
 button_red
 button_text
@@ -6503,9 +6892,14 @@ buttons
 buy
 buy_arrows
 buy_bolts
+buy_button
+buy_button_text
+buy_graphic
 buy_ring
 buy_runes
 buy_tab
+buy_text
+buy_title
 buy_xp
 buylayer
 c
@@ -6518,15 +6912,30 @@ c5
 c6
 c7
 cabin fever
+call_label
+call_layer
+call_op1
+call_radio
 camdozaal
 camdozaal_vault
 camelot
+camera
+camera_control
 can_background_layer
 can_exit
 can_water
 cancel
 cancel_button
+cancel_button_layer
+cancel_graphics
 cancer
+cannon_cost
+cannon_e
+cannon_layer
+cannon_n
+cannon_num
+cannon_s
+cannon_w
 canoe
 canoe_close
 canoe_close_button
@@ -6595,6 +7004,8 @@ cavernous mythology
 cbox
 cellar song
 centre
+centre_bar
+centre_bar_bottom
 centre_button
 centre_text
 chain of command
@@ -6603,7 +7014,12 @@ challenge_4
 challenge_6
 challenge_8
 chamber
+champions_awarded
+champions_background
+champions_close
+champions_container
 champions_highlight
+champions_rose
 champions_scroll
 champions_scroll_model
 champions_scroll_text
@@ -6611,6 +7027,7 @@ chaos
 chaos_fade
 chaos_talisman
 chaos_tunnels
+chaos_tunnels_staticelements
 chap1
 chap12
 chap13
@@ -6678,6 +7095,9 @@ chat_trade
 chat_trade_graphic
 chat_window
 chatback
+chatbox_resize
+chatbox_resize_arrow
+chatbox_resize_dragger
 chatdefault
 chathead
 chathead_1
@@ -6719,6 +7139,7 @@ city_guardians
 clanjoin
 clanliness
 clanlist
+clanlist_drag
 clanlistscrollbar
 clansetup
 clanwars
@@ -6735,6 +7156,7 @@ claw0
 claw1
 claw2
 claw3
+click
 click_agility
 click_attack
 click_construction
@@ -6768,21 +7190,44 @@ close_button
 close_button_1
 close_layer
 close_txt
+closearrow
 closebutton
+closebutton_1
 coal
 coal_indicator
 coil
 coins
 coins_icon
+colour0
+colour1
+colour2
+colour3
+colour4
+colour5
+colour6
+colour7
+colours
+colours_container
+colours_tooltip
+column_1
+column_2
+column_3
 combat
+combat_field
+combat_help
+combat_layer
 combat_level
 combat_path_banner
 combat_path_icon
 combat_shield
+combat_side
+combat_title
+combat_triangle
 combat_txt
 combatboxes_special_attack
 combatrules
 combination_lock
+command centre
 compass
 compass_1
 compass_ring
@@ -6792,17 +7237,24 @@ competition
 complication
 compositemap
 compositetexture
+compost
 compost_name
 compost_remove
 compost_store
 confirm
+confirm_apply
 confirm_back
 confirm_button
 confirm_close
+confirm_container
 confirm_destroy
+confirm_graphics
+confirm_invest
 confirm_layer
+confirm_layer_container
 confirm_no
 confirm_now
+confirm_play
 confirm_text
 confirm_yes
 confrontation
@@ -6847,6 +7299,10 @@ corridors of power
 cosmic
 cosmic_fade
 cosmic_talisman
+cost_field
+cost_glory
+cost_title
+count
 countdown
 courage
 courage1
@@ -6859,7 +7315,6 @@ courage6
 courage7
 courage8
 courage9
-cow26
 crack
 crafting
 crafting_1
@@ -6880,6 +7335,7 @@ crcs_scoreboard_scroll
 crcs_scoreboard_scrollbar
 crcs_side
 crcs_tightrope
+create_success
 creature cruelty
 creature_kills
 credit
@@ -6893,8 +7349,13 @@ crystal cave
 crystal sword
 cryws
 cure_other
+current_icon
 current_pts
+current_title
 cursed
+custom_confirm
+custom_instructions
+customise
 cws_close
 cws_doomsayer
 cws_toggle_button
@@ -6921,6 +7382,7 @@ cws_warning_28
 cws_warning_29
 cws_warning_3
 cws_warning_30
+cws_warning_33
 cws_warning_4
 cws_warning_5
 cws_warning_6
@@ -6939,6 +7401,7 @@ dagannoth dawn
 damage
 dance of death
 dance of the undead
+dance_layer
 dance_of_the_meilyr
 dangerous
 dangerous logic
@@ -6971,6 +7434,8 @@ deadlands
 death
 death_dice
 death_fade
+deathkeep
+deathkeep_container
 decline
 decline_button
 decline_layer
@@ -6981,13 +7446,31 @@ deep_blue
 defeat_model
 defence
 defence_button
+defence_icon
+defence_txt
+del_border
+del_button
+del_text
+del_tooltip
+delete_arrow
+delete_button
 delrith summoning
+deposit_inv
+deposit_worn
+desc1
+desc2
+desc3
+desc4
+desc5
+desc_field
+desc_title
 desc_txt
 description01
 description02
 description03
 description04
 desert heat
+desert island bear
 desert smoke
 desert voyage
 desert_button
@@ -7003,19 +7486,31 @@ destroy_no
 destroy_title
 destroy_yes
 details
+details_label
 details_layer
+details_op1
+details_radio
 devils_may_care
 diamond
 diamond_1
 diamond_ring
 diango's little helpers
+dibber
 dibber_name
 dibber_remove
 dibber_store
 dies_irae
+difficult_accept
+difficult_list
+difficult_title
 dillo-gence is key
 dimension x
 dismiss_button
+dismiss_button_graphic
+dismiss_label
+dismiss_layer
+dismiss_op1
+dismiss_radio
 distant land
 distillery hilarity
 div0
@@ -7040,13 +7535,19 @@ done dance
 door
 doorways
 dorgeshkaan
+dorgeshkaan_staticelements
 dorgeshun city
 dorgeshun deep
 doubleobjbox
+down
 down and out
 down below
 down to earth
+down_arrow
+drag
 drag_handle
+drag_layer
+dragger
 dragon
 dragon_slayer_qip_clouds
 dragon_slayer_qip_cr_journey
@@ -7080,12 +7581,17 @@ drink_1
 drip
 drop_inv_layer
 drop_shadow
+drop_shadow_2
+dropdown
+dropdown_list
+dropdown_scrollbar
 drunken dwarf
 duel arena
 duel2_challengeoverlay
 duel2_scoreboard
 duel2_select_type
 duel2_side
+duel2_spectator
 duel_acceptlayer
 duel_claim
 duel_close_button
@@ -7104,6 +7610,7 @@ dwarf_rock_cannon
 dwarf_rock_schematics
 dwarf_rock_schematics_control
 dwarven_mines
+dwarven_mines_staticelements
 dynamic_membership_banner
 dynamic_membership_button
 dynasty
@@ -7164,6 +7671,7 @@ emote_dance
 emote_dance_headbang
 emote_dance_spin
 emote_doh
+emote_easter09
 emote_flap
 emote_freeze
 emote_fremmenik_salute
@@ -7181,6 +7689,7 @@ emote_lean
 emote_music
 emote_no
 emote_panic
+emote_point
 emote_rabbit
 emote_scare
 emote_scroll
@@ -7212,6 +7721,9 @@ enter_text
 env
 equip_screen2
 equip_screen_button
+equipscreen
+equipscreen_container
+eruption
 escape
 espionage
 etcetera
@@ -7229,9 +7741,11 @@ exchange_sand_timer
 exchange_sets_side
 exclamation_mark
 exit
+exit_button
 expanse
 expecting
 expedition
+explanation
 exposed
 f
 f0
@@ -7242,6 +7756,7 @@ f4
 f5
 f6
 f7
+face off
 fade
 fade test
 fade2
@@ -7283,15 +7798,23 @@ favourites
 fe fi fo fum
 fear and loathing
 feathers
+feet
+feet_container
 feldip_underground
+female_melee
+female_ranger
+female_wizard
+femalehead
 fence
 fenkenstrain's refrain
 fight of the basilisk
+fight of the dwarves
 fight or flight
 fight_text
 filterbuttons
 filterbuttons_container
 filterbuttons_disable
+final destination
 find my way
 findbox
 findbox_text
@@ -7309,6 +7832,7 @@ firemaking
 firemaking_button
 fires
 first
+fish_tools
 fishing
 fishing_button
 fixed_compass_mask
@@ -7317,6 +7841,7 @@ fixed_map_clickmask_wiki
 fixed_map_mask
 fixed_minimap_cover
 flag
+flax
 fletching
 fletching_1
 fletching_box
@@ -7344,6 +7869,11 @@ forever
 forgettable melody
 forgotten
 forlorn_homestead
+formation_layer
+formation_model
+formation_text
+formation_title
+formations
 forsaken tower
 forthos_dungeon
 fossil_underground
@@ -7358,12 +7888,16 @@ friends_title
 friendslist_font
 fris_jingle_1
 frogland
+front
+front_container
 front_page
+frost fight
 frostbite
 fruits de mer
 ful to the brim
 full1
 full2
+full_border
 fullscreen_interface
 fullscreen_logout_button,0
 fullscreen_logout_button,1
@@ -7388,6 +7922,7 @@ g9
 game intro 1
 game_board
 game_data
+game_name
 game_title
 gameblast_donate
 gameblast_logo
@@ -7450,7 +7985,12 @@ giant dwarf meeting
 giantdwarf_argh
 giants_foundry
 gill bill
+glider_cost
+glider_layer
+glider_num
 glidermap
+glory_points
+glory_value
 gloves_layer
 glyphs
 gnome king
@@ -7463,16 +8003,21 @@ gnomemap
 goad
 goblin game
 goblin village
+godslayer
 godwars
 godwars_overlay
+godwars_staticelements
 gold
 gold_amulet
 gold_bracelet
+gold_layer
 gold_necklace
 gold_ring
 golden touch
 grand
 grand_library
+grand_total
+graphic
 graphic1
 graphic2
 graphic3
@@ -7481,11 +8026,19 @@ graphic5
 graphic6
 graphic7
 graphic8
+graphic_box
+graphic_text
+graphics_confirm
+graphics_confirm_layer
 graphics_options
+gravestone_background
+gravestone_layer
 gravestone_plaque
 gravestone_shop
+gravestone_timer
 greatness
 green
+grey_bg
 grim_instructions
 grim_list
 grim_paper
@@ -7509,6 +8062,7 @@ guild
 gungywater
 guthix
 guthix_1
+h
 h0
 h1
 h2
@@ -7533,9 +8087,15 @@ hammer_scroll
 hammer_scroll_text
 hand
 hand_highlight_layer
+hands
+hands_container
 handslot
 harmony
 harmony2
+hat
+hat_coin
+hat_container
+hat_cost
 hat_layer
 hatch
 haunted mine
@@ -7559,6 +8119,7 @@ heal_other
 healin' feelin'
 health
 health_1
+health_title
 heart and mind
 heart_icon
 heat_needle
@@ -7567,13 +8128,16 @@ heavy0
 heavy1
 heavy2
 heavy3
+heavy_title
 hells bells
 helm
 helm_points
 help_button
 herb
+herb1
 herb1_model
 herb1_text
+herb2
 herb2_model
 herb2_text
 herb3_model
@@ -7604,6 +8168,7 @@ hitmark_blocked
 hitmarks
 hitpoints
 hitpoints_button
+hitpoints_field
 hitsplat
 hloading2
 hoe down
@@ -7616,6 +8181,7 @@ hook_layer
 hook_model
 hook_text
 horizon
+horizontal
 horizontal1
 horizontal2
 horizontal3
@@ -7627,6 +8193,7 @@ horror_metaldoor
 horror_ranging
 horror_water
 hosidius_sigil
+hourglass_layer
 houseoptions
 houseoptions_gfx
 housesofkourend
@@ -7635,8 +8202,11 @@ hunter
 hunter_button
 hurtzstone12
 hypnotized
+i
+i'm counting on you
 iban
 ice
+ice day for penguins
 ice melody
 ice_barrage
 ice_blitz
@@ -7648,11 +8218,54 @@ icon10
 icon11
 icon12
 icon13
+icon14
+icon15
 icon2
+icon20
+icon21
+icon22
+icon23
+icon24
+icon25
+icon26
+icon27
+icon28
+icon29
 icon3
+icon30
+icon31
+icon32
+icon33
+icon34
+icon35
+icon36
+icon37
+icon38
+icon39
 icon4
+icon40
+icon41
+icon42
+icon43
+icon44
+icon45
+icon46
+icon47
+icon48
+icon49
 icon5
+icon50
+icon51
+icon52
+icon53
+icon54
+icon55
+icon56
+icon57
+icon58
+icon59
 icon6
+icon60
 icon7
 icon8
 icon9
@@ -7695,6 +8308,10 @@ if_top
 if_topleft
 if_topright
 ignore2
+ignore_background
+ignore_close_button
+ignore_layer
+ignore_title_txt
 ignorebox
 ignorescroll
 ii_impling_overlay
@@ -7725,10 +8342,13 @@ info_scrollbar
 info_text
 info_title
 info_top
+inner_rectangle
 input
+inputarea
 insect queen
 inspect_timer
 inspiration
+instruction
 into the abyss
 intrepid
 inv
@@ -7745,6 +8365,9 @@ inventory_layer
 inventory_ranging
 inventory_wear
 inventory_wear2
+invest
+invest_explanation
+invest_text
 iowerths_lament
 irit
 iron
@@ -7753,16 +8376,24 @@ island of the trolls
 isle of everywhere
 item
 items
+items_field
+items_layer
+items_rect1
+items_rect2
+items_title
 ithell
 jade
 jade_1
 jaws of the basilisk
 jester minute
+jig_layer
 jollyr
 jormungand defeated jingle
 jormungand fight
+journalname
 joy of the hunt
 judgeofyama
+juggle_layer
 jungle
 jungle bells
 jungle community
@@ -7777,12 +8408,15 @@ jungly1
 jungly2
 jungly3
 kalphite
+kalphite_staticelements
 karamja
 karamja jam
 karamja_underground
+karamja_underground_staticelements
 kebos_underground
 keldagrim
 keldagrim_map
+keldagrim_staticelements
 keldagrim_story1
 keldagrim_titles
 key
@@ -7809,10 +8443,16 @@ key_d
 key_e
 key_f
 key_g
+key_items
+key_scrollbar
+key_text
+key_title
 keyboard_key_left
 keyboard_key_middle
 keyboard_key_right
 keys
+kharidian_nights
+killcount
 killcounts
 kills_layer
 king_letter
@@ -7832,6 +8472,7 @@ la mort
 labels
 labyrinth
 lair
+lair of kang admi
 lair of the basilisk
 lament
 lament of meiyerditch
@@ -7858,6 +8499,7 @@ layer2
 layer3
 layer4
 layer5
+layer6
 layer_1
 layer_10
 layer_11
@@ -7953,12 +8595,16 @@ left6
 left7
 left8
 left9
+left_1
 left_anticlockwise
+left_arrow
 left_bar
 left_base
+left_border
 left_clockwise
 left_east
 left_joint
+left_joint_1
 left_north
 left_side
 left_south
@@ -7971,15 +8617,20 @@ leftarrow_small_highlight
 legend
 legends_mirror
 legion
+legs
+legs_container
+legs_tab
 legslot
 leo
 letter
 letter_icon
 letter_lj
+lhand
 libra
 life's a beach!
 light2
 light_blue
+light_title
 lighthouse
 lightness
 lightning_flash
@@ -8090,8 +8741,13 @@ line_2
 line_3
 line_4
 line_5
+listbox
+listbox_scrollbar
+listbox_text
 little cave of horrors
+living rock
 living_rock_caverns
+living_rock_caverns_staticelements
 lj1
 lj10
 lj100
@@ -8197,6 +8853,7 @@ lj_layer2
 lj_redingote
 lj_title
 load
+loading_mes
 loadingmes
 location
 lock
@@ -8204,7 +8861,9 @@ log_text
 login
 login_button
 login_icons
+login_tick
 loginscreen
+loginscreen_graphics_options
 logo
 logo_deadman_mode
 logo_osrs
@@ -8217,6 +8876,7 @@ logoutbutton
 lonesome
 long ago
 long way home
+long_button
 looking back
 loot_button
 loot_icon,0
@@ -8239,15 +8899,20 @@ lore_icons,3
 lore_icons,4
 lore_icons,5
 lore_icons,6
+lore_icons,7
 lore_magic_button
 lore_name
+lore_nullspell
 lore_pets
+lore_pouch_creation_combined
 lore_pouch_layer
+lore_scroll_layer
 lore_stats_side
 lore_switch,0
 lore_switch,1
 lore_switch,2
 lore_switch,3
+lore_topstat_confirmop
 lost soul
 lost tribe cutscene
 lost_tribe_directions
@@ -8289,6 +8954,7 @@ magic magic magic
 magic_1
 magic_box
 magic_button
+magic_icon
 magic_indicator
 magic_lay
 magic_layer
@@ -8313,10 +8979,15 @@ mahoganyplanks
 maiden ambience
 maiden combat
 main
+main_game_container
 main_inv
 main_layer
+main_scroll
+main_staticelements
 main_stock
 main_stones_bottom
+main_text
+main_title
 main_top
 maindebug
 maingame
@@ -8329,11 +9000,28 @@ major miner
 makeofferbutton
 making waves
 malady
+male_melee
+male_ranger
+male_wizard
+malehead
 map
+map_background
+map_border
+map_compass
+map_details
 map_image
+map_layer
+map_menu
+map_menu_arrow
+map_menu_dropdown
+map_menu_list
+map_menu_scrollbar
+map_out
 map_resize
+map_return
 map_ring
 map_title
+map_waves
 mapback
 mapdots
 mapedge
@@ -8344,6 +9032,7 @@ maple
 mapletree
 mapmarker
 mapmodel
+mapname
 mapring
 mapscene
 marble
@@ -8421,6 +9110,7 @@ message_np3
 message_np4
 message_np5
 message_text
+messages
 messagescroll
 messagescroll1
 messagescroll2
@@ -8443,6 +9133,7 @@ messcroll8
 messcroll9
 mestext
 method of madness
+middle
 middle_anticlockwise
 middle_base
 middle_clockwise
@@ -8455,6 +9146,8 @@ mind
 mind over matter
 mind_fade
 mind_talisman
+mine
+mine_layer
 mined out
 mineral
 mini_bottom
@@ -8467,6 +9160,13 @@ minimap_disable
 mining
 mining_1
 mining_button
+minus
+minus_button
+minus_button1
+minus_button2
+minus_button3
+minus_button4
+minus_button5
 miracle dance
 mirage
 mirror
@@ -8476,18 +9176,77 @@ mirror3
 mirror4
 mirror5
 mirror6
+mirror_layer
 mirror_rotate
 misc
 misc_shipjourney
+misc_title
 miscellania
 miscellania_underground
+miscellania_underground_staticelements
+miscgraphics5,0
+miscgraphics5,1
+miscgraphics5,2
+miscgraphics5,3
+miscgraphics5,4
+miscgraphics5,5
 missile_points
 missiles
 misthalin
 misthalin_underground
+misthalin_underground_staticelements
 mithril
 mithril_defence
 mm_message
+mob_chat
+mob_colour1
+mob_colour2
+mob_colour3
+mob_colour4
+mob_formation
+mob_glory
+mob_invest
+mob_locator
+mob_player_scores
+mob_rank
+mob_reward_shop
+mob_reward_spoils
+mob_score1
+mob_score10
+mob_score2
+mob_score3
+mob_score4
+mob_score5
+mob_score6
+mob_score7
+mob_score8
+mob_score9
+mob_scoreboard
+mob_shop_side
+mob_side_camera
+mob_side_command
+mob_side_forfeit
+mob_side_special
+mob_side_units
+mob_spear
+mob_special_units
+mob_squad1
+mob_squad2
+mob_squad3
+mob_squad4
+mob_squad_buy
+mob_squad_contract
+mob_squad_exchange
+mob_status1
+mob_status2
+mob_status3
+mob_status4
+mob_status_overlay
+mob_tutorial
+mob_tutorial_chat
+mob_tutorial_invest
+mob_waitingroom
+mobile
 mod_icons
 model
 model1
@@ -8500,9 +9259,18 @@ model6
 model7
 model8
 model9
+model_0
+model_1
+model_2
+model_3
+model_4
+model_5
+model_6
+model_layer
 molch
 mole
 mole_mud
+mole_staticelements
 monarch waltz
 monkey badness
 monkey business
@@ -8520,9 +9288,11 @@ moody
 mop1
 mor-ul-rek
 more
+more_bees
 morytania
 morytania_underground
 mosleharmless_cave
+mosleharmless_cave_staticelements
 mossy
 mossybricks
 mossydamage
@@ -8622,39 +9392,12 @@ myq3_frame
 myq3_statue
 myq3_statue_painting
 myths guild
-n25_83
-n26_82
-n29_66
-n39_44
-n39_51
-n40_44
-n40_51
-n41_51
-n42_50
-n42_83
-n43_66
-n45_53
-n45_58
-n46_49
-n46_50
-n47_155
-n47_160
-n48_155
-n49_71
-n50_50
-n50_51
-n50_52
-n50_53
-n51_49
-n51_50
-n53_154
-n53_54
-n54_54
-n56_152
-n59_44
+n
 name
 name_icons
+name_text
 name_turn
+names
 narnode's theme
 natural
 nature
@@ -8673,6 +9416,7 @@ newbie farming
 newbie melody
 newspaper
 next
+next_unit
 night of the vampiyre
 nightfall
 nightmare_combat
@@ -8681,13 +9425,23 @@ no pasaran
 no way out
 no_amulet
 no_bracelet
+no_button
+no_label
 no_necklace
 no_path
 no_ring
+no_text
+noclick
 noexit
 nomad
 normal
+normal_accept
+normal_accept_text
+normal_list
+normal_title
+normal_tools
 norse code
+notes
 notes_a
 notes_c
 notes_e
@@ -8724,13 +9478,19 @@ npcchat4head_1
 npcchat4name
 npcchat4next
 npcchat_np1
+npcchat_np1_overlay
 npcchat_np2
+npcchat_np2_overlay
 npcchat_np3
+npcchat_np3_overlay
 npcchat_np4
+npcchat_np4_overlay
 npcchatlarge
 ntk_overlay
 null
 null and void
+null_staticelements
+nullspell
 num1
 num2
 num3
@@ -8746,8 +9506,12 @@ oak
 oak_buy
 oak_buy_all
 oakplanks
+obj_graphic
+obj_info
+obj_name
 objbox
 objbox_graphic
+objbox_overlay
 objbox_pausebutton
 objbox_text
 objdialog
@@ -8763,6 +9527,8 @@ off10
 off11
 off12
 off13
+off14
+off15
 off2
 off3
 off4
@@ -8771,8 +9537,11 @@ off6
 off7
 off8
 off9
+offer
+offer_title
 offer_type
 offerabort
+offerall_graphic
 offerbutton0
 offerbutton1
 offerbutton2
@@ -8787,16 +9556,22 @@ offercount
 offercount_1
 offercount_10
 offercount_100
+offercount_1k
 offercount_500
+offercount_all
 offercount_minus
+offercount_minus_gfx
 offercount_plus
+offercount_plus_gfx
 offercount_set
 offerlayer
 offerprice
 offerprice_1
 offerprice_market
 offerprice_minus
+offerprice_minus_gfx
 offerprice_plus
+offerprice_plus_gfx
 offerprice_set
 offertooltip
 offertooltip0
@@ -8807,6 +9582,9 @@ offertooltip4
 offertooltip5
 ogre
 ogre the top
+ok_button
+ok_button_layer
+okbutton
 olaf2_lock_gate
 olaf2_skull_puzzle
 olaf2_treasuremap
@@ -8841,6 +9619,7 @@ options_buttons,0
 options_buttons,1
 options_buttons,2
 options_buttons_large
+options_layer
 options_poh_icon
 options_tooltip
 options_txt
@@ -8855,7 +9634,9 @@ optmusic_slider
 optpm
 oriental
 osm_drag_camera
+otherlevel
 ourania
+ourania_staticelements
 out
 out of the deep
 out_0
@@ -8864,7 +9645,9 @@ out_2
 out_3
 out_left
 out_right
+outer_rectangle
 over to nardah
+overall
 overlay_duel
 overlay_multiway
 overlay_multiway_big
@@ -8879,6 +9662,7 @@ page1
 page2
 page3
 page4
+page5
 page_bg
 pagecontrols
 pagecount
@@ -8903,6 +9687,7 @@ peng_emote
 peng_observer_eyes
 peng_plans_jingle
 peng_ship_journey
+penguin possible
 people_bottom
 people_text
 people_top
@@ -8933,6 +9718,7 @@ piano_close
 piano_keys
 piano_open
 pick_and_shovel
+pie_layer
 pillory_close
 pillory_key1
 pillory_key2
@@ -8943,6 +9729,7 @@ pipe_banner
 pipe_button
 pipe_scroll
 pipe_scroll_text
+pipes
 pirates of penance
 pirates of peril
 piscarilius_sigil
@@ -8966,16 +9753,36 @@ planks_banner
 planks_scroll
 planks_scroll_text
 plaque
+play_button
 play_now_text
+play_text
 player_count
 player_inv
+player_kit_feet
+player_kit_hair
+player_kit_jewel
+player_kit_tailor
+player_location
+player_prefix
 playermap_east
+playermodel
+playermodel_background
+playermodel_layer
+players
+plus
+plus_button
+plus_button1
+plus_button2
+plus_button3
+plus_button4
+plus_button5
 pm1
 pm2
 pm3
 pm4
 pm5
 pmchat
+poh_bookcase
 poh_hangman
 poh_hangman_german
 poh_house_options
@@ -8990,6 +9797,7 @@ poh_scrying_pool
 points
 points_icon
 points_left
+points_title
 pointsbox
 pointstext
 pole0
@@ -8997,23 +9805,31 @@ pole1
 pole2
 poles apart
 pollnivneach_well
+pollnivneach_well_staticelements
 pop
 pop_txt
 potions
 potions_indicator
+pouch_label
+pouch_model
 pound
 prayer
 prayer_1
 prayer_button
+prayer_buttons
 prayer_indicator
 prayer_lay
+prayer_level
 prayerglow
 premier_bronze
 premier_comingsoon
 premier_gold
 premier_silver
 premierclub
+previews
 price
+pricechecker
+pricechecker_container
 priestperil_gravemonument
 prif_slayer_dungeon
 prifddinas
@@ -9044,9 +9860,44 @@ pvpw_safe
 pvpw_safe_countdown
 q8_full
 quantity
+quantity_field
+quantity_field2
+quantity_title
 quest
+quest_field
+quest_help
+quest_icon
+quest_icon,0
+quest_icon,1
+quest_icon,10
+quest_icon,11
+quest_icon,12
+quest_icon,13
+quest_icon,14
+quest_icon,15
+quest_icon,16
+quest_icon,17
+quest_icon,18
+quest_icon,19
+quest_icon,2
+quest_icon,20
+quest_icon,21
+quest_icon,22
+quest_icon,23
+quest_icon,24
+quest_icon,25
+quest_icon,3
+quest_icon,4
+quest_icon,5
+quest_icon,6
+quest_icon,7
+quest_icon,8
+quest_icon,9
+quest_intro
 questjournal_scroll
 questjournal_v2
+questlist_tr
+quests
 quickchat
 quickchat_locked
 quickchat_menu
@@ -9066,6 +9917,8 @@ quickchat_tutorial
 quill_caps_large
 quill_oblique_large
 quit
+quiver
+quiver_container
 r1
 r10
 r11
@@ -9097,10 +9950,31 @@ rabbit_layer
 rabbit_overlay
 rabbit_points
 rabbit_shop
+race_1
+race_10
+race_2
+race_3
+race_4
+race_5
+race_6
+race_7
+race_8
+race_9
+race_field
+race_title
+radio
+radio1
+radio2
+radio3
+radio4
+radio5
+radio_buttons
 radio_buttons,0
 radio_buttons,1
+radio_filter
 raids_challenge_icon
 railings
+rake
 rake_name
 rake_remove
 rake_store
@@ -9108,12 +9982,15 @@ rangeatt
 ranged
 ranged_1
 ranged_button
+ranged_icon
 ranged_indicator
 ranged_lay
+ranged_txt
 rangedef
 ranger
 rank
 rank_1
+rank_explanation
 rank_txt
 rat a tat tat
 rat hunt
@@ -9129,6 +10006,9 @@ rcguild_rewards
 rcguild_side
 rd_combolock
 ready for battle
+rect
+rect1
+rect2
 red
 red_count
 red_score
@@ -9143,10 +10023,17 @@ reggae2
 regicide_still
 reinitialisation_puzzle
 rellekka
+remaining_players
+remaining_time
 removed
+renew_label
+renew_layer
+renew_op1
+renew_radio
 reportabuse
 reportabuse_graphic
 reset
+reset_graphic
 resign
 resign_box
 resign_layer
@@ -9160,15 +10047,28 @@ resultlist
 resultscrollbar
 revenant slayer cave
 revenants
+reward_explanation
+rewards_field
+rewards_help
+rewards_layer
+rewards_title
+rhand
 rhapsody
 right
 right on track
+right_1
+right_1_buttons
+right_2
 right_anticlockwise
+right_arrow
 right_bar
 right_base
+right_border
 right_clockwise
 right_east
 right_joint
+right_joint_1
+right_joint_2
 right_north
 right_side
 right_south
@@ -9183,6 +10083,7 @@ ring
 ring_30
 ring_34
 ring_40
+ring_container
 ring_points
 ring_title
 ringslot
@@ -9205,11 +10106,13 @@ roof
 roof2
 roof_snow
 roof_snow02
+roomnumber
 roots and flutes
 roots_and_flutes
 rope
 rope_banner
 rope_button
+rope_icon
 rope_scroll
 rope_scroll_text
 rope_text
@@ -9251,6 +10154,11 @@ rule9
 rules
 rum_deal_censor
 rum_deal_title
+run_background
+run_circle
+run_graphic
+run_hide
+run_text
 rune
 rune essence
 runecraft
@@ -9267,21 +10175,27 @@ runes1
 runes2
 runes_points
 runescape_logo
+runesquares_board
 runesquares_inv
+runeversi_board
 runeversi_inv
 runite
+s
 sad meadow
 safety in numbers
 saga
 sagittarius
 sailing journey2
 sailing_transport_world_map
+sand
 sandstorm
+sandtimer
 sandwich_tray
 sapphire
 sapphire_1
 sapphire_ring
 sarachnis_lair
+saradomin
 saradomin_flag
 saradomin_score
 saradomin_total
@@ -9310,10 +10224,15 @@ scape santa
 scape scared
 scape soft
 scape summon
+scape theme
 scape wild
 scape_ape
 scarab
 scarabaeoidea
+scarecrow
+scarecrow_name
+scarecrow_remove
+scarecrow_store
 schools out
 score
 score1
@@ -9379,6 +10298,9 @@ scroll_close
 scroll_godfather
 scroll_icon
 scroll_icons
+scroll_label
+scroll_layer
+scroll_layer_item
 scroll_left
 scroll_myq3
 scroll_right
@@ -9386,6 +10308,7 @@ scroll_top,0
 scroll_top,1
 scrollarea
 scrollbar
+scrollbar_buttons
 scrollbar_layer
 scrollbar_left
 scrollbar_right
@@ -9398,18 +10321,22 @@ sea shanty xmas
 sea shanty2
 sea_minor_shanty
 seal
+search
 search_box,0
 search_box,1
 search_box,2
+search_graphic
 searchtext
 seaslug sailing journey
 seaslug_boat_travel
+secateurs
 secateurs_name
 secateurs_remove
 secateurs_store
 second vision
 security_icons,0
 security_icons,1
+security_icons,2
 seed
 seeds
 seer_combolock
@@ -9418,8 +10345,14 @@ seerb
 seerc
 seerd
 seerenter
+select_arrow
+select_button
+select_player
+selected
+selected_name
 selllayer
 selllayer_deal
+sep
 serenade
 serene
 settlement
@@ -9439,6 +10372,7 @@ shadow_5
 shadow_barrage
 shadow_blitz
 shadow_burst
+shadow_pts
 shadow_rush
 shadowland
 shadows bouncer jingle
@@ -9448,6 +10382,7 @@ shayzien crypt
 shayzien_march
 shayzien_sigil
 shayzienforces
+shield
 shield1
 shield2
 shield3
@@ -9470,6 +10405,7 @@ shop_template
 shop_template_side
 shop_title
 shoptitle
+short_button
 showdown
 shroud_barrage
 shroud_blitz
@@ -9482,6 +10418,8 @@ side10
 side11
 side12
 side13
+side14
+side15
 side2
 side3
 side4
@@ -9490,6 +10428,8 @@ side6
 side7
 side8
 side9
+side94
+side95
 side99
 side_background
 side_background_bottom
@@ -9501,9 +10441,11 @@ side_border
 side_disable
 side_hide
 side_layer
+sidebook
 sideicons
 sideicons_logout
 sidemodal
+sidemodal2
 sigmunds showdown
 silence
 silver
@@ -9517,11 +10459,13 @@ sire
 size
 size_icon
 skill_cookmany
+skill_guide
 skill_guide_v2
 skill_multi1
 skill_multi1_small
 skill_multi6
 skilltotal
+skip_layer
 skull
 skull_left
 skull_right
@@ -9555,6 +10499,7 @@ slayer56
 slayer57
 slayer_button
 slayer_cave
+slayer_cave_staticelements
 slayer_ring
 slayer_staff_spells
 slepe dungeon
@@ -9564,6 +10509,11 @@ slice of station
 slider_bobble
 slither and thither
 slot
+slot1
+slot2
+slot3
+slot4
+slot_worn
 slug a bug ball
 small_button
 small_button_blue
@@ -9588,7 +10538,9 @@ smoke_blitz
 smoke_burst
 smoke_rush
 smokeoverlay
+snack attack
 snapshot_main
+snapshot_main_v2
 snow
 sojourn
 something fishy
@@ -9601,18 +10553,21 @@ sops_plaque_5
 sops_plaque_6
 sops_plaque_7
 sops_plaque_8
+sops_staticelements
 sops_title
 sort_button
 sort_button_image
 sort_layer
 sort_text
 sos
+sos_staticelements
 sotetseg ambience
 sotetseg combat
 soul
 soul wars
 soul_fade
 soul_wars_tutorial
+soul_wars_tutorial_staticelements
 soulbane_angerbar
 soulbane_cut
 soulbane_darkness
@@ -9627,6 +10582,12 @@ spade
 spade_name
 spade_remove
 spade_store
+special_desc
+special_title
+specials
+spell_label
+spell_layer
+spell_radio
 sphinx
 spirit
 spirits of elid
@@ -9639,6 +10600,17 @@ spooky2
 spookyjungle
 spy games
 spymaster
+squad1
+squad10
+squad2
+squad3
+squad4
+squad5
+squad6
+squad7
+squad8
+squad9
+squad_model
 stab0
 stab1
 stab2
@@ -9680,6 +10652,7 @@ stat_slayer
 stat_smithing
 stat_strength
 stat_summoning
+stat_text_layer
 stat_thieving
 stat_woodcutting
 statbase_agility
@@ -9720,11 +10693,15 @@ staticons2_off,7
 staticons2_off,8
 staticons2_off,9
 stats
+stats_layer
 statue
 status
 status1
 status2
 status3
+status4
+status_field
+status_title
 statusicons
 stealing creation
 steel
@@ -9743,6 +10720,8 @@ stone10
 stone11
 stone12
 stone13
+stone14
+stone15
 stone2
 stone3
 stone4
@@ -9751,7 +10730,24 @@ stone6
 stone7
 stone8
 stone9
+stone_highlight
 stone_tiles
+stonehighlight0
+stonehighlight1
+stonehighlight10
+stonehighlight11
+stonehighlight12
+stonehighlight13
+stonehighlight14
+stonehighlight15
+stonehighlight2
+stonehighlight3
+stonehighlight4
+stonehighlight5
+stonehighlight6
+stonehighlight7
+stonehighlight8
+stonehighlight9
 stones_off
 stones_on
 stop
@@ -9764,7 +10760,29 @@ stratosphere
 strength
 strength of saradomin
 strength_button
+strength_icon
+strength_txt
 striking_a_pose
+string1
+string10
+string11
+string12
+string13
+string14
+string15
+string16
+string17
+string18
+string19
+string2
+string20
+string3
+string4
+string5
+string6
+string7
+string8
+string9
 stronghold_underground
 stuck in the mire
 subsection_title
@@ -9806,6 +10824,7 @@ tab_front
 tacks
 tale of keldagrim
 talismans
+talk_layer
 talking forest
 tanner
 tanning_a
@@ -9816,19 +10835,23 @@ tanning_e
 tanning_f
 tanning_g
 tanning_h
+tape
 target
 target_icon
 target_layer
 target_name
+target_title
 target_tooltip
 taurus
 taverley
 taverley_dungeon
+taverley_dungeon_staticelements
 taverley_underground
 teak
 teak_buy
 teak_buy_all
 teakplanks
+team
 tears of guthix
 technology
 tele_fish
@@ -9947,6 +10970,7 @@ text_dlq
 text_dlr
 text_dls
 text_game
+text_game_setting
 text_layer
 text_private
 text_private_setting
@@ -9963,6 +10987,7 @@ the angels fury
 the art of hocus-pocus
 the cellar dwellers
 the chosen
+the chosen commander
 the columbarium
 the dance of the snow queen
 the dark fragment
@@ -9972,10 +10997,12 @@ the desolate isle
 the enchanter
 the enclave
 the evil within
+the fallen hero
 the far side
 the galleon
 the genie
 the golem
+the heist
 the last shanty
 the longramble scramble
 the lost melody
@@ -9988,7 +11015,9 @@ the monsters below
 the navigator
 the noble rodent
 the other side
+the pengmersible
 the phoenix
+the plundered tomb
 the power of tears
 the quizmaster
 the rogues den
@@ -10001,12 +11030,14 @@ the sound of guthix
 the terrible caverns
 the terrible tower
 the terrible tunnels
+the throne of bandos
 the tower
 the trade parade
 the vacant abyss
 the waiting game
 the wrong path
 the_abyss
+the_duke
 the_tower_of_voices
 theme
 thieving
@@ -10022,11 +11053,16 @@ time to mine
 time_bar
 time_icon
 time_left
+time_left_title
 time_remaining
 time_text
+time_title
 time_txt
 timelimit
 timer_top
+timerbar
+timerbar_container
+timerbar_layer
 tip_text
 tips
 tiptoe
@@ -10036,16 +11072,26 @@ title.jpg
 title_1
 title_2
 title_3
+title_4
+title_angle
 title_bar
+title_border
+title_killcount
 title_layer
+title_main
 title_mute
+title_players
+title_spec
+title_team
 title_text
+title_time
 title_txt
 titlebg
 titlebox
 titlebutton
 titlebutton_large
 titlebutton_wide
+titlelayer
 titlescroll
 titlewide.jpg
 titlewide.png
@@ -10070,12 +11116,17 @@ tol_pipe_machine
 tol_plus
 tol_pressure_machine
 tolna
+tolna_staticelements
 tomb raider
 tomorrow
 too many cooks
 tool_1
 tool_2
 tool_3
+tool_instructions_1
+tool_instructions_2
+tool_instructions_3
+tool_tip
 tooltip
 tooltip0
 tooltip1
@@ -10086,42 +11137,48 @@ tooltip5
 tooltip_area
 tooltip_bound
 tooltip_bounding_box
+tooltip_bounds
 tooltip_box
 tooltip_build
 tooltip_input
 tooltip_layer
 tooltip_target
+tooltip_text
+tooltip_trigger
 tooltiplayer
 tooltips
 top
+top_1
+top_2
 top_bar
+top_bg
+top_joint_1
 top_left
 top_left_corner
+top_outline
 top_right
 top_right_corner
+top_title
 toplevel
 toplevel_full
 toplevel_fullscreen
-topstat_fill,0
-topstat_fill,1
-topstat_fill,2
-topstat_fill,3
-topstat_fill,4
 topstat_hitpoints
-topstat_icon,0
-topstat_icon,1
-topstat_icon,2
-topstat_icon,3
+topstat_hitpoints_layer
 topstat_lore
 topstat_prayer
 topstat_run
+topstat_run_glow
+torso
+torso_container
+torso_layer
+torso_tab
+total
 total_blackness
 total_text
 totalvalue
 tournament
-trade_tracker,0
-trade_tracker,1
-trade_tracker,2
+trade_pricechecker
+trade_pricechecker_side
 tradeback
 tradebacking
 tradebacking_beige
@@ -10179,8 +11236,11 @@ trawler_overlay
 trawler_reward
 trawler_start
 tree spirits
+trees aren't your friends
 treestump
 trek_follower_inv
+trek_follower_inv_layer
+trek_follower_text_layer
 trek_loading_screen
 tremble
 tribal
@@ -10197,10 +11257,12 @@ tribalenter2
 trinity
 troll_shuffle
 troll_stronghold
+troll_stronghold_staticelements
 trouble brewing
 troubled
 troubled spirit
 troubled_waters
+trowel
 trowel_name
 trowel_remove
 trowel_store
@@ -10212,6 +11274,9 @@ tut2_a
 tut2_b
 tut2_c
 tut2_d
+tut2_e
+tut2_f
+tut2_layer
 tut2_title
 tutorial
 tutorial2_death
@@ -10220,11 +11285,15 @@ tutorial2_objbox
 tutorial2_switch_task
 tutorial2_text
 tutorial3_1
+tutorial3_1_staticelements
 tutorial3_2
+tutorial3_2_staticelements
 tutorial3_3
+tutorial3_3_staticelements
 tutorial_2
 tutorial_font
 tutorial_font_big
+tutorial_layer
 tutorial_minimap
 tutorial_mouse,0
 tutorial_mouse,1
@@ -10234,6 +11303,8 @@ tutorial_text2
 twilight
 tzhaar
 tzhaar_area
+tzhaar_area_staticelements
+tzhaar_fightcave
 tzhaar_fightpit
 tzhaar_fightpit_orb
 tzhaar_numbers
@@ -10244,15 +11315,56 @@ u14
 undead army
 undead dungeon
 undead_dungeon
+undead_dungeon_staticelements
 under the sand
 undercurrent
 underground
 underline
 understanding
+unit1
+unit10
+unit10_hand
+unit1_button
+unit1_cross
+unit1_hand
+unit2
+unit2_button
+unit2_cross
+unit2_hand
+unit3
+unit3_button
+unit3_cross
+unit3_hand
+unit4
+unit4_button
+unit4_cross
+unit4_hand
+unit5
+unit5_button
+unit5_cross
+unit5_hand
+unit6
+unit6_button
+unit6_cross
+unit6_hand
+unit7
+unit7_button
+unit7_cross
+unit7_hand
+unit8
+unit8_button
+unit8_cross
+unit8_hand
+unit9
+unit9_button
+unit9_cross
+unit9_hand
 units
 unknown land
+unlock
 unlock_counter
 untouchable
+up_arrow
 upass
 upcoming
 upgrade_membership_button
@@ -10261,14 +11373,6 @@ upir likhyi
 upper
 upper_depths
 username
-v2_small_button,0
-v2_small_button,1
-v2_small_button,2
-v2_small_button,3
-v2_small_button,4
-v2_small_button,5
-v2_small_button,6
-v2_small_button,7
 vanescula
 vanstrom
 varrock
@@ -10287,6 +11391,7 @@ verdana_13pt_bold
 verdana_13pt_regular
 verdana_15pt_regular
 version.dat
+vertical
 vertical1
 vertical2
 verzik ambience
@@ -10301,8 +11406,10 @@ vision
 vline
 vm_digsite
 vm_kudos
+vm_map_basement
 vm_map_bridge
 vm_map_close
+vm_map_digsite
 vm_map_leech
 vm_map_lizard
 vm_map_mole
@@ -10319,6 +11426,8 @@ voodoo cult
 voyage
 vs
 vyre_chat_multi3
+w
+waiting for battle
 waiting for the hunt
 waking dream
 wall
@@ -10337,6 +11446,7 @@ warn
 warn1
 warn2
 warn3
+warning
 warpath
 warped_library
 warrens
@@ -10363,11 +11473,14 @@ water_title
 water_wave
 water_window
 waterbirth
+waterbirth_staticelements
 waterfall
+wateringcan
 wateringcan_name
 wateringcan_remove
 wateringcan_store
 waterlogged
+wavenumber
 way of the enchanter
 way of the wyrm
 wayward
@@ -10380,6 +11493,7 @@ wear
 wearprayer
 wearstrength
 web
+weight_title
 weiss_town
 welcome_final_tex
 welcome_font_large
@@ -10401,12 +11515,14 @@ whip2
 whistle
 white
 white_wolf_mountain_underground
+white_wolf_mountain_underground_staticelements
 wild isle
 wild side
 wilderness
 wilderness2
 wilderness3
 wilderness_dungeons
+wilderness_dungeons_staticelements
 wilderness_highlight
 wilderness_overlay
 wilderness_warning
@@ -10423,6 +11539,8 @@ windowmode_confirm_text
 windowmode_confirm_yes
 winter funfare
 wintertodt_boss
+wire_box
+wirebox
 witching
 woe of the wyvern
 wolf mountain
@@ -10464,6 +11582,8 @@ worldmap
 worldmap_button
 worldmap_icon
 worldmap_overlay
+worn_background
+worn_layer
 wornitems
 wrath and ruin
 x
@@ -10488,15 +11608,21 @@ xmas_snowflake
 xp
 xxxx
 yanille_dungeon
+yanille_dungeon_staticelements
 yanille_underground
+yellow_rect
 yellow_shield
+yes_button
+yes_text
 yesteryear
 yew
 zalcano_combat
+zamorak
 zamorak zoo
 zamorak_flag
 zamorak_score
 zanaris
+zanaris_staticelements
 zanik's theme
 zaros zeitgeist
 zaros_staff_spells
@@ -10514,3 +11640,7 @@ zogre dance
 zombie dragon
 zombie invasion
 zombiism
+zoom_in_button
+zoom_layer
+zoom_level
+zoom_out_button

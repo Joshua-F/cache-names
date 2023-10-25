@@ -23,6 +23,8 @@ fun main() {
             "l${x}_$y".add()
             "ul${x}_$y".add()
             "um${x}_$y".add()
+            "n${x}_$y".add()
+            "o${x}_$y".add()
             "e${x}_$y".add()
             "standard_charge_$y,$x".add()
             "standard_shield_$y,$x".add()
@@ -254,9 +256,20 @@ fun main() {
         "$x".add()
         " $x".add()
         "qj$x".add()
+        "cursors,$x".add()
+        "achievement_tabs,$x".add()
+        "bank_buttons,$x".add()
+        "bank_slot,$x".add()
+        "bank_tabs,$x".add()
+        "bg_stone$x".add()
+        "topstat_icon,$x".add()
+        "topstat_fill,$x".add()
+        "trade_tracker,$x".add()
+        "v2_small_button,$x".add()
+        "text$x".add()
     }
 
-    for (x in 0..500) {
+    for (x in 0..550) {
         "com_$x".add()
     }
 
