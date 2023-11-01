@@ -2992,6 +2992,7 @@
 [clientscript,steelbox_background]
 [clientscript,stoneborder]
 [clientscript,stonebox]
+[clientscript,stonebutton_init]
 [clientscript,stonebutton_url]
 [clientscript,stonebutton_url_click]
 [clientscript,stonebutton_url_clickrelease]
