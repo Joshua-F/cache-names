@@ -22,6 +22,7 @@ fun main() {
             "m${x}_$y".add()
             "l${x}_$y".add()
             "e${x}_$y".add()
+            "wm${x}_$y".add()
             "standard_charge_$y,$x".add()
             "standard_shield_$y,$x".add()
             "standard_health_$y,$x".add()
@@ -29,6 +30,7 @@ fun main() {
             "standard_prayer_$y,$x".add()
             "standard_poison_$y,$x".add()
         }
+        "wa$x".add()
         "emotes,$x".add()
         "emotes_locked,$x".add()
         "tabs,$x".add()
