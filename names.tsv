@@ -15902,6 +15902,7 @@
 12	400	-1	-1329425335	[clientscript,fairyrings_confirm_expire]
 12	401	-1	561613522	[clientscript,fairyrings_sort_mouseeffect]
 12	402	-1	1271926697	[clientscript,fairyrings_sort_update]
+12	403	-1	618158193	
 12	404	-1	-1186448324	[clientscript,raids_storage_private_init]
 12	405	-1	556022092	[clientscript,slayer_rewards_init]
 12	406	-1	565786782	[clientscript,slayer_rewards_tabs]
@@ -17638,7 +17639,6 @@
 12	2171	-1	-1079275252	
 12	2172	-1	1003161311	
 12	2173	-1	774485215	
-12	2174	-1	-1000553281	[proc,tournament_beta_world]
 12	2175	-1	39394239	[proc,nosavegame_world]
 12	2176	-1	495142073	[clientscript,logout_layout_update]
 12	2177	-1	94871120	
