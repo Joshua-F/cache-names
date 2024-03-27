@@ -22,6 +22,8 @@ fun main() {
             "m${x}_$y".add()
             "l${x}_$y".add()
             "e${x}_$y".add()
+            "t${x}_$y".add()
+            "w${x}_$y".add()
             "wm${x}_$y".add()
             "standard_charge_$y,$x".add()
             "standard_shield_$y,$x".add()
