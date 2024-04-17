@@ -257,6 +257,7 @@ fun main() {
 
     knownNames.remove("l16_186")
     knownNames.remove("l193_196")
+    knownNames.remove("w139_131")
 
     val knownNamesMap = knownNames.associateBy { it.hashCode() }
 

@@ -17917,7 +17917,7 @@
 8	3030	-1	-1434457008	icon_tragedy
 8	3031	-1	-153523563	icon_tools
 8	3032	-1	-464263107	icon_tools2
-8	3033	-1	-1005353968	w139_131
+8	3033	-1	-1005353968	icon_arrows
 8	3034	-1	-706361066	icon_balance
 8	3035	-1	-992554842	icon_bandit
 8	3036	-1	-170148119	icon_bones
@@ -23572,7 +23572,7 @@
 12	3074	-1	-318275680	[proc,br_loadout_get_inv]
 12	3075	-1	-1263655627	[proc,br_loadout_get_worn]
 12	3076	-1	-879388140	[proc,br_loadout_set_inv]
-12	3077	-1	-1478272703	l16_186
+12	3077	-1	-1478272703	[proc,br_loadout_set_worn]
 12	3078	-1	1304881154	[clientscript,br_tournament_button_init]
 12	3079	-1	2046245081	[clientscript,br_tournament_button_reset]
 12	3080	-1	1331848921	[proc,br_tournament_button_reset]
@@ -25046,7 +25046,7 @@
 12	4548	-1	2073673795	[clientscript,fishing_spot_indicator_vartransmit]
 12	4549	-1	2018980537	[clientscript,fishing_spot_indicator_invtransmit]
 12	4550	-1	833515420	[clientscript,fishing_spot_indicator_stattransmit]
-12	4551	-1	1464802798	l193_196
+12	4551	-1	1464802798	[clientscript,fishing_spot_indicator_mouseleave]
 12	4552	-1	-1196393567	[clientscript,fishing_spot_indicator_mouseover]
 12	4553	-1	609120996	[proc,fishing_spot_indicator_create]
 12	4554	-1	-1624129662	
@@ -27698,9 +27698,9 @@
 19	0	43	1621510993	varlamore_underground
 19	0	44	-511483457	cam_torum
 19	0	45	2005004580	neypotzli
-19	0	46	-1873865702	
-19	0	47	-2138355557	
-19	0	48	1128512314	
+19	0	46	-1873865702	easter24_church
+19	0	47	-2138355557	easter24_crypt
+19	0	48	1128512314	easter24_workshop
 19	1	-1	-236957323	compositemap
 19	1	0	3343801	main
 19	1	1	-1792150032	ancient_cavern
@@ -27748,9 +27748,9 @@
 19	1	43	1621510993	varlamore_underground
 19	1	44	-511483457	cam_torum
 19	1	45	2005004580	neypotzli
-19	1	46	-1873865702	
-19	1	47	-2138355557	
-19	1	48	1128512314	
+19	1	46	-1873865702	easter24_church
+19	1	47	-2138355557	easter24_crypt
+19	1	48	1128512314	easter24_workshop
 19	2	-1	-142160716	compositetexture
 19	2	0	3343801	main
 19	2	1	-1792150032	ancient_cavern
@@ -27798,9 +27798,9 @@
 19	2	43	1621510993	varlamore_underground
 19	2	44	-511483457	cam_torum
 19	2	45	2005004580	neypotzli
-19	2	46	-1873865702	
-19	2	47	-2138355557	
-19	2	48	1128512314	
+19	2	46	-1873865702	easter24_church
+19	2	47	-2138355557	easter24_crypt
+19	2	48	1128512314	easter24_workshop
 19	3	-1	-1921579978	braindeath_island
 19	3	0	-1110417409	labels
 19	4	-1	-1874938755	dorgeshkaan
@@ -27893,9 +27893,9 @@
 19	47	0	-1110417409	labels
 19	48	-1	-511483457	cam_torum
 19	48	0	-1110417409	labels
-19	49	-1	-2138355557	
+19	49	-1	-2138355557	easter24_crypt
 19	49	0	-1110417409	labels
-19	50	-1	-1873865702	
+19	50	-1	-1873865702	easter24_church
 19	50	0	-1110417409	labels
-19	51	-1	1128512314	
+19	51	-1	1128512314	easter24_workshop
 19	51	0	-1110417409	labels
