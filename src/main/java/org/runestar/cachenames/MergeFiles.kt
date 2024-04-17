@@ -19,12 +19,14 @@ fun main() {
 
     for (x in 0..275) {
         for (y in 0..255) {
-            "m${x}_$y".add()
-            "l${x}_$y".add()
-            "e${x}_$y".add()
-            "t${x}_$y".add()
-            "w${x}_$y".add()
-            "wm${x}_$y".add()
+            if (x < 100) {
+                "m${x}_$y".add()
+                "l${x}_$y".add()
+                "e${x}_$y".add()
+                "t${x}_$y".add()
+                "w${x}_$y".add()
+                "wm${x}_$y".add()
+            }
             "standard_charge_$y,$x".add()
             "standard_shield_$y,$x".add()
             "standard_health_$y,$x".add()
@@ -256,8 +258,6 @@ fun main() {
     }
 
     knownNames.remove("l16_186")
-    knownNames.remove("l193_196")
-    knownNames.remove("w139_131")
 
     val knownNamesMap = knownNames.associateBy { it.hashCode() }
 
