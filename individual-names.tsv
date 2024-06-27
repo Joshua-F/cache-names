@@ -3942,7 +3942,6 @@
 [proc,cr_ui_min_width]
 [proc,cr_ui_rebuild_window]
 [proc,cr_ui_size_handler]
-[proc,cr_utility_module_v1_init]
 [proc,create_graphic]
 [proc,create_text]
 [proc,create_v2_stone_button_filled_free]
