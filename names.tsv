@@ -20906,7 +20906,6 @@
 12	227	-1	446208801	[clientscript,steelborder]
 12	228	-1	-1913180895	[proc,steelborder]
 12	229	-1	89788014	[clientscript,cc_graphic_swapper]
-12	230	-1	1277695737	[clientscript,makeover_clothes_setup]
 12	231	-1	-1299963017	[proc,scrollbar_vertical_rebuild]
 12	232	-1	152472829	[clientscript,league_rewards_init]
 12	233	-1	-1437766665	[clientscript,motw_setmodel]
@@ -21175,9 +21174,6 @@
 12	496	-1	1177806334	[clientscript,wilderness_lootingbag_draw]
 12	497	-1	463410174	[proc,wilderness_lootingbag_draw]
 12	498	-1	-1900448994	[clientscript,killdeathratio_init]
-12	499	-1	-1258679027	[proc,makeover_drawmodels]
-12	500	-1	-1321543984	[clientscript,makeover_indicator]
-12	501	-1	-1011612464	[proc,makeover_indicator]
 12	502	-1	-1366040801	
 12	503	-1	1165909321	[proc,league_rewards_draw]
 12	504	-1	-2052996309	[clientscript,bankmain_switchtab]
@@ -23841,8 +23837,6 @@
 12	3162	-1	1840081982	[clientscript,league_icon_flash]
 12	3163	-1	955982588	[clientscript,league_flash_timer]
 12	3164	-1	-1893856663	[proc,league_flashicon]
-12	3165	-1	-1535796175	[proc,rebuild_makeover_feet]
-12	3166	-1	1668716220	
 12	3167	-1	1402404413	[clientscript,gim_options_init]
 12	3168	-1	-228934550	[proc,gim_options_setsize]
 12	3169	-1	336870798	[proc,buff_bar_buff_create_tooltip]
@@ -24277,9 +24271,6 @@
 12	3598	-1	-1556559300	[clientscript,teletab_confirm_reset]
 12	3599	-1	1897082589	[proc,skillmain_init]
 12	3600	-1	470255216	[clientscript,bees_mouserepeat]
-12	3601	-1	-1831088578	[clientscript,build_makeover_feet]
-12	3602	-1	1289624434	[clientscript,makeover_feet_select]
-12	3603	-1	446833403	[proc,makeover_feet_add_option]
 12	3604	-1	-2000587621	[clientscript,100guide_flour_init]
 12	3605	-1	-924949421	[clientscript,100guide_flour_drawitems]
 12	3606	-1	-1153625517	[proc,100guide_flour_drawitems]
@@ -24423,12 +24414,6 @@
 12	3744	-1	1624248401	[proc,bankside_bag_draw]
 12	3745	-1	-870703109	[proc,meslayer_mode1_enabled]
 12	3746	-1	-723079894	
-12	3747	-1	2053497193	
-12	3748	-1	1066377449	
-12	3749	-1	-1554428183	
-12	3750	-1	-1073852973	
-12	3751	-1	19024191	
-12	3752	-1	-994026689	
 12	3753	-1	-40317168	
 12	3754	-1	1519147362	
 12	3755	-1	-985928862	
@@ -25836,6 +25821,11 @@
 12	5157	-1	-1484849173	
 12	5158	-1	-1484491681	
 12	5159	-1	-1348793858	
+12	5160	-1	-38607362	
+12	5161	-1	-710051842	
+12	5162	-1	-845964979	
+12	5163	-1	1124227169	
+12	5164	-1	709860288	
 12	5165	-1	-601603005	
 12	5166	-1	516773443	
 12	5167	-1	-1414911385	[clientscript,helper_agility_highlight_course]
@@ -25894,7 +25884,9 @@
 12	5220	-1	111382488	[proc,tob_partylist_fillline]
 12	5221	-1	212625369	[clientscript,summary_sidepanel_timer_draw]
 12	5222	-1	1951951557	[proc,entity_highlight_active_loc_linked_tree]
+12	5223	-1	872573521	
 12	5224	-1	-2057401864	[clientscript,pvp_icons_comlevelrange]
+12	5225	-1	686241100	[proc,makeovermage_gender]
 12	5226	-1	1876541569	
 12	5227	-1	160722276	
 12	5228	-1	-136157167	[clientscript,deadman_sigils_init]
@@ -26413,6 +26405,7 @@
 12	5741	-1	229760798	
 12	5742	-1	-1768666225	
 12	5743	-1	-1380591980	
+12	5744	-1	-1954843039	
 12	5745	-1	-181553872	[clientscript,league_3_fragments_init]
 12	5746	-1	-1272808894	[proc,league_3_fragments_draw_interface]
 12	5747	-1	-179726646	[clientscript,league_3_fragment_loadout_background]
@@ -26534,6 +26527,8 @@
 12	5863	-1	-2121071507	
 12	5864	-1	869559790	
 12	5865	-1	-441320460	
+12	5866	-1	1330350177	
+12	5867	-1	1284948469	
 12	5868	-1	-67256715	[proc,speedrunning_misc_unlocks]
 12	5869	-1	-1543943022	
 12	5870	-1	-968614738	
@@ -26653,6 +26648,8 @@
 12	5984	-1	1774945860	
 12	5985	-1	-1646314828	
 12	5986	-1	-384876865	
+12	5987	-1	61043816	
+12	5988	-1	931625324	
 12	5989	-1	-1083477655	[proc,quest_requirement_check]
 12	5990	-1	-143021309	
 12	5991	-1	-956204826	[proc,quest_requirement_check_quest]
@@ -26710,6 +26707,7 @@
 12	6043	-1	-150619367	
 12	6044	-1	967757081	
 12	6045	-1	-1804026746	
+12	6046	-1	485085269	
 12	6048	-1	1334414626	
 12	6049	-1	-252460815	
 12	6050	-1	859455857	[proc,health_regen_values]
@@ -27289,8 +27287,6 @@
 12	6642	-1	925019732	[proc,cluehelper_infobox_draw_content_anagram]
 12	6643	-1	66198807	[proc,cluehelper_infobox_draw_content_cryptic]
 12	6644	-1	-431809981	[proc,cluehelper_infobox_draw_content_map]
-12	6645	-1	303441859	[proc,cluehelper_get_clue_type]
-12	6646	-1	302854192	[proc,cluehelper_get_clue_text]
 12	6647	-1	-960977879	[proc,cluehelper_get_target_description]
 12	6648	-1	126133068	[proc,cluehelper_get_target_description_short]
 12	6649	-1	-2099078589	

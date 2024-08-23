@@ -4489,6 +4489,7 @@
 [proc,makeover_size_check]
 [proc,makeover_unlockedcolour]
 [proc,makeovermage_colour_update]
+[proc,makeovermage_gender]
 [proc,max]
 [proc,max_int]
 [proc,membership_benefits_button_draw]
