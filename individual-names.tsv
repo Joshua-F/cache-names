@@ -5065,7 +5065,6 @@
 [proc,settings_hitsplat_tinting]
 [proc,settings_init]
 [proc,settings_input_setting_set_transmit]
-[proc,settings_int_date]
 [proc,settings_interface_scaling]
 [proc,settings_logout_notifier]
 [proc,settings_loot_drop_notification]
