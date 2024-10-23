@@ -21325,8 +21325,13 @@
 12	516	-1	1849480739	[proc,bank_tabforslot]
 12	517	-1	-1943325052	
 12	518	-1	191650008	
+12	519	-1	-356901405	
+12	520	-1	2044605188	
+12	521	-1	-2118898274	
 12	522	-1	1961865260	
 12	523	-1	1290420780	
+12	524	-1	-2098904658	
+12	525	-1	1186288558	
 12	526	-1	-235616460	[clientscript,tooltip_mouserepeat]
 12	527	-1	-1692818323	[proc,settings_colour_input_update]
 12	528	-1	512645079	[proc,settings_buff_corruption]
@@ -21488,7 +21493,7 @@
 12	684	-1	1532518672	[clientscript,bankpin_button_mouseover]
 12	685	-1	-1488202864	[clientscript,bankpin_button_op]
 12	686	-1	-1845622372	[clientscript,bankpin_otherbutton]
-12	687	-1	383292453	[clientscript,ironman_init]
+12	687	-1	1186974168	
 12	688	-1	-2025797687	[clientscript,trail_slidepuzzle_init]
 12	689	-1	1921364436	[clientscript,trail_slidepuzzle_synch]
 12	690	-1	-2103884844	[proc,trail_slidepuzzle_synch]
@@ -22092,7 +22097,6 @@
 12	1288	-1	-1437124205	[proc,glidermap_hideshow]
 12	1289	-1	-1382314347	[clientscript,glidermap_fly]
 12	1290	-1	-1013079915	[proc,glidermap_fly]
-12	1291	-1	-205770471	
 12	1292	-1	1253911906	[clientscript,br_loadout_init]
 12	1293	-1	1420552114	[clientscript,br_loadout_menuop]
 12	1294	-1	1431745560	[clientscript,br_loadout_menureset]
@@ -22895,9 +22899,7 @@
 12	2091	-1	-1283572006	[clientscript,xpdrops_fake]
 12	2092	-1	483313228	[clientscript,oculus_flashers]
 12	2093	-1	1145742596	
-12	2094	-1	-1869415605	[proc,ironman_modebutton_init]
-12	2095	-1	717191620	[clientscript,ironman_modebutton_redraw]
-12	2096	-1	-2076800060	[proc,ironman_modebutton_redraw]
+12	2094	-1	-51251240	
 12	2097	-1	-617299466	[clientscript,autocast_setup]
 12	2098	-1	-2055933962	[proc,autocast_setup]
 12	2099	-1	1785176873	[clientscript,hp_hud_init]
@@ -22916,14 +22918,6 @@
 12	2112	-1	-1865603571	[clientscript,storage_main_update]
 12	2113	-1	-2065492013	
 12	2114	-1	-16680433	
-12	2115	-1	-855850470	[clientscript,ironman_modebutton_op]
-12	2116	-1	-2096553316	
-12	2117	-1	1566478549	
-12	2118	-1	-1312808235	
-12	2119	-1	-157546069	
-12	2120	-1	962853069	[clientscript,ironman_miscellaneous_redraw]
-12	2121	-1	1622910669	[proc,ironman_miscellaneous_redraw]
-12	2122	-1	-1933287429	
 12	2123	-1	990747438	
 12	2124	-1	-546145264	
 12	2125	-1	1889171421	
@@ -25949,9 +25943,6 @@
 12	5145	-1	-558680126	
 12	5146	-1	-871814306	
 12	5147	-1	619632990	
-12	5148	-1	-210388076	
-12	5149	-1	-209464555	
-12	5150	-1	-206693992	
 12	5151	-1	-1958871857	
 12	5152	-1	531700666	
 12	5153	-1	1326321359	
@@ -26046,10 +26037,6 @@
 12	5242	-1	-1255253892	
 12	5243	-1	2021313536	[proc,ca_task_is_disabled]
 12	5244	-1	-1093176875	[clientscript,ca_tasks_draw_list_timer]
-12	5245	-1	831253876	[clientscript,ironman_tabs_init]
-12	5246	-1	-727725996	[clientscript,ironman_tabs_transmit]
-12	5247	-1	69227336	[proc,ironman_tabs_create]
-12	5248	-1	830792	[clientscript,ironman_tabs_select]
 12	5249	-1	-1714951981	[clientscript,gim_leaving_init]
 12	5250	-1	-1425089886	[clientscript,gim_buttons_click]
 12	5251	-1	-1783094951	[proc,gim_leave_text]
@@ -28201,6 +28188,14 @@
 12	7397	-1	664309224	
 12	7398	-1	-881141137	
 12	7399	-1	-1916801937	
+12	7400	-1	-1841076892	
+12	7401	-1	-425396380	
+12	7402	-1	-310446508	
+12	7403	-1	247575381	
+12	7404	-1	-152152368	
+12	7405	-1	388411687	
+12	7406	-1	248043714	
+12	7407	-1	1749019330	
 13	494	-1	-342013218	p11_full
 13	495	-1	-313384067	p12_full
 13	496	-1	1057075019	b12_full
